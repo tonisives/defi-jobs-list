@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-01-25
+**Last updated:** 2026-01-26
 
 **Total protocols:** 492
 
@@ -160,8 +160,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Ethena USDe](https://www.app.ethena.fi/join/3y20d) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [Ethena USDtb](https://usdtb.money) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [ether.fi Liquid](https://www.ether.fi/app/liquid) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
-| ether.fi Stake | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [ether.fi Stake](https://www.ether.fi/app/weeth) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
+| ether.fi Stake | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Borrowing Market](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Cash Liquid](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [Ethos Markets](https://ethos.markets/) | bamboohr | [https://ethos.bamboohr.com/careers](https://ethos.bamboohr.com/careers) |
