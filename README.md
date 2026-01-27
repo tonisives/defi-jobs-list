@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-01-26
+**Last updated:** 2026-01-27
 
-**Total protocols:** 492
+**Total protocols:** 495
 
 ## Protocols
 
@@ -160,8 +160,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Ethena USDe](https://www.app.ethena.fi/join/3y20d) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [Ethena USDtb](https://usdtb.money) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [ether.fi Liquid](https://www.ether.fi/app/liquid) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
-| [ether.fi Stake](https://www.ether.fi/app/weeth) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | ether.fi Stake | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
+| [ether.fi Stake](https://www.ether.fi/app/weeth) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Borrowing Market](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Cash Liquid](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [Ethos Markets](https://ethos.markets/) | bamboohr | [https://ethos.bamboohr.com/careers](https://ethos.bamboohr.com/careers) |
@@ -214,6 +214,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Hyperliquid Spot Orderbook](https://hyperfoundation.org/) | ashby | [https://jobs.ashbyhq.com/Hyperliquid Labs](https://jobs.ashbyhq.com/Hyperliquid Labs) |
 | [IDEX Classic](https://idex.io/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
 | [IDEX V1](https://idex.io/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
+| [Ignition LST](https://app.ignitionfi.xyz/) | greenhouse | [https://boards.greenhouse.io/ignition](https://boards.greenhouse.io/ignition) |
 | [Immutable zkEVM](https://www.immutable.com/products/immutable-zkevm/) | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
 | [Indigo](https://app.indigoprotocol.io/) | greenhouse | [https://boards.greenhouse.io/indigo](https://boards.greenhouse.io/indigo) |
 | [INERTIA](https://inrt.fi/) | ashby | [https://jobs.ashbyhq.com/inertia](https://jobs.ashbyhq.com/inertia) |
@@ -443,6 +444,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Stargate V2](https://stargate.finance/) | ashby | [https://jobs.ashbyhq.com/stargate-foundation](https://jobs.ashbyhq.com/stargate-foundation) |
 | [Starknet Bridge](https://starkgate.starknet.io) | lever | [https://jobs.lever.co/starknet](https://jobs.lever.co/starknet) |
 | [Stellar DEX](https://developers.stellar.org/docs/learn/encyclopedia/sdex/liquidity-on-stellar-sdex-liquidity-pools#sdex) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
+| [Strata Markets](https://strata.money) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
 | [Strata Season 0](https://strata.money) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
 | [Strata Tranches](https://strata.money) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
 | [Strike Finance Perpetuals](https://www.strikefinance.org/) | greenhouse | [https://boards.greenhouse.io/strike](https://boards.greenhouse.io/strike) |
@@ -465,6 +467,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Titan Aggregator | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | Titan Exchange | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | [Tomo](https://tomo.inc) | ashby | [https://jobs.ashbyhq.com/tomo](https://jobs.ashbyhq.com/tomo) |
+| [Tothemoon](https://tothemoon.com) | bamboohr | [https://tothemoon.bamboohr.com/careers](https://tothemoon.bamboohr.com/careers) |
 | [Treble Spot](https://trebleswap.com) | bamboohr | [https://treble.bamboohr.com/careers](https://treble.bamboohr.com/careers) |
 | Trust Wallet | ashby | [https://jobs.ashbyhq.com/trust-wallet](https://jobs.ashbyhq.com/trust-wallet) |
 | Uniswap | greenhouse | [https://boards.greenhouse.io/uniswaplabs](https://boards.greenhouse.io/uniswaplabs) |
