@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-01-27
+**Last updated:** 2026-01-28
 
-**Total protocols:** 495
+**Total protocols:** 500
 
 ## Protocols
 
@@ -42,7 +42,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Aptos | greenhouse | [https://boards.greenhouse.io/aptoslabs](https://boards.greenhouse.io/aptoslabs) |
 | Aragon | lever | [https://jobs.lever.co/aragon](https://jobs.lever.co/aragon) |
 | [Arbitrum Bridge](https://portal.arbitrum.io/bridge) | lever | [https://jobs.lever.co/offchainlabs](https://jobs.lever.co/offchainlabs) |
-| [Arcadia V2](https://arcadia.finance) | lever | [https://jobs.lever.co/arcadia](https://jobs.lever.co/arcadia) |
+| [Arena DEX](https://arena.social/) | ashby | [https://jobs.ashbyhq.com/arena](https://jobs.ashbyhq.com/arena) |
+| [Arena SocialFi](https://arena.social/) | ashby | [https://jobs.ashbyhq.com/arena](https://jobs.ashbyhq.com/arena) |
 | [Arrakis V2](https://app.arrakis.fi/v2-vaults) | workable | [https://apply.workable.com/arrakis-finance](https://apply.workable.com/arrakis-finance) |
 | [Artemis Finance](https://artemisfinance.io/) | ashby | [https://jobs.ashbyhq.com/artemis](https://jobs.ashbyhq.com/artemis) |
 | [Aster asBNB](https://www.asterdex.com/en/earn) | recruitee | [https://aster.recruitee.com](https://aster.recruitee.com) |
@@ -55,9 +56,9 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [AUTOfinance](https://www.auto.finance) | bamboohr | [https://auto.bamboohr.com/careers](https://auto.bamboohr.com/careers) |
 | [Autopilot](https://theautopilot.xyz/app) | recruitee | [https://autopilot.recruitee.com](https://autopilot.recruitee.com) |
 | [Avalanche Core Bridge](https://core.app/bridge/) | greenhouse | [https://boards.greenhouse.io/avalabs](https://boards.greenhouse.io/avalabs) |
-| [Avant avBTC](https://www.avantprotocol.com) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
-| [Avant avETH](https://app.avantprotocol.com/products) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
-| [Avant avUSD](https://www.avantprotocol.com) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| [Avant avBTC](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| [Avant avETH](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| [Avant avUSD](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Axial](https://www.axial.exchange) | greenhouse | [https://boards.greenhouse.io/axial](https://boards.greenhouse.io/axial) |
 | Axiom | greenhouse | [https://boards.greenhouse.io/axiom](https://boards.greenhouse.io/axiom) |
 | Aztec | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
@@ -85,6 +86,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Bitfinex](https://www.bitfinex.com) | recruitee | [https://bitfinex.recruitee.com](https://bitfinex.recruitee.com) |
 | [Bitget](https://www.bitget.com) | custom | [custom/bitget](custom/bitget) |
 | [Bitmex](https://www.bitmex.com) | greenhouse | [https://boards.greenhouse.io/bitmex](https://boards.greenhouse.io/bitmex) |
+| [Bitstamp](https://www.bitstamp.net) | workable | [https://apply.workable.com/bitstamp](https://apply.workable.com/bitstamp) |
+| [BlackRock BUIDL](https://securitize.io/) | greenhouse | [https://boards.greenhouse.io/securitize](https://boards.greenhouse.io/securitize) |
 | [Blend Money](https://blend.money/) | greenhouse | [https://boards.greenhouse.io/blend](https://boards.greenhouse.io/blend) |
 | [Blend Pools V2](https://www.blend.capital) | greenhouse | [https://boards.greenhouse.io/blend](https://boards.greenhouse.io/blend) |
 | [Block Analitica](https://blockanalitica.substack.com) | greenhouse | [https://boards.greenhouse.io/block](https://boards.greenhouse.io/block) |
@@ -124,11 +127,11 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Consensys Diligence | greenhouse | [https://boards.greenhouse.io/consensys](https://boards.greenhouse.io/consensys) |
 | Cosmos | greenhouse | [https://boards.greenhouse.io/cosmoslabs](https://boards.greenhouse.io/cosmoslabs) |
 | [CoW Protocol](https://cow.fi) | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
-| [Crypto-com](https://crypto.com) | custom | [custom/crypto-com](custom/crypto-com) |
+| [Crypto-com](https://crypto.com) | lever | [https://jobs.lever.co/crypto](https://jobs.lever.co/crypto) |
 | [Curve DEX](https://curve.finance) | custom | [custom/curve-dex](custom/curve-dex) |
 | Dapper Labs | ashby | [https://jobs.ashbyhq.com/dapper](https://jobs.ashbyhq.com/dapper) |
 | Daylight | greenhouse | [https://boards.greenhouse.io/daylight](https://boards.greenhouse.io/daylight) |
-| [Deribit](https://www.deribit.com) | custom | [custom/deribit](custom/deribit) |
+| [Deribit](https://www.deribit.com) | recruitee | [https://deribit.recruitee.com](https://deribit.recruitee.com) |
 | [Derive V1](https://derive.xyz) | bamboohr | [https://derive.bamboohr.com/careers](https://derive.bamboohr.com/careers) |
 | [Derive V2](https://app.derive.xyz?ref=defillama) | bamboohr | [https://derive.bamboohr.com/careers](https://derive.bamboohr.com/careers) |
 | Dfinity | greenhouse | [https://boards.greenhouse.io/dfinity](https://boards.greenhouse.io/dfinity) |
@@ -160,8 +163,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Ethena USDe](https://www.app.ethena.fi/join/3y20d) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [Ethena USDtb](https://usdtb.money) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [ether.fi Liquid](https://www.ether.fi/app/liquid) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
-| ether.fi Stake | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [ether.fi Stake](https://www.ether.fi/app/weeth) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
+| ether.fi Stake | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Borrowing Market](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Cash Liquid](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [Ethos Markets](https://ethos.markets/) | bamboohr | [https://ethos.bamboohr.com/careers](https://ethos.bamboohr.com/careers) |
@@ -248,7 +251,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Kodiak V2](https://app.kodiak.finance) | greenhouse | [https://boards.greenhouse.io/kodiak](https://boards.greenhouse.io/kodiak) |
 | [Kodiak V3](https://app.kodiak.finance) | greenhouse | [https://boards.greenhouse.io/kodiak](https://boards.greenhouse.io/kodiak) |
 | [KongSwap](https://www.kongswap.io/swap) | ashby | [https://jobs.ashbyhq.com/kong](https://jobs.ashbyhq.com/kong) |
-| [Kraken](https://www.kraken.com/) | bamboohr | [https://kraken.bamboohr.com/careers](https://kraken.bamboohr.com/careers) |
+| [Kraken](https://www.kraken.com/) | ashby | [https://jobs.ashbyhq.com/kraken.com](https://jobs.ashbyhq.com/kraken.com) |
 | [KuCoin](https://www.kucoin.com) | custom | [custom/kucoin](custom/kucoin) |
 | Kuru Aggregator | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
 | [Kuru CLOB](https://www.kuru.io/) | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
@@ -323,6 +326,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Nirvana V2](https://www.nirvana.finance/) | ashby | [https://jobs.ashbyhq.com/nirvana](https://jobs.ashbyhq.com/nirvana) |
 | [Noble](https://www.noble.xyz) | greenhouse | [https://boards.greenhouse.io/noble](https://boards.greenhouse.io/noble) |
 | [Noble Points Vault](https://points.noble.xyz/) | greenhouse | [https://boards.greenhouse.io/noble](https://boards.greenhouse.io/noble) |
+| [Nomad](https://nomad.xyz) | bamboohr | [https://nomad.bamboohr.com/careers](https://nomad.bamboohr.com/careers) |
 | [Nucleus](https://www.nucleusearn.io) | bamboohr | [https://nucleus.bamboohr.com/careers](https://nucleus.bamboohr.com/careers) |
 | [Obol](https://obol.org/) | lever | [https://jobs.lever.co/obol-tech](https://jobs.lever.co/obol-tech) |
 | [Octus Bridge](https://octusbridge.io/bridge) | greenhouse | [https://boards.greenhouse.io/octus](https://boards.greenhouse.io/octus) |
@@ -418,6 +422,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Shift Protocol](https://shiftprotocol.xyz/?ref=c534997d-771b-4e83-b1fb-918421c64383) | ashby | [https://jobs.ashbyhq.com/shift](https://jobs.ashbyhq.com/shift) |
 | [Sirius](https://siriustoken.io/) | bamboohr | [https://sirius.bamboohr.com/careers](https://sirius.bamboohr.com/careers) |
 | [SKALE Network Bridge](https://portal.skale.space/bridge) | bamboohr | [https://skale.bamboohr.com/careers](https://skale.bamboohr.com/careers) |
+| [Sky Lending](https://sky.money/) | ashby | [https://jobs.ashbyhq.com/skyecosystem](https://jobs.ashbyhq.com/skyecosystem) |
 | Sky Mavis | ashby | [https://jobs.ashbyhq.com/skymavis](https://jobs.ashbyhq.com/skymavis) |
 | Slingshot | recruitee | [https://slingshot.recruitee.com](https://slingshot.recruitee.com) |
 | Snapshot | bamboohr | [https://snapshot.bamboohr.com/careers](https://snapshot.bamboohr.com/careers) |
