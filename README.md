@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-01-28
+**Last updated:** 2026-01-29
 
-**Total protocols:** 500
+**Total protocols:** 507
 
 ## Protocols
 
@@ -223,8 +223,10 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [INERTIA](https://inrt.fi/) | ashby | [https://jobs.ashbyhq.com/inertia](https://jobs.ashbyhq.com/inertia) |
 | [Infinite Trading Protocol](https://www.infinitetrading.io/) | ashby | [https://jobs.ashbyhq.com/infinite](https://jobs.ashbyhq.com/infinite) |
 | [Injective Bridge](https://injective.com) | ashby | [https://jobs.ashbyhq.com/injective-labs](https://jobs.ashbyhq.com/injective-labs) |
+| [InSwap](https://app.inswap.ai/) | bamboohr | [https://in.bamboohr.com/careers](https://in.bamboohr.com/careers) |
 | [Integral](https://integral.link/) | bamboohr | [https://integral.bamboohr.com/careers](https://integral.bamboohr.com/careers) |
 | [Jasper Vault](https://www.jaspervault.io/) | greenhouse | [https://boards.greenhouse.io/jasper](https://boards.greenhouse.io/jasper) |
+| [JetSwap](https://jetswap.finance) | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
 | [Jigsaw](https://app.jigsaw.finance/) | ashby | [https://jobs.ashbyhq.com/jigsaw](https://jobs.ashbyhq.com/jigsaw) |
 | [Jiko](https://app.beraji.com/) | bamboohr | [https://jiko.bamboohr.com/careers](https://jiko.bamboohr.com/careers) |
 | Jito | lever | [https://jobs.lever.co/jito](https://jobs.lever.co/jito) |
@@ -252,6 +254,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Kodiak V3](https://app.kodiak.finance) | greenhouse | [https://boards.greenhouse.io/kodiak](https://boards.greenhouse.io/kodiak) |
 | [KongSwap](https://www.kongswap.io/swap) | ashby | [https://jobs.ashbyhq.com/kong](https://jobs.ashbyhq.com/kong) |
 | [Kraken](https://www.kraken.com/) | ashby | [https://jobs.ashbyhq.com/kraken.com](https://jobs.ashbyhq.com/kraken.com) |
+| [Kraken Bitcoin](https://www.kraken.com/kbtc) | ashby | [https://jobs.ashbyhq.com/kraken.com](https://jobs.ashbyhq.com/kraken.com) |
 | [KuCoin](https://www.kucoin.com) | custom | [custom/kucoin](custom/kucoin) |
 | Kuru Aggregator | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
 | [Kuru CLOB](https://www.kuru.io/) | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
@@ -288,6 +291,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Marinade Liquid Staking](https://marinade.finance) | custom | [custom/solana-jobs](custom/solana-jobs) |
 | Matter Labs | ashby | [https://jobs.ashbyhq.com/matter-labs](https://jobs.ashbyhq.com/matter-labs) |
 | [Maya Protocol](https://www.mayaprotocol.com) | lever | [https://jobs.lever.co/maya](https://jobs.lever.co/maya) |
+| [Mellow Core](https://app.mellow.finance/vaults) | recruitee | [https://mellow.recruitee.com](https://mellow.recruitee.com) |
 | [Mellow LRT](https://mellow.finance/) | recruitee | [https://mellow.recruitee.com](https://mellow.recruitee.com) |
 | [Mento](https://www.mento.org/) | greenhouse | [https://boards.greenhouse.io/mento](https://boards.greenhouse.io/mento) |
 | [Meridian AMM](https://www.meridian.money) | ashby | [https://jobs.ashbyhq.com/meridian](https://jobs.ashbyhq.com/meridian) |
@@ -296,6 +300,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Meta Pool ETH](https://metapool.app) | bamboohr | [https://metalabs.bamboohr.com/careers](https://metalabs.bamboohr.com/careers) |
 | [Meta Pool Near](https://metapool.app) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [Meta Pool stIP](https://www.metapool.app/es/stake/?token=ip) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
+| [MetaDAO](https://metadao.fi) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [Meter Passport](https://passport.meter.io) | ashby | [https://jobs.ashbyhq.com/meter](https://jobs.ashbyhq.com/meter) |
 | [mETH Protocol](https://www.methprotocol.xyz/) | ashby | [https://jobs.ashbyhq.com/windranger](https://jobs.ashbyhq.com/windranger) |
 | [Metronome Synth](https://www.metronome.io/synth) | greenhouse | [https://boards.greenhouse.io/metronome](https://boards.greenhouse.io/metronome) |
@@ -357,6 +362,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Ostium](https://www.ostium.io/) | ashby | [https://jobs.ashbyhq.com/ostium](https://jobs.ashbyhq.com/ostium) |
 | [Pact](https://app.pact.fi) | ashby | [https://jobs.ashbyhq.com/pactfi](https://jobs.ashbyhq.com/pactfi) |
 | [PancakeSwap AMM](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
+| [Pando Leaf](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
+| [Pando Rings](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
 | [Parallel Protocol V2](https://mimo.capital) | ashby | [https://jobs.ashbyhq.com/parallel](https://jobs.ashbyhq.com/parallel) |
 | [Parallel Protocol V3](https://parallel.best/) | ashby | [https://jobs.ashbyhq.com/parallel](https://jobs.ashbyhq.com/parallel) |
 | [Parasail](https://www.parasail.network/) | greenhouse | [https://boards.greenhouse.io/parasail](https://boards.greenhouse.io/parasail) |
