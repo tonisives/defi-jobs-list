@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-01-30
+**Last updated:** 2026-01-31
 
-**Total protocols:** 508
+**Total protocols:** 511
 
 ## Protocols
 
@@ -119,6 +119,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Coinbase | greenhouse | [https://boards.greenhouse.io/coinbase](https://boards.greenhouse.io/coinbase) |
 | [CoinDCX](https://coindcx.com) | mynexthire | [https://coindcx.mynexthire.com](https://coindcx.mynexthire.com) |
 | Compound | ashby | [https://jobs.ashbyhq.com/compound](https://jobs.ashbyhq.com/compound) |
+| [Compound Blue](https://www.compound.blue/) | ashby | [https://jobs.ashbyhq.com/compound](https://jobs.ashbyhq.com/compound) |
 | [Compound V1](https://compound.finance) | ashby | [https://jobs.ashbyhq.com/compound](https://jobs.ashbyhq.com/compound) |
 | [Compound V2](https://compound.finance) | ashby | [https://jobs.ashbyhq.com/compound](https://jobs.ashbyhq.com/compound) |
 | [Compound V3](https://v3-app.compound.finance/) | lever | [https://jobs.lever.co/compound-2](https://jobs.lever.co/compound-2) |
@@ -127,6 +128,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Consensys Diligence | greenhouse | [https://boards.greenhouse.io/consensys](https://boards.greenhouse.io/consensys) |
 | Cosmos | greenhouse | [https://boards.greenhouse.io/cosmoslabs](https://boards.greenhouse.io/cosmoslabs) |
 | [CoW Protocol](https://cow.fi) | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
+| [Cronos zkEVM Bridge](https://zkevm.cronos.org/) | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
 | [Crypto-com](https://crypto.com) | lever | [https://jobs.lever.co/crypto](https://jobs.lever.co/crypto) |
 | [Curve DEX](https://curve.finance) | custom | [custom/curve-dex](custom/curve-dex) |
 | Dapper Labs | ashby | [https://jobs.ashbyhq.com/dapper](https://jobs.ashbyhq.com/dapper) |
@@ -265,7 +267,6 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Ledger | ashby | [https://jobs.ashbyhq.com/ledger](https://jobs.ashbyhq.com/ledger) |
 | [Legion](https://legion.cc/) | greenhouse | [https://boards.greenhouse.io/legion](https://boards.greenhouse.io/legion) |
 | [Lenfi](https://aada.finance) | bamboohr | [https://len.bamboohr.com/careers](https://len.bamboohr.com/careers) |
-| [Lens Chain](https://lens.xyz) | ashby | [https://jobs.ashbyhq.com/lens](https://jobs.ashbyhq.com/lens) |
 | [Level](https://www.level.money) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
 | [Level Perps](https://app.level.finance) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
 | [Lido](https://lido.fi/) | ashby | [https://jobs.ashbyhq.com/Lido.fi](https://jobs.ashbyhq.com/Lido.fi) |
@@ -277,6 +278,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Liquid Ron](https://www.liquidron.com/) | ashby | [https://jobs.ashbyhq.com/liquid](https://jobs.ashbyhq.com/liquid) |
 | [LiquidSwap](https://liquidswap.com/) | ashby | [https://jobs.ashbyhq.com/liquid](https://jobs.ashbyhq.com/liquid) |
 | [Loop](https://www.loopfi.xyz/) | greenhouse | [https://boards.greenhouse.io/loop](https://boards.greenhouse.io/loop) |
+| [LTV Protocol](https://ltv.finance) | ashby | [https://jobs.ashbyhq.com/ltv](https://jobs.ashbyhq.com/ltv) |
 | Lyra | ashby | [https://jobs.ashbyhq.com/lyra](https://jobs.ashbyhq.com/lyra) |
 | [M0](https://www.m0.org/) | greenhouse | [https://boards.greenhouse.io/m0dbathenextthingltd](https://boards.greenhouse.io/m0dbathenextthingltd) |
 | Mach | ashby | [https://jobs.ashbyhq.com/mach](https://jobs.ashbyhq.com/mach) |
@@ -306,6 +308,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [MetaDAO](https://metadao.fi) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [Meter Passport](https://passport.meter.io) | ashby | [https://jobs.ashbyhq.com/meter](https://jobs.ashbyhq.com/meter) |
 | [mETH Protocol](https://www.methprotocol.xyz/) | ashby | [https://jobs.ashbyhq.com/windranger](https://jobs.ashbyhq.com/windranger) |
+| [Metis Bridge](https://bridge.metis.io/home) | bamboohr | [https://metis.bamboohr.com/careers](https://metis.bamboohr.com/careers) |
 | [Metronome Synth](https://www.metronome.io/synth) | greenhouse | [https://boards.greenhouse.io/metronome](https://boards.greenhouse.io/metronome) |
 | [Metronome V1](https://metronome.io/) | greenhouse | [https://boards.greenhouse.io/metronome](https://boards.greenhouse.io/metronome) |
 | [MEXC](https://www.mexc.com) | custom | [custom/mexc](custom/mexc) |
