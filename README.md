@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-01
+**Last updated:** 2026-02-02
 
-**Total protocols:** 511
+**Total protocols:** 512
 
 ## Protocols
 
@@ -165,8 +165,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Ethena USDe](https://www.app.ethena.fi/join/3y20d) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [Ethena USDtb](https://usdtb.money) | lever | [https://jobs.lever.co/ethenalabs](https://jobs.lever.co/ethenalabs) |
 | [ether.fi Liquid](https://www.ether.fi/app/liquid) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
-| ether.fi Stake | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [ether.fi Stake](https://www.ether.fi/app/weeth) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
+| ether.fi Stake | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Borrowing Market](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [EtherFi Cash Liquid](https://ether.fi/) | ashby | [https://jobs.ashbyhq.com/ether.fi](https://jobs.ashbyhq.com/ether.fi) |
 | [Ethos Markets](https://ethos.markets/) | bamboohr | [https://ethos.bamboohr.com/careers](https://ethos.bamboohr.com/careers) |
@@ -486,6 +486,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Tothemoon](https://tothemoon.com) | bamboohr | [https://tothemoon.bamboohr.com/careers](https://tothemoon.bamboohr.com/careers) |
 | [Treble Spot](https://trebleswap.com) | bamboohr | [https://treble.bamboohr.com/careers](https://treble.bamboohr.com/careers) |
 | Trust Wallet | ashby | [https://jobs.ashbyhq.com/trust-wallet](https://jobs.ashbyhq.com/trust-wallet) |
+| [Union Protocol](https://union.finance) | ashby | [https://jobs.ashbyhq.com/union](https://jobs.ashbyhq.com/union) |
 | Uniswap | greenhouse | [https://boards.greenhouse.io/uniswaplabs](https://boards.greenhouse.io/uniswaplabs) |
 | [Uniswap V1](https://app.uniswap.org/) | greenhouse | [https://boards.greenhouse.io/uniswaplabs](https://boards.greenhouse.io/uniswaplabs) |
 | [Uniswap V2](https://app.uniswap.org/) | greenhouse | [https://boards.greenhouse.io/uniswaplabs](https://boards.greenhouse.io/uniswaplabs) |
