@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-04
+**Last updated:** 2026-02-05
 
-**Total protocols:** 590
+**Total protocols:** 596
 
 ## Protocols
 
@@ -57,6 +57,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Asymmetric Research | getro | [getro/asymmetric-research-2](getro/asymmetric-research-2) |
 | [Atrium](https://atrium.io/) | bamboohr | [https://atrium.bamboohr.com/careers](https://atrium.bamboohr.com/careers) |
 | [Atrix](https://www.atrix.finance) | ashby | [https://jobs.ashbyhq.com/atrix](https://jobs.ashbyhq.com/atrix) |
+| [Augur](https://www.augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
 | Aura Aggregator | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aurory | getro | [getro/aurory-2](getro/aurory-2) |
@@ -76,11 +77,13 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Bags | getro | [getro/bags-2-885febdd-f1ea-4d14-9ac5-7d343038082f](getro/bags-2-885febdd-f1ea-4d14-9ac5-7d343038082f) |
 | Base | ashby | [https://jobs.ashbyhq.com/base](https://jobs.ashbyhq.com/base) |
 | [Base Bridge](https://docs.base.org/base-chain/network-information/bridges-mainnet) | ashby | [https://jobs.ashbyhq.com/base](https://jobs.ashbyhq.com/base) |
+| [Basis Cash](https://basis.cash/) | lever | [https://jobs.lever.co/basis](https://jobs.lever.co/basis) |
 | [Bastion](https://app.bastionprotocol.com/) | ashby | [https://jobs.ashbyhq.com/bastion](https://jobs.ashbyhq.com/bastion) |
 | Baton Corporation | getro | [getro/baton-corporation](getro/baton-corporation) |
 | [BBBFI](https://bbbfi.com) | recruitee | [https://bbb.recruitee.com](https://bbb.recruitee.com) |
 | [Beam Swap](https://swap.onbeam.com/) | greenhouse | [https://boards.greenhouse.io/beam](https://boards.greenhouse.io/beam) |
 | [Bedrock](https://app.bedrock.technology/) | ashby | [https://jobs.ashbyhq.com/bedrock](https://jobs.ashbyhq.com/bedrock) |
+| [Bedrock uniBTC](https://app.bedrock.technology/) | ashby | [https://jobs.ashbyhq.com/bedrock](https://jobs.ashbyhq.com/bedrock) |
 | [BenSwap](https://benswap.cash) | ashby | [https://jobs.ashbyhq.com/ben](https://jobs.ashbyhq.com/ben) |
 | [Beta Finance V1](https://www.betafinance.org/) | recruitee | [https://beta.recruitee.com](https://beta.recruitee.com) |
 | [BetterSwap](https://www.betterswap.io) | lever | [https://jobs.lever.co/better](https://jobs.lever.co/better) |
@@ -284,7 +287,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Kalshi | greenhouse | [https://boards.greenhouse.io/kalshi](https://boards.greenhouse.io/kalshi) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
-| [KEEP Network](https://tbtc.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
+| [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
 | [Kelp](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | greenhouse | [https://boards.greenhouse.io/kerneldao](https://boards.greenhouse.io/kerneldao) |
 | [Kernel](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | ashby | [https://jobs.ashbyhq.com/kernel](https://jobs.ashbyhq.com/kernel) |
 | [Kinetic](https://kinetic.market) | bamboohr | [https://kinetic.bamboohr.com/careers](https://kinetic.bamboohr.com/careers) |
@@ -443,9 +446,11 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Polygon | ashby | [https://jobs.ashbyhq.com/polygon-labs](https://jobs.ashbyhq.com/polygon-labs) |
 | [Polymarket](https://polymarket.com?via=defi-llama) | ashby | [https://jobs.ashbyhq.com/polymarket](https://jobs.ashbyhq.com/polymarket) |
 | [Polynomial](https://trade.polynomial.fi) | bamboohr | [https://polynomial.bamboohr.com/careers](https://polynomial.bamboohr.com/careers) |
+| [Polynomial Trade](https://trade.polynomial.fi) | bamboohr | [https://polynomial.bamboohr.com/careers](https://polynomial.bamboohr.com/careers) |
 | [Pools Finance](https://www.pools.finance) | recruitee | [https://pools.recruitee.com](https://pools.recruitee.com) |
 | [Portal To Bitcoin](https://portaltobitcoin.com) | recruitee | [https://portal.recruitee.com](https://portal.recruitee.com) |
 | [Prime](https://primestaking.xyz/) | ashby | [https://jobs.ashbyhq.com/prime](https://jobs.ashbyhq.com/prime) |
+| [Prime Staking](https://primestaking.xyz/) | ashby | [https://jobs.ashbyhq.com/prime](https://jobs.ashbyhq.com/prime) |
 | Primitives | getro | [getro/primitives](getro/primitives) |
 | [Privacy Cash](https://privacycash.org/) | greenhouse | [https://boards.greenhouse.io/privacy](https://boards.greenhouse.io/privacy) |
 | [Privacy Pools](https://privacypools.com/) | greenhouse | [https://boards.greenhouse.io/privacy](https://boards.greenhouse.io/privacy) |
@@ -552,6 +557,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Teller](https://teller.org) | lever | [https://jobs.lever.co/teller](https://jobs.lever.co/teller) |
 | [Telos Consilium](https://telosc.com/) | bamboohr | [https://telos.bamboohr.com/careers](https://telos.bamboohr.com/careers) |
 | Temporal | getro | [getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075](getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075) |
+| [Terminal Finance Pre-Deposits](https://terminal.fi/) | ashby | [https://jobs.ashbyhq.com/terminal](https://jobs.ashbyhq.com/terminal) |
 | [Tether Gold](https://gold.tether.to/) | recruitee | [https://tether.recruitee.com](https://tether.recruitee.com) |
 | Titan Aggregator | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | Titan Exchange | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
