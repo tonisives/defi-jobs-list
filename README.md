@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-05
+**Last updated:** 2026-02-06
 
-**Total protocols:** 596
+**Total protocols:** 601
 
 ## Protocols
 
@@ -212,7 +212,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Figment | getro | [getro/figment](getro/figment) |
 | [Figure Markets Democratized Prime](https://www.figure.com/crypto-backed-loan/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Figure Markets Exchange](https://www.figuremarkets.com/crypto-exchange/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
-| Fin | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
+| [Fin](https://fin.kujira.app) | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
 | Fireblocks | greenhouse | [https://boards.greenhouse.io/fireblocks](https://boards.greenhouse.io/fireblocks) |
 | [Firelight](https://firelight.finance/) | bamboohr | [https://firelight.bamboohr.com/careers](https://firelight.bamboohr.com/careers) |
 | [Flamingo Finance](https://flamingo.finance/) | greenhouse | [https://boards.greenhouse.io/flamingo](https://boards.greenhouse.io/flamingo) |
@@ -273,6 +273,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Injective Bridge](https://injective.com) | ashby | [https://jobs.ashbyhq.com/injective-labs](https://jobs.ashbyhq.com/injective-labs) |
 | [InSwap](https://app.inswap.ai/) | bamboohr | [https://in.bamboohr.com/careers](https://in.bamboohr.com/careers) |
 | [Integral](https://integral.link/) | bamboohr | [https://integral.bamboohr.com/careers](https://integral.bamboohr.com/careers) |
+| [International Meme Fund V2](https://internationalmeme.fund) | greenhouse | [https://boards.greenhouse.io/international](https://boards.greenhouse.io/international) |
+| [International Stable Currency](https://www.isc.money) | greenhouse | [https://boards.greenhouse.io/international](https://boards.greenhouse.io/international) |
 | [Jasper Vault](https://www.jaspervault.io/) | greenhouse | [https://boards.greenhouse.io/jasper](https://boards.greenhouse.io/jasper) |
 | [JetSwap](https://jetswap.finance) | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
 | [Jigsaw](https://app.jigsaw.finance/) | ashby | [https://jobs.ashbyhq.com/jigsaw](https://jobs.ashbyhq.com/jigsaw) |
@@ -433,6 +435,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Pendle](https://pendle.finance/) | custom | [custom/pendle](custom/pendle) |
 | Perena | getro | [getro/perena](getro/perena) |
 | [Perennial V1](https://perennial.finance) | lever | [https://jobs.lever.co/perennial](https://jobs.lever.co/perennial) |
+| [Perennial V2](https://perennial.finance) | lever | [https://jobs.lever.co/perennial](https://jobs.lever.co/perennial) |
 | Perle | getro | [getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b](getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b) |
 | Phantom | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
 | [Phantom SOL](https://phantom.com/) | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
@@ -460,6 +463,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Protokol | getro | [getro/protokol-2](getro/protokol-2) |
 | [Pryzm Liquid Staking](https://app.pryzm.zone) | ashby | [https://jobs.ashbyhq.com/pryzm](https://jobs.ashbyhq.com/pryzm) |
 | [Pulsechain](https://pulsechain.com/) | ashby | [https://jobs.ashbyhq.com/pulse](https://jobs.ashbyhq.com/pulse) |
+| [PureSwap](https://pureswap.finance) | ashby | [https://jobs.ashbyhq.com/pure](https://jobs.ashbyhq.com/pure) |
 | [Puzzle Lend](https://lend.puzzleswap.org/) | bamboohr | [https://puzzle.bamboohr.com/careers](https://puzzle.bamboohr.com/careers) |
 | [Puzzle Swap](https://puzzleswap.org/) | bamboohr | [https://puzzle.bamboohr.com/careers](https://puzzle.bamboohr.com/careers) |
 | Pye | getro | [getro/pye-2-d7ea158d-5a13-4931-9cfc-a2f239cd6090](getro/pye-2-d7ea158d-5a13-4931-9cfc-a2f239cd6090) |
@@ -544,6 +548,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Suilend](https://www.suilend.fi) | custom | [custom/sui-jobs](custom/sui-jobs) |
 | [Superstate USCC](https://superstate.com/) | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
 | [Superstate USTB](https://superstate.com/) | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
+| [Swap Country](https://swap.country) | ashby | [https://jobs.ashbyhq.com/swap](https://jobs.ashbyhq.com/swap) |
 | Swig | getro | [getro/swig](getro/swig) |
 | [SwissBorg](https://swissborg.com) | lever | [https://jobs.lever.co/swissborg](https://jobs.lever.co/swissborg) |
 | [Symbiotic](https://symbiotic.fi) | ashby | [https://jobs.ashbyhq.com/symbiotic](https://jobs.ashbyhq.com/symbiotic) |
