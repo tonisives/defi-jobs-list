@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-07
+**Last updated:** 2026-02-08
 
-**Total protocols:** 901
+**Total protocols:** 903
 
 ## Protocols
 
@@ -67,6 +67,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Arbitrum Foundation | lever | [https://jobs.lever.co/arbitrumfoundation](https://jobs.lever.co/arbitrumfoundation) |
 | Arbitrum OpCo | lever | [https://jobs.lever.co/arbitrum-opco](https://jobs.lever.co/arbitrum-opco) |
 | Arcana | bamboohr | [https://arcana.bamboohr.com/careers](https://arcana.bamboohr.com/careers) |
+| Archway | recruitee | [https://archway.recruitee.com](https://archway.recruitee.com) |
 | [Arena DEX](https://arena.social/) | ashby | [https://jobs.ashbyhq.com/arena](https://jobs.ashbyhq.com/arena) |
 | [Arena SocialFi](https://arena.social/) | ashby | [https://jobs.ashbyhq.com/arena](https://jobs.ashbyhq.com/arena) |
 | ARK | greenhouse | [https://boards.greenhouse.io/ark](https://boards.greenhouse.io/ark) |
@@ -361,7 +362,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Gate US](https://www.gate.com/en-us) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | Gateway.fm | greenhouse | [https://boards.greenhouse.io/gatewayfm](https://boards.greenhouse.io/gatewayfm) |
 | [Gauntlet](https://www.gauntlet.xyz) | lever | [https://jobs.lever.co/gauntlet](https://jobs.lever.co/gauntlet) |
-| Gelato | greenhouse | [https://boards.greenhouse.io/gelato](https://boards.greenhouse.io/gelato) |
+| Gelato | ashby | [https://jobs.ashbyhq.com/gelato](https://jobs.ashbyhq.com/gelato) |
 | Gelato Network | greenhouse | [https://boards.greenhouse.io/gelato](https://boards.greenhouse.io/gelato) |
 | [Gemini](https://www.gemini.com) | greenhouse | [https://boards.greenhouse.io/gemini](https://boards.greenhouse.io/gemini) |
 | Genies | greenhouse | [https://boards.greenhouse.io/genies](https://boards.greenhouse.io/genies) |
@@ -433,6 +434,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [JetSwap](https://jetswap.finance) | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
 | [Jigsaw](https://app.jigsaw.finance/) | ashby | [https://jobs.ashbyhq.com/jigsaw](https://jobs.ashbyhq.com/jigsaw) |
 | [Jiko](https://app.beraji.com/) | bamboohr | [https://jiko.bamboohr.com/careers](https://jiko.bamboohr.com/careers) |
+| Jito | lever | [https://jobs.lever.co/jito](https://jobs.lever.co/jito) |
 | Jito Foundation | getro | [getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb](getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb) |
 | Jito Labs | lever | [https://jobs.lever.co/jito](https://jobs.lever.co/jito) |
 | [Jito Liquid Staking](https://jito.network) | lever | [https://jobs.lever.co/jito.wtf](https://jobs.lever.co/jito.wtf) |
@@ -556,7 +558,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Moonchain](https://www.moonchain.com/) | greenhouse | [https://boards.greenhouse.io/moon](https://boards.greenhouse.io/moon) |
 | Moonpay | lever | [https://jobs.lever.co/moonpay](https://jobs.lever.co/moonpay) |
 | [Morgan Stanley](https://www.morganstanley.com/careers) | workday | [https://morganstanley.myworkdayjobs.com](https://morganstanley.myworkdayjobs.com) |
-| Morpho | recruitee | [https://morpho.recruitee.com](https://morpho.recruitee.com) |
+| Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
 | [Morpho V1](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Mosaic Aggregator | ashby | [https://jobs.ashbyhq.com/mosaic](https://jobs.ashbyhq.com/mosaic) |
