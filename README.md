@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-08
+**Last updated:** 2026-02-10
 
-**Total protocols:** 903
+**Total protocols:** 902
 
 ## Protocols
 
@@ -399,6 +399,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Hive Labs  | getro | [getro/hive-labs-2](getro/hive-labs-2) |
 | [Hive Protocol](https://hive.bsquared.network/) | lever | [https://jobs.lever.co/hive](https://jobs.lever.co/hive) |
 | Hologram | getro | [getro/hologram-2](getro/hologram-2) |
+| Horizen | greenhouse | [https://boards.greenhouse.io/horizenlabs](https://boards.greenhouse.io/horizenlabs) |
+| Horizen Labs | greenhouse | [https://boards.greenhouse.io/horizenlabs](https://boards.greenhouse.io/horizenlabs) |
 | [HTX](https://www.htx.com/) | custom | [custom/htx](custom/htx) |
 | Huma | getro | [getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244](getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244) |
 | Hume | greenhouse | [https://boards.greenhouse.io/hume](https://boards.greenhouse.io/hume) |
@@ -410,8 +412,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | ICONOMI | recruitee | [https://iconomi.recruitee.com](https://iconomi.recruitee.com) |
 | IDEO CoLab Ventures | greenhouse | [https://boards.greenhouse.io/ideo](https://boards.greenhouse.io/ideo) |
 | IDEX | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
-| [IDEX Classic](https://idex.io/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
-| [IDEX V1](https://idex.io/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
+| [IDEX Classic](https://kuma.bid/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
+| [IDEX V1](https://kuma.bid/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
 | IEX | greenhouse | [https://boards.greenhouse.io/iex](https://boards.greenhouse.io/iex) |
 | [Ignition LST](https://app.ignitionfi.xyz/) | greenhouse | [https://boards.greenhouse.io/ignition](https://boards.greenhouse.io/ignition) |
 | Immutable | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
@@ -623,7 +625,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Orderly Chain](https://orderly.network/) | greenhouse | [https://boards.greenhouse.io/orderly](https://boards.greenhouse.io/orderly) |
 | Orderly Network | greenhouse | [https://boards.greenhouse.io/orderly](https://boards.greenhouse.io/orderly) |
 | [Origin ARM](https://www.originprotocol.com/arm) | bamboohr | [https://origin.bamboohr.com/careers](https://origin.bamboohr.com/careers) |
-| [Origin Dollar](https://www.ousd.com) | bamboohr | [https://origin.bamboohr.com/careers](https://origin.bamboohr.com/careers) |
+| [Origin Dollar](https://www.originprotocol.com/ousd) | bamboohr | [https://origin.bamboohr.com/careers](https://origin.bamboohr.com/careers) |
 | [Origin Ether](https://www.originprotocol.com/oeth) | recruitee | [https://origin.recruitee.com](https://origin.recruitee.com) |
 | Origin Protocol | recruitee | [https://origin.recruitee.com](https://origin.recruitee.com) |
 | [Origin Sonic](https://www.originprotocol.com) | bamboohr | [https://origin.bamboohr.com/careers](https://origin.bamboohr.com/careers) |
@@ -652,8 +654,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Perennial V1](https://perennial.finance) | lever | [https://jobs.lever.co/perennial](https://jobs.lever.co/perennial) |
 | [Perennial V2](https://perennial.finance) | lever | [https://jobs.lever.co/perennial](https://jobs.lever.co/perennial) |
 | Perle | getro | [getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b](getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b) |
-| Phantom | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
-| [Phantom SOL](https://phantom.com/) | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
+| [Phantom](https://phantom.com/) | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
 | Phi Labs | recruitee | [https://philabs.recruitee.com](https://philabs.recruitee.com) |
 | [Phoenix](https://phoenix.trade) | ashby | [https://jobs.ashbyhq.com/phoenix](https://jobs.ashbyhq.com/phoenix) |
 | [Phoenix Bonds](https://phoenixbonds.org/) | ashby | [https://jobs.ashbyhq.com/phoenix](https://jobs.ashbyhq.com/phoenix) |
@@ -747,7 +748,6 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Shakepay | greenhouse | [https://boards.greenhouse.io/shakepay](https://boards.greenhouse.io/shakepay) |
 | [Sherpa](https://earn.sherpa.trade) | bamboohr | [https://sherpa.bamboohr.com/careers](https://sherpa.bamboohr.com/careers) |
 | [Shift Protocol](https://shiftprotocol.xyz/?ref=c534997d-771b-4e83-b1fb-918421c64383) | ashby | [https://jobs.ashbyhq.com/shift](https://jobs.ashbyhq.com/shift) |
-| [Sierra Protocol](https://sierra.money/) | ashby | [https://jobs.ashbyhq.com/sierra](https://jobs.ashbyhq.com/sierra) |
 | [Sirius](https://siriustoken.io/) | bamboohr | [https://sirius.bamboohr.com/careers](https://sirius.bamboohr.com/careers) |
 | SKALE Labs | bamboohr | [https://skale.bamboohr.com/careers](https://skale.bamboohr.com/careers) |
 | [SKALE Network Bridge](https://portal.skale.space/bridge) | bamboohr | [https://skale.bamboohr.com/careers](https://skale.bamboohr.com/careers) |
@@ -812,7 +812,6 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Superstate | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
 | [Superstate USCC](https://superstate.com/) | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
 | [Superstate USTB](https://superstate.com/) | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
-| [Swap Country](https://swap.country) | ashby | [https://jobs.ashbyhq.com/swap](https://jobs.ashbyhq.com/swap) |
 | Swig | getro | [getro/swig](getro/swig) |
 | [SwissBorg](https://swissborg.com) | lever | [https://jobs.lever.co/swissborg](https://jobs.lever.co/swissborg) |
 | [Symbiotic](https://symbiotic.fi) | ashby | [https://jobs.ashbyhq.com/symbiotic](https://jobs.ashbyhq.com/symbiotic) |
