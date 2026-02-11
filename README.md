@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-10
+**Last updated:** 2026-02-11
 
-**Total protocols:** 902
+**Total protocols:** 905
 
 ## Protocols
 
@@ -45,6 +45,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Alpaca Leveraged Yield Farming](https://www.alpacafinance.org/) | greenhouse | [https://boards.greenhouse.io/alpaca](https://boards.greenhouse.io/alpaca) |
 | Alpen | ashby | [https://jobs.ashbyhq.com/alpenlabs](https://jobs.ashbyhq.com/alpenlabs) |
 | [Alpha](https://alpha.wtf) | recruitee | [https://alpha.recruitee.com](https://alpha.recruitee.com) |
+| alphafc.xyz | getro | [getro/alphafc-xyz](getro/alphafc-xyz) |
 | [Amazon](https://www.amazon.jobs) | custom | [custom/amazon](custom/amazon) |
 | Amazon Web Services | recruitee | [https://amazon.recruitee.com](https://amazon.recruitee.com) |
 | [Amber Finance](https://amberfi.io) | bamboohr | [https://amber.bamboohr.com/careers](https://amber.bamboohr.com/careers) |
@@ -430,7 +431,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [InSwap](https://app.inswap.ai/) | bamboohr | [https://in.bamboohr.com/careers](https://in.bamboohr.com/careers) |
 | [Integral](https://integral.link/) | bamboohr | [https://integral.bamboohr.com/careers](https://integral.bamboohr.com/careers) |
 | IntellectEU | bamboohr | [https://intellecteu.bamboohr.com/careers](https://intellecteu.bamboohr.com/careers) |
-| [International Meme Fund V2](https://internationalmeme.fund) | greenhouse | [https://boards.greenhouse.io/international](https://boards.greenhouse.io/international) |
+| [International Meme Fund V2](https://imf.bz/) | greenhouse | [https://boards.greenhouse.io/international](https://boards.greenhouse.io/international) |
 | [International Stable Currency](https://www.isc.money) | greenhouse | [https://boards.greenhouse.io/international](https://boards.greenhouse.io/international) |
 | [Jasper Vault](https://www.jaspervault.io/) | greenhouse | [https://boards.greenhouse.io/jasper](https://boards.greenhouse.io/jasper) |
 | [JetSwap](https://jetswap.finance) | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
@@ -655,6 +656,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Perennial V2](https://perennial.finance) | lever | [https://jobs.lever.co/perennial](https://jobs.lever.co/perennial) |
 | Perle | getro | [getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b](getro/perle-2-0f9ff345-67d2-4bf3-af58-751b33bd578b) |
 | [Phantom](https://phantom.com/) | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
+| [Phantom SOL](https://phantom.com/) | ashby | [https://jobs.ashbyhq.com/phantom](https://jobs.ashbyhq.com/phantom) |
 | Phi Labs | recruitee | [https://philabs.recruitee.com](https://philabs.recruitee.com) |
 | [Phoenix](https://phoenix.trade) | ashby | [https://jobs.ashbyhq.com/phoenix](https://jobs.ashbyhq.com/phoenix) |
 | [Phoenix Bonds](https://phoenixbonds.org/) | ashby | [https://jobs.ashbyhq.com/phoenix](https://jobs.ashbyhq.com/phoenix) |
@@ -763,6 +765,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Solana | greenhouse | [https://boards.greenhouse.io/solana](https://boards.greenhouse.io/solana) |
 | Solana Foundation | getro | [getro/solana-foundation-2](getro/solana-foundation-2) |
 | Solayer Labs | getro | [getro/solayer-labs](getro/solayer-labs) |
+| Solend | getro | [getro/solend](getro/solend) |
 | [Solera](https://app.solera.market/) | greenhouse | [https://boards.greenhouse.io/solera](https://boards.greenhouse.io/solera) |
 | Solflare | getro | [getro/solflare](getro/solflare) |
 | Solstice Labs | getro | [getro/solstice-labs](getro/solstice-labs) |
