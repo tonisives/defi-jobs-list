@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-12
+**Last updated:** 2026-02-13
 
-**Total protocols:** 920
+**Total protocols:** 921
 
 ## Protocols
 
@@ -860,6 +860,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Tothemoon](https://tothemoon.com) | bamboohr | [https://tothemoon.bamboohr.com/careers](https://tothemoon.bamboohr.com/careers) |
 | Trace Labs | ashby | [https://jobs.ashbyhq.com/tracelabs](https://jobs.ashbyhq.com/tracelabs) |
 | Trader Joe | bamboohr | [https://joe.bamboohr.com/careers](https://joe.bamboohr.com/careers) |
+| Trail of Bits | workable | [https://apply.workable.com/trailofbits](https://apply.workable.com/trailofbits) |
 | Transak | recruitee | [https://transak.recruitee.com](https://transak.recruitee.com) |
 | [Treble Spot](https://trebleswap.com) | bamboohr | [https://treble.bamboohr.com/careers](https://treble.bamboohr.com/careers) |
 | Trilitech | ashby | [https://jobs.ashbyhq.com/trilitech](https://jobs.ashbyhq.com/trilitech) |
@@ -913,7 +914,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | xLabs | getro | [getro/xlabs-2](getro/xlabs-2) |
 | [Yala](https://www.yala.org) | getro | [getro/yala-2](getro/yala-2) |
 | [Yield Basis](https://yieldbasis.com/) | ashby | [https://jobs.ashbyhq.com/yield-xyz](https://jobs.ashbyhq.com/yield-xyz) |
-| [Yield Protocol](https://yieldprotocol.com/) | ashby | [https://jobs.ashbyhq.com/yield-xyz](https://jobs.ashbyhq.com/yield-xyz) |
+| [Yield Protocol](https://www.yo.xyz/) | ashby | [https://jobs.ashbyhq.com/yield-xyz](https://jobs.ashbyhq.com/yield-xyz) |
 | [Yield Yak Aggregator](https://yieldyak.com) | ashby | [https://jobs.ashbyhq.com/yield-xyz](https://jobs.ashbyhq.com/yield-xyz) |
 | [Yield Yak Staked Avax](https://yieldyak.com/liquid-staking) | ashby | [https://jobs.ashbyhq.com/yield-xyz](https://jobs.ashbyhq.com/yield-xyz) |
 | [YO Protocol](https://app.yo.xyz?ref=defillama) | ashby | [https://jobs.ashbyhq.com/yolabs](https://jobs.ashbyhq.com/yolabs) |
