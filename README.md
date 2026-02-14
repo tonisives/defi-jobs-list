@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-13
+**Last updated:** 2026-02-14
 
-**Total protocols:** 921
+**Total protocols:** 914
 
 ## Protocols
 
@@ -13,10 +13,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | 0G Labs | ashby | [https://jobs.ashbyhq.com/0g](https://jobs.ashbyhq.com/0g) |
 | 0x | ashby | [https://jobs.ashbyhq.com/0x](https://jobs.ashbyhq.com/0x) |
 | 0x Aggregator | ashby | [https://jobs.ashbyhq.com/0x](https://jobs.ashbyhq.com/0x) |
-| [1DEX](https://1dex.com) | workable | [https://apply.workable.com/1dex-ecosystem](https://apply.workable.com/1dex-ecosystem) |
 | [1inch](https://1inch.com) | lever | [https://jobs.lever.co/1inch](https://jobs.lever.co/1inch) |
 | 1inch Labs | lever | [https://jobs.lever.co/1inch](https://jobs.lever.co/1inch) |
-| [1sec](https://1sec.to/) | workable | [https://apply.workable.com/1secteam](https://apply.workable.com/1secteam) |
 | 21Shares | greenhouse | [https://boards.greenhouse.io/21shares](https://boards.greenhouse.io/21shares) |
 | [3jane Lending](https://www.3jane.xyz/) | lever | [https://jobs.lever.co/3jane](https://jobs.lever.co/3jane) |
 | a16z crypto | greenhouse | [https://boards.greenhouse.io/a16z](https://boards.greenhouse.io/a16z) |
@@ -171,7 +169,6 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Bybit](https://www.bybit.com) | custom | [custom/bybit](custom/bybit) |
 | [BYDFi](https://www.bydfi.com/en) | greenhouse | [https://boards.greenhouse.io/byd](https://boards.greenhouse.io/byd) |
 | Caladan | greenhouse | [https://boards.greenhouse.io/caladan](https://boards.greenhouse.io/caladan) |
-| Camelot | bamboohr | [https://camelot.bamboohr.com/careers](https://camelot.bamboohr.com/careers) |
 | [Canopy](https://app.canopyhub.xyz) | bamboohr | [https://canopy.bamboohr.com/careers](https://canopy.bamboohr.com/careers) |
 | [Canto Lending](https://canto.io/lending) | greenhouse | [https://boards.greenhouse.io/canto](https://boards.greenhouse.io/canto) |
 | [Capyfi](https://capyfi.com/) | ashby | [https://jobs.ashbyhq.com/capy](https://jobs.ashbyhq.com/capy) |
@@ -411,9 +408,9 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Hume | greenhouse | [https://boards.greenhouse.io/hume](https://boards.greenhouse.io/hume) |
 | Hut 8 | greenhouse | [https://boards.greenhouse.io/hut8](https://boards.greenhouse.io/hut8) |
 | Hylo | getro | [getro/hylo-2](getro/hylo-2) |
-| [Hyperliquid Bridge](https://hyperfoundation.org) | ashby | [https://jobs.ashbyhq.com/Hyperliquid Labs](https://jobs.ashbyhq.com/Hyperliquid Labs) |
-| [Hyperliquid HLP](https://hyperfoundation.org) | ashby | [https://jobs.ashbyhq.com/hyperliquid labs](https://jobs.ashbyhq.com/hyperliquid labs) |
-| [Hyperliquid Spot Orderbook](https://hyperfoundation.org/) | ashby | [https://jobs.ashbyhq.com/Hyperliquid Labs](https://jobs.ashbyhq.com/Hyperliquid Labs) |
+| [Hyperliquid Bridge](https://app.hyperliquid.xyz) | ashby | [https://jobs.ashbyhq.com/Hyperliquid Labs](https://jobs.ashbyhq.com/Hyperliquid Labs) |
+| [Hyperliquid HLP](https://app.hyperliquid.xyz) | ashby | [https://jobs.ashbyhq.com/hyperliquid labs](https://jobs.ashbyhq.com/hyperliquid labs) |
+| [Hyperliquid Spot Orderbook](https://app.hyperliquid.xyz) | ashby | [https://jobs.ashbyhq.com/Hyperliquid Labs](https://jobs.ashbyhq.com/Hyperliquid Labs) |
 | ICONOMI | recruitee | [https://iconomi.recruitee.com](https://iconomi.recruitee.com) |
 | IDEO CoLab Ventures | greenhouse | [https://boards.greenhouse.io/ideo](https://boards.greenhouse.io/ideo) |
 | IDEX | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
@@ -691,8 +688,6 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Privacy Cash](https://privacycash.org/) | greenhouse | [https://boards.greenhouse.io/privacy](https://boards.greenhouse.io/privacy) |
 | [Privacy Pools](https://privacypools.com/) | greenhouse | [https://boards.greenhouse.io/privacy](https://boards.greenhouse.io/privacy) |
 | Privy | ashby | [https://jobs.ashbyhq.com/privy](https://jobs.ashbyhq.com/privy) |
-| [Project 0](https://app.0.xyz/refer/fGgLC0EyHGUYI2keFnQzPGcWb1QSD1Y5Z1IABU42JH0sOHQkIFkNHmkGEUM) | bamboohr | [https://project.bamboohr.com/careers](https://project.bamboohr.com/careers) |
-| [Project X](https://www.prjx.com/@DEFILLAMA) | bamboohr | [https://project.bamboohr.com/careers](https://project.bamboohr.com/careers) |
 | Proof | lever | [https://jobs.lever.co/proof](https://jobs.lever.co/proof) |
 | Proof of Play | ashby | [https://jobs.ashbyhq.com/proofofplay](https://jobs.ashbyhq.com/proofofplay) |
 | Proto | lever | [https://jobs.lever.co/protolabs](https://jobs.lever.co/protolabs) |
@@ -923,8 +918,6 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Zero Hash | greenhouse | [https://boards.greenhouse.io/zero](https://boards.greenhouse.io/zero) |
 | [Zero Network](https://zero.network/) | greenhouse | [https://boards.greenhouse.io/zero](https://boards.greenhouse.io/zero) |
 | ZetaChain | lever | [https://jobs.lever.co/zeta](https://jobs.lever.co/zeta) |
-| [Zeus btcSOL](https://btcsol.co/) | bamboohr | [https://zeus.bamboohr.com/careers](https://zeus.bamboohr.com/careers) |
-| [Zeus Network](https://zeusnetwork.xyz/) | bamboohr | [https://zeus.bamboohr.com/careers](https://zeus.bamboohr.com/careers) |
 | [Zircuit](https://www.zircuit.com/) | ashby | [https://jobs.ashbyhq.com/zircuit](https://jobs.ashbyhq.com/zircuit) |
 | [Zircuit Staking](https://app.zircuit.com/liquidity-hub) | ashby | [https://jobs.ashbyhq.com/zircuit](https://jobs.ashbyhq.com/zircuit) |
 | [Zoo Finance](https://zoofi.io) | greenhouse | [https://boards.greenhouse.io/zoo](https://boards.greenhouse.io/zoo) |
