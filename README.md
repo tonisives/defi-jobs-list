@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-14
+**Last updated:** 2026-02-15
 
-**Total protocols:** 914
+**Total protocols:** 915
 
 ## Protocols
 
@@ -96,7 +96,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Avant avETH](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Avant avUSD](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Axial](https://www.axial.exchange) | greenhouse | [https://boards.greenhouse.io/axial](https://boards.greenhouse.io/axial) |
-| Axiom | ashby | [https://jobs.ashbyhq.com/axiom](https://jobs.ashbyhq.com/axiom) |
+| Axiom | greenhouse | [https://boards.greenhouse.io/axiom](https://boards.greenhouse.io/axiom) |
 | Axiom Zen | greenhouse | [https://boards.greenhouse.io/axiom](https://boards.greenhouse.io/axiom) |
 | Aztec | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
 | [Aztec Connect](https://aztec.network) | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
@@ -508,7 +508,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [M0](https://www.m0.org/) | greenhouse | [https://boards.greenhouse.io/m0dbathenextthingltd](https://boards.greenhouse.io/m0dbathenextthingltd) |
 | Mach | ashby | [https://jobs.ashbyhq.com/mach](https://jobs.ashbyhq.com/mach) |
 | Magic | greenhouse | [https://boards.greenhouse.io/magic](https://boards.greenhouse.io/magic) |
-| Magic Eden | ashby | [https://jobs.ashbyhq.com/magiceden](https://jobs.ashbyhq.com/magiceden) |
+| Magic Eden | greenhouse | [https://boards.greenhouse.io/magic](https://boards.greenhouse.io/magic) |
 | [Magma](https://magmafinance.io/) | bamboohr | [https://magmalabs.bamboohr.com/careers](https://magmalabs.bamboohr.com/careers) |
 | [Magma Finance](https://magma.finance) | bamboohr | [https://magmalabs.bamboohr.com/careers](https://magmalabs.bamboohr.com/careers) |
 | [Magma Staking](https://www.magmastaking.xyz/) | bamboohr | [https://magmalabs.bamboohr.com/careers](https://magmalabs.bamboohr.com/careers) |
@@ -564,7 +564,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Moonchain](https://www.moonchain.com/) | greenhouse | [https://boards.greenhouse.io/moon](https://boards.greenhouse.io/moon) |
 | Moonpay | lever | [https://jobs.lever.co/moonpay](https://jobs.lever.co/moonpay) |
 | [Morgan Stanley](https://www.morganstanley.com/careers) | workday | [https://morganstanley.myworkdayjobs.com](https://morganstanley.myworkdayjobs.com) |
-| Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
+| Morpho | recruitee | [https://morpho.recruitee.com](https://morpho.recruitee.com) |
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
 | [Morpho V1](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Mosaic Aggregator | ashby | [https://jobs.ashbyhq.com/mosaic](https://jobs.ashbyhq.com/mosaic) |
@@ -903,6 +903,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [WOO X](https://x.woo.org/en/trade) | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
 | World | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
+| [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | Wormhole | ashby | [https://jobs.ashbyhq.com/wormholelabs](https://jobs.ashbyhq.com/wormholelabs) |
 | Wormhole Labs | getro | [getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d](getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d) |
 | Wynd Labs | ashby | [https://jobs.ashbyhq.com/wynd-labs](https://jobs.ashbyhq.com/wynd-labs) |
