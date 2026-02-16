@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-15
+**Last updated:** 2026-02-16
 
 **Total protocols:** 915
 
@@ -71,7 +71,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Arena SocialFi](https://arena.social/) | ashby | [https://jobs.ashbyhq.com/arena](https://jobs.ashbyhq.com/arena) |
 | ARK | greenhouse | [https://boards.greenhouse.io/ark](https://boards.greenhouse.io/ark) |
 | Arrakis Finance | getro | [getro/arrakis-finance-2](getro/arrakis-finance-2) |
-| [Arrakis V2](https://app.arrakis.fi/v2-vaults) | workable | [https://apply.workable.com/arrakis-finance](https://apply.workable.com/arrakis-finance) |
+| [Arrakis V2](https://arrakis.finance/) | workable | [https://apply.workable.com/arrakis-finance](https://apply.workable.com/arrakis-finance) |
 | Artemis | getro | [getro/artemis-2](getro/artemis-2) |
 | [Artemis Finance](https://artemisfinance.io/) | ashby | [https://jobs.ashbyhq.com/artemis](https://jobs.ashbyhq.com/artemis) |
 | [Aster asBNB](https://www.asterdex.com/en/earn) | recruitee | [https://aster.recruitee.com](https://aster.recruitee.com) |
