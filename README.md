@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-16
+**Last updated:** 2026-02-17
 
 **Total protocols:** 915
 
@@ -419,7 +419,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | IEX | greenhouse | [https://boards.greenhouse.io/iex](https://boards.greenhouse.io/iex) |
 | [Ignition LST](https://app.ignitionfi.xyz/) | greenhouse | [https://boards.greenhouse.io/ignition](https://boards.greenhouse.io/ignition) |
 | Immutable | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
-| [Immutable zkEVM](https://www.immutable.com/products/immutable-zkevm/) | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
+| [Immutable zkEVM](https://www.immutable.com/) | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
 | Impossible Cloud | lever | [https://jobs.lever.co/impossiblecloud](https://jobs.lever.co/impossiblecloud) |
 | Improbable | ashby | [https://jobs.ashbyhq.com/improbable](https://jobs.ashbyhq.com/improbable) |
 | [Indigo](https://app.indigoprotocol.io/) | greenhouse | [https://boards.greenhouse.io/indigo](https://boards.greenhouse.io/indigo) |
@@ -806,7 +806,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Starknet Bridge](https://starkgate.starknet.io) | ashby | [https://jobs.ashbyhq.com/starknetfoundation](https://jobs.ashbyhq.com/starknetfoundation) |
 | [Steakhouse Financial](https://www.steakhouse.financial/) | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
-| [Stellar DEX](https://developers.stellar.org/docs/learn/encyclopedia/sdex/liquidity-on-stellar-sdex-liquidity-pools#sdex) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
+| [Stellar DEX](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | StoryCo | ashby | [https://jobs.ashbyhq.com/storyco](https://jobs.ashbyhq.com/storyco) |
 | [Strata Markets](https://strata.money) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
 | [Strata Season 0](https://strata.money) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
