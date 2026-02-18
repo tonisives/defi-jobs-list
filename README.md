@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-17
+**Last updated:** 2026-02-18
 
-**Total protocols:** 915
+**Total protocols:** 917
 
 ## Protocols
 
@@ -751,6 +751,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Sentient | ashby | [https://jobs.ashbyhq.com/sentient](https://jobs.ashbyhq.com/sentient) |
 | Sequence | ashby | [https://jobs.ashbyhq.com/sequence](https://jobs.ashbyhq.com/sequence) |
 | Serotonin | lever | [https://jobs.lever.co/serotonin](https://jobs.lever.co/serotonin) |
+| sFOX | greenhouse | [https://boards.greenhouse.io/sfox](https://boards.greenhouse.io/sfox) |
 | [Shadow Exchange CLMM](https://www.shadow.so) | greenhouse | [https://boards.greenhouse.io/shadow](https://boards.greenhouse.io/shadow) |
 | [Shadow Exchange Legacy](https://www.shadow.so/) | greenhouse | [https://boards.greenhouse.io/shadow](https://boards.greenhouse.io/shadow) |
 | Shakepay | greenhouse | [https://boards.greenhouse.io/shakepay](https://boards.greenhouse.io/shakepay) |
@@ -770,6 +771,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [SoFi](https://www.sofi.com/careers) | greenhouse | [https://boards.greenhouse.io/sofi](https://boards.greenhouse.io/sofi) |
 | Solana | greenhouse | [https://boards.greenhouse.io/solana](https://boards.greenhouse.io/solana) |
 | Solana Foundation | ashby | [https://jobs.ashbyhq.com/Solana Foundation](https://jobs.ashbyhq.com/Solana Foundation) |
+| Solana Labs | greenhouse | [https://boards.greenhouse.io/solana](https://boards.greenhouse.io/solana) |
 | Solayer Labs | getro | [getro/solayer-labs](getro/solayer-labs) |
 | Solend | getro | [getro/solend](getro/solend) |
 | [Solera](https://app.solera.market/) | greenhouse | [https://boards.greenhouse.io/solera](https://boards.greenhouse.io/solera) |
