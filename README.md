@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-18
+**Last updated:** 2026-02-19
 
-**Total protocols:** 917
+**Total protocols:** 920
 
 ## Protocols
 
@@ -71,6 +71,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Arena SocialFi](https://arena.social/) | ashby | [https://jobs.ashbyhq.com/arena](https://jobs.ashbyhq.com/arena) |
 | ARK | greenhouse | [https://boards.greenhouse.io/ark](https://boards.greenhouse.io/ark) |
 | Arrakis Finance | getro | [getro/arrakis-finance-2](getro/arrakis-finance-2) |
+| [Arrakis Modular](https://arrakis.finance/) | ashby | [https://jobs.ashbyhq.com/arrakis](https://jobs.ashbyhq.com/arrakis) |
+| [Arrakis V1](https://arrakis.finance/) | ashby | [https://jobs.ashbyhq.com/arrakis](https://jobs.ashbyhq.com/arrakis) |
 | [Arrakis V2](https://arrakis.finance/) | workable | [https://apply.workable.com/arrakis-finance](https://apply.workable.com/arrakis-finance) |
 | Artemis | getro | [getro/artemis-2](getro/artemis-2) |
 | [Artemis Finance](https://artemisfinance.io/) | ashby | [https://jobs.ashbyhq.com/artemis](https://jobs.ashbyhq.com/artemis) |
@@ -555,6 +557,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Mimo V2](https://mimo.exchange) | recruitee | [https://mimo.recruitee.com](https://mimo.recruitee.com) |
 | [MineFi](https://minefi.io) | bamboohr | [https://mine.bamboohr.com/careers](https://mine.bamboohr.com/careers) |
 | [Minswap](https://minswap.org) | recruitee | [https://min.recruitee.com](https://min.recruitee.com) |
+| Mirror | workable | [https://apply.workable.com/mirror-labs](https://apply.workable.com/mirror-labs) |
 | [MM Finance Cronos](https://mm.finance) | greenhouse | [https://boards.greenhouse.io/mm](https://boards.greenhouse.io/mm) |
 | [Momentum](https://app.mmt.finance/trade) | bamboohr | [https://momentum.bamboohr.com/careers](https://momentum.bamboohr.com/careers) |
 | Monad Foundation | ashby | [https://jobs.ashbyhq.com/monad.foundation](https://jobs.ashbyhq.com/monad.foundation) |
@@ -896,7 +899,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Vesper](https://vesper.finance/) | greenhouse | [https://boards.greenhouse.io/vesper](https://boards.greenhouse.io/vesper) |
 | [Visa](https://corporate.visa.com/en/jobs/) | custom | [custom/visa](custom/visa) |
 | Volt Capital | bamboohr | [https://volt.bamboohr.com/careers](https://volt.bamboohr.com/careers) |
-| [Wasabi](https://www.wasabi.xyz) | greenhouse | [https://boards.greenhouse.io/wasabi](https://boards.greenhouse.io/wasabi) |
+| [Wasabi](https://app.wasabi.xyz/p/LKHR9) | greenhouse | [https://boards.greenhouse.io/wasabi](https://boards.greenhouse.io/wasabi) |
 | Waterfall | lever | [https://jobs.lever.co/waterfall](https://jobs.lever.co/waterfall) |
 | WeRate | getro | [getro/werate](getro/werate) |
 | Wirex | bamboohr | [https://wirex.bamboohr.com/careers](https://wirex.bamboohr.com/careers) |
