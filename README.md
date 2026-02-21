@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-20
+**Last updated:** 2026-02-21
 
 **Total protocols:** 920
 
@@ -166,7 +166,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Bullet | getro | [getro/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498](getro/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498) |
 | [Bunny](https://pancakebunny.finance/) | ashby | [https://jobs.ashbyhq.com/bunny](https://jobs.ashbyhq.com/bunny) |
 | [BunnySwap](https://www.friend.tech/) | ashby | [https://jobs.ashbyhq.com/bunny](https://jobs.ashbyhq.com/bunny) |
-| [Button Tranche](https://www.button.finance) | ashby | [https://jobs.ashbyhq.com/button](https://jobs.ashbyhq.com/button) |
+| [Button Tranche](https://app.button.finance/) | ashby | [https://jobs.ashbyhq.com/button](https://jobs.ashbyhq.com/button) |
 | BVNK | greenhouse | [https://boards.greenhouse.io/bvnk](https://boards.greenhouse.io/bvnk) |
 | [Bybit](https://www.bybit.com) | custom | [custom/bybit](custom/bybit) |
 | [BYDFi](https://www.bydfi.com/en) | greenhouse | [https://boards.greenhouse.io/byd](https://boards.greenhouse.io/byd) |
