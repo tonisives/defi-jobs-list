@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-22
+**Last updated:** 2026-02-23
 
-**Total protocols:** 922
+**Total protocols:** 924
 
 ## Protocols
 
@@ -857,6 +857,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Titan Aggregator | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | Titan Exchange | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | Toku | ashby | [https://jobs.ashbyhq.com/toku](https://jobs.ashbyhq.com/toku) |
+| TomNext | getro | [getro/tomnext](getro/tomnext) |
 | [Tomo](https://tomo.inc) | ashby | [https://jobs.ashbyhq.com/tomo](https://jobs.ashbyhq.com/tomo) |
 | Tools for Humanity | ashby | [https://jobs.ashbyhq.com/Tools for Humanity](https://jobs.ashbyhq.com/Tools for Humanity) |
 | [Tothemoon](https://tothemoon.com) | bamboohr | [https://tothemoon.bamboohr.com/careers](https://tothemoon.bamboohr.com/careers) |
@@ -911,6 +912,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | World | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
+| [World Markets Inc Spot](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | Wormhole | ashby | [https://jobs.ashbyhq.com/wormholelabs](https://jobs.ashbyhq.com/wormholelabs) |
 | Wormhole Labs | getro | [getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d](getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d) |
 | Wynd Labs | ashby | [https://jobs.ashbyhq.com/wynd-labs](https://jobs.ashbyhq.com/wynd-labs) |
