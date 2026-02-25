@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-24
+**Last updated:** 2026-02-25
 
-**Total protocols:** 924
+**Total protocols:** 926
 
 ## Protocols
 
@@ -267,6 +267,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Dodo | recruitee | [https://dodo.recruitee.com](https://dodo.recruitee.com) |
 | DODO Agg | recruitee | [https://dodo.recruitee.com](https://dodo.recruitee.com) |
 | [DODO AMM](https://dodoex.io/) | recruitee | [https://dodo.recruitee.com](https://dodo.recruitee.com) |
+| [Doma DEX V3](https://app.doma.xyz/swap) | greenhouse | [https://boards.greenhouse.io/doma](https://boards.greenhouse.io/doma) |
 | [Doppler Finance](https://app.doppler.finance) | ashby | [https://jobs.ashbyhq.com/doppler](https://jobs.ashbyhq.com/doppler) |
 | Double Protocol | ashby | [https://jobs.ashbyhq.com/double](https://jobs.ashbyhq.com/double) |
 | DoubleZero | getro | [getro/doublezero](getro/doublezero) |
@@ -914,6 +915,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | [World Markets Inc Spot](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | Wormhole | ashby | [https://jobs.ashbyhq.com/wormholelabs](https://jobs.ashbyhq.com/wormholelabs) |
+| Wormhole Foundation | getro | [getro/wormhole-foundation-2](getro/wormhole-foundation-2) |
 | Wormhole Labs | getro | [getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d](getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d) |
 | Wynd Labs | ashby | [https://jobs.ashbyhq.com/wynd-labs](https://jobs.ashbyhq.com/wynd-labs) |
 | xLabs | getro | [getro/xlabs-2](getro/xlabs-2) |
