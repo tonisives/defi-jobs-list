@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-25
+**Last updated:** 2026-02-26
 
 **Total protocols:** 926
 
@@ -16,7 +16,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [1inch](https://1inch.com) | lever | [https://jobs.lever.co/1inch](https://jobs.lever.co/1inch) |
 | 1inch Labs | lever | [https://jobs.lever.co/1inch](https://jobs.lever.co/1inch) |
 | 21Shares | greenhouse | [https://boards.greenhouse.io/21shares](https://boards.greenhouse.io/21shares) |
-| [3jane Lending](https://www.3jane.xyz/) | lever | [https://jobs.lever.co/3jane](https://jobs.lever.co/3jane) |
+| [3Jane Lending](https://www.3jane.xyz/) | lever | [https://jobs.lever.co/3jane](https://jobs.lever.co/3jane) |
 | a16z crypto | greenhouse | [https://boards.greenhouse.io/a16z](https://boards.greenhouse.io/a16z) |
 | Aave | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [Aave Aptos](https://aave.com) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
