@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-02-26
+**Last updated:** 2026-02-27
 
-**Total protocols:** 926
+**Total protocols:** 929
 
 ## Protocols
 
@@ -169,6 +169,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Button Tranche](https://app.button.finance/) | ashby | [https://jobs.ashbyhq.com/button](https://jobs.ashbyhq.com/button) |
 | BVNK | greenhouse | [https://boards.greenhouse.io/bvnk](https://boards.greenhouse.io/bvnk) |
 | [Bybit](https://www.bybit.com) | custom | [custom/bybit](custom/bybit) |
+| [Bybit Staked SOL](https://www.bybit.com/en/web3/staking/BybitSOL) | greenhouse | [https://boards.greenhouse.io/bybit](https://boards.greenhouse.io/bybit) |
 | [BYDFi](https://www.bydfi.com/en) | greenhouse | [https://boards.greenhouse.io/byd](https://boards.greenhouse.io/byd) |
 | Caladan | greenhouse | [https://boards.greenhouse.io/caladan](https://boards.greenhouse.io/caladan) |
 | [Canopy](https://app.canopyhub.xyz) | bamboohr | [https://canopy.bamboohr.com/careers](https://canopy.bamboohr.com/careers) |
@@ -221,6 +222,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Compound Blue](https://www.compound.blue/) | ashby | [https://jobs.ashbyhq.com/compound](https://jobs.ashbyhq.com/compound) |
 | Compound Labs | ashby | [https://jobs.ashbyhq.com/compound](https://jobs.ashbyhq.com/compound) |
 | Conduit | ashby | [https://jobs.ashbyhq.com/conduit](https://jobs.ashbyhq.com/conduit) |
+| [Conduit Bridge](https://www.conduit.xyz/) | ashby | [https://jobs.ashbyhq.com/conduit](https://jobs.ashbyhq.com/conduit) |
 | [Connext](https://connext.network/) | lever | [https://jobs.lever.co/connext-network](https://jobs.lever.co/connext-network) |
 | Consensys | greenhouse | [https://boards.greenhouse.io/consensys](https://boards.greenhouse.io/consensys) |
 | Consensys Diligence | greenhouse | [https://boards.greenhouse.io/consensys](https://boards.greenhouse.io/consensys) |
@@ -539,6 +541,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Meridian AMM](https://www.meridian.money) | ashby | [https://jobs.ashbyhq.com/meridian](https://jobs.ashbyhq.com/meridian) |
 | Merit Circle | greenhouse | [https://boards.greenhouse.io/merit](https://boards.greenhouse.io/merit) |
 | Merkle Science | lever | [https://jobs.lever.co/merklescience](https://jobs.lever.co/merklescience) |
+| Mesh | greenhouse | [https://boards.greenhouse.io/mesh](https://boards.greenhouse.io/mesh) |
 | [Meshswap](https://meshswap.fi) | greenhouse | [https://boards.greenhouse.io/mesh](https://boards.greenhouse.io/mesh) |
 | Messari | greenhouse | [https://boards.greenhouse.io/messari](https://boards.greenhouse.io/messari) |
 | [Meta Pool ETH](https://metapool.app) | bamboohr | [https://metalabs.bamboohr.com/careers](https://metalabs.bamboohr.com/careers) |
