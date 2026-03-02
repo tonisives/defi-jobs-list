@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-01
+**Last updated:** 2026-03-02
 
-**Total protocols:** 930
+**Total protocols:** 931
 
 ## Protocols
 
@@ -302,6 +302,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Elliptic | ashby | [https://jobs.ashbyhq.com/elliptic](https://jobs.ashbyhq.com/elliptic) |
 | [Ember Protocol](https://ember.so/) | recruitee | [https://ember.recruitee.com](https://ember.recruitee.com) |
 | [Endurance Bridge](https://endurance-bridge.fusionist.io/) | ashby | [https://jobs.ashbyhq.com/endurance-labs](https://jobs.ashbyhq.com/endurance-labs) |
+| Enjoyoors | getro | [getro/enjoyoors](getro/enjoyoors) |
 | Enterprise Ethereum Alliance | recruitee | [https://enterprise.recruitee.com](https://enterprise.recruitee.com) |
 | [Equilibrium Lending](https://app.equilibrium.io/market) | greenhouse | [https://boards.greenhouse.io/equilibrium](https://boards.greenhouse.io/equilibrium) |
 | Ergonia | getro | [getro/ergonia](getro/ergonia) |
