@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-02
+**Last updated:** 2026-03-03
 
 **Total protocols:** 931
 
@@ -202,7 +202,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | cLabs | greenhouse | [https://boards.greenhouse.io/cio](https://boards.greenhouse.io/cio) |
 | [Clarity](https://www.clarity.community/) | ashby | [https://jobs.ashbyhq.com/clarity](https://jobs.ashbyhq.com/clarity) |
 | [CLever](https://clever.aladdin.club/) | greenhouse | [https://boards.greenhouse.io/clever](https://boards.greenhouse.io/clever) |
-| Clip Finance | bamboohr | [https://clip.bamboohr.com/careers](https://clip.bamboohr.com/careers) |
+| [Clip Finance](https://www.clip.finance/) | bamboohr | [https://clip.bamboohr.com/careers](https://clip.bamboohr.com/careers) |
 | [Clutch Markets](https://clutch.market) | bamboohr | [https://clutch.bamboohr.com/careers](https://clutch.bamboohr.com/careers) |
 | Cobo | greenhouse | [https://boards.greenhouse.io/cobo](https://boards.greenhouse.io/cobo) |
 | Codigo | getro | [getro/codigo](getro/codigo) |
