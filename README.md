@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-04
+**Last updated:** 2026-03-05
 
-**Total protocols:** 931
+**Total protocols:** 932
 
 ## Protocols
 
@@ -518,6 +518,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Mach | ashby | [https://jobs.ashbyhq.com/mach](https://jobs.ashbyhq.com/mach) |
 | Magic | greenhouse | [https://boards.greenhouse.io/magic](https://boards.greenhouse.io/magic) |
 | Magic Eden | ashby | [https://jobs.ashbyhq.com/magiceden](https://jobs.ashbyhq.com/magiceden) |
+| MagicBlock | getro | [getro/magicblock-2-2ffbf174-2d5f-4549-8b52-bca97f08fbdc](getro/magicblock-2-2ffbf174-2d5f-4549-8b52-bca97f08fbdc) |
 | [Magma](https://magmafinance.io/) | bamboohr | [https://magmalabs.bamboohr.com/careers](https://magmalabs.bamboohr.com/careers) |
 | [Magma Finance](https://magma.finance) | bamboohr | [https://magmalabs.bamboohr.com/careers](https://magmalabs.bamboohr.com/careers) |
 | [Magma Staking](https://www.magmastaking.xyz/) | bamboohr | [https://magmalabs.bamboohr.com/careers](https://magmalabs.bamboohr.com/careers) |
@@ -807,7 +808,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Stable Jack V1](https://www.stablejack.xyz) | ashby | [https://jobs.ashbyhq.com/stable](https://jobs.ashbyhq.com/stable) |
 | Stacks | ashby | [https://jobs.ashbyhq.com/stacks](https://jobs.ashbyhq.com/stacks) |
 | Stacks Foundation | ashby | [https://jobs.ashbyhq.com/stacks](https://jobs.ashbyhq.com/stacks) |
-| [Stacks sBTC](https://docs.stacks.co/concepts/sbtc/clarity-contracts/sbtc-deposit) | ashby | [https://jobs.ashbyhq.com/stacks](https://jobs.ashbyhq.com/stacks) |
+| [Stacks sBTC](https://docs.stacks.co/more-guides/sbtc) | ashby | [https://jobs.ashbyhq.com/stacks](https://jobs.ashbyhq.com/stacks) |
 | [Stader](https://staderlabs.com) | greenhouse | [https://boards.greenhouse.io/staderlabs](https://boards.greenhouse.io/staderlabs) |
 | [Stake DAO](https://stakedao.org/) | bamboohr | [https://stake.bamboohr.com/careers](https://stake.bamboohr.com/careers) |
 | [StakeWise V2](https://stakewise.io/) | wellfound | [https://wellfound.com/company/stakewise/jobs](https://wellfound.com/company/stakewise/jobs) |
