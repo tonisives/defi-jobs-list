@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-05
+**Last updated:** 2026-03-06
 
-**Total protocols:** 932
+**Total protocols:** 933
 
 ## Protocols
 
@@ -803,6 +803,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Sphere | getro | [getro/sphere-2-616d53dc-510a-46c7-a2a6-e569d8c70b50](getro/sphere-2-616d53dc-510a-46c7-a2a6-e569d8c70b50) |
 | [Sphere Finance](https://sphere.finance) | ashby | [https://jobs.ashbyhq.com/sphere](https://jobs.ashbyhq.com/sphere) |
 | Spiral | ashby | [https://jobs.ashbyhq.com/spiral](https://jobs.ashbyhq.com/spiral) |
+| SpruceID | ashby | [https://jobs.ashbyhq.com/spruceid](https://jobs.ashbyhq.com/spruceid) |
 | Squads | getro | [getro/squads-2-f6fb25b1-e381-4b5c-ae8c-7d8b128601ff](getro/squads-2-f6fb25b1-e381-4b5c-ae8c-7d8b128601ff) |
 | [SSV Network](https://ssv.network/) | greenhouse | [https://boards.greenhouse.io/bloxstaking](https://boards.greenhouse.io/bloxstaking) |
 | [Stable Jack V1](https://www.stablejack.xyz) | ashby | [https://jobs.ashbyhq.com/stable](https://jobs.ashbyhq.com/stable) |
