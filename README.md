@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-07
+**Last updated:** 2026-03-11
 
-**Total protocols:** 934
+**Total protocols:** 936
 
 ## Protocols
 
@@ -123,8 +123,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [BetterSwap](https://www.betterswap.io) | lever | [https://jobs.lever.co/better](https://jobs.lever.co/better) |
 | Biconomy | ashby | [https://jobs.ashbyhq.com/biconomy](https://jobs.ashbyhq.com/biconomy) |
 | [Bifrost Dex](https://bifrost.finance) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
-| [Bifrost Liquid Crowdloan](https://bifrost.io/) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
-| [Bifrost Liquid Staking](https://bifrost.io/) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
+| [Bifrost Liquid Crowdloan](https://app.bifrost.io/?channelId=17) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
+| [Bifrost Liquid Staking](https://app.bifrost.io/?channelId=17) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
 | Binance | lever | [https://jobs.lever.co/binance](https://jobs.lever.co/binance) |
 | [Binance CEX](https://www.binance.com) | lever | [https://jobs.lever.co/binance](https://jobs.lever.co/binance) |
 | Binance.US | ashby | [https://jobs.ashbyhq.com/binance.us](https://jobs.ashbyhq.com/binance.us) |
@@ -425,6 +425,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [IDEX V1](https://kuma.bid/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
 | IEX | greenhouse | [https://boards.greenhouse.io/iex](https://boards.greenhouse.io/iex) |
 | [Ignition LST](https://app.ignitionfi.xyz/) | greenhouse | [https://boards.greenhouse.io/ignition](https://boards.greenhouse.io/ignition) |
+| Immunefi | greenhouse | [https://boards.greenhouse.io/immunefi](https://boards.greenhouse.io/immunefi) |
 | Immutable | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
 | [Immutable zkEVM](https://www.immutable.com/) | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
 | Impossible Cloud | lever | [https://jobs.lever.co/impossiblecloud](https://jobs.lever.co/impossiblecloud) |
@@ -794,7 +795,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Somnia | ashby | [https://jobs.ashbyhq.com/somnia](https://jobs.ashbyhq.com/somnia) |
 | [Sonic Gateway](https://gateway.soniclabs.com/ethereum/sonic/s) | greenhouse | [https://boards.greenhouse.io/sonic](https://boards.greenhouse.io/sonic) |
 | [Sonic ICP](https://sonic.ooo) | greenhouse | [https://boards.greenhouse.io/sonic](https://boards.greenhouse.io/sonic) |
-| [Soon](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
+| [SOON](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
 | Sorare | ashby | [https://jobs.ashbyhq.com/sorare](https://jobs.ashbyhq.com/sorare) |
 | [Sorare Bridge](https://sorare.com/) | ashby | [https://jobs.ashbyhq.com/sorare](https://jobs.ashbyhq.com/sorare) |
 | [Spark Savings](https://data.spark.fi/savings/) | recruitee | [https://spark.recruitee.com](https://spark.recruitee.com) |
@@ -861,6 +862,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Tether | recruitee | [https://tether.recruitee.com](https://tether.recruitee.com) |
 | [Tether Gold](https://gold.tether.to/) | recruitee | [https://tether.recruitee.com](https://tether.recruitee.com) |
 | The Block | lever | [https://jobs.lever.co/theblockcrypto](https://jobs.lever.co/theblockcrypto) |
+| Thesis | ashby | [https://jobs.ashbyhq.com/thesis](https://jobs.ashbyhq.com/thesis) |
 | THORSwap | bamboohr | [https://thor.bamboohr.com/careers](https://thor.bamboohr.com/careers) |
 | Titan | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | Titan Aggregator | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
