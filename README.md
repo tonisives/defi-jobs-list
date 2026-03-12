@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-11
+**Last updated:** 2026-03-12
 
 **Total protocols:** 936
 
@@ -104,7 +104,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Aztec Connect](https://aztec.network) | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
 | [B.Protocol](https://app.bprotocol.org/) | ashby | [https://jobs.ashbyhq.com/bio](https://jobs.ashbyhq.com/bio) |
 | B2C2 | greenhouse | [https://boards.greenhouse.io/b2c2](https://boards.greenhouse.io/b2c2) |
-| [Babylon Protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
+| [babylon-protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
 | [Backpack](https://backpack.exchange) | ashby | [https://jobs.ashbyhq.com/backpack](https://jobs.ashbyhq.com/backpack) |
 | Bags | ashby | [https://jobs.ashbyhq.com/bags](https://jobs.ashbyhq.com/bags) |
 | Base | ashby | [https://jobs.ashbyhq.com/base](https://jobs.ashbyhq.com/base) |
@@ -653,7 +653,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Ostium](https://www.ostium.io/) | ashby | [https://jobs.ashbyhq.com/ostium](https://jobs.ashbyhq.com/ostium) |
 | P2P.org | ashby | [https://jobs.ashbyhq.com/p2p.org](https://jobs.ashbyhq.com/p2p.org) |
 | [Pact](https://app.pact.fi) | ashby | [https://jobs.ashbyhq.com/pactfi](https://jobs.ashbyhq.com/pactfi) |
-| [PancakeSwap AMM](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
+| [pancakeswap-amm](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
 | [Pando Leaf](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
 | [Pando Rings](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
 | Panther Protocol | greenhouse | [https://boards.greenhouse.io/pantherlabs](https://boards.greenhouse.io/pantherlabs) |
@@ -743,7 +743,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Ritual | greenhouse | [https://boards.greenhouse.io/ritual](https://boards.greenhouse.io/ritual) |
 | River | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
 | [River Omni-CDP](https://app.river.inc/) | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
-| [Robinhood](https://robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
+| [Robinhood](https://careers.robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | Rolla | bamboohr | [https://rolla.bamboohr.com/careers](https://rolla.bamboohr.com/careers) |
 | [Rooster Protocol V1](https://www.rooster-protocol.xyz/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
 | [Rooster Protocol V2](https://www.rooster-protocol.xyz/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
