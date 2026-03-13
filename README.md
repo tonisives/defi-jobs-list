@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-12
+**Last updated:** 2026-03-13
 
-**Total protocols:** 936
+**Total protocols:** 937
 
 ## Protocols
 
@@ -924,6 +924,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | [World Markets Inc Spot](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
+| [World Markets Spot](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | Wormhole | ashby | [https://jobs.ashbyhq.com/wormholelabs](https://jobs.ashbyhq.com/wormholelabs) |
 | Wormhole Foundation | getro | [getro/wormhole-foundation-2](getro/wormhole-foundation-2) |
 | Wormhole Labs | getro | [getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d](getro/wormhole-labs-2-be889885-4d16-4911-98e8-707a8bef2d3d) |
