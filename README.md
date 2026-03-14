@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-13
+**Last updated:** 2026-03-14
 
-**Total protocols:** 937
+**Total protocols:** 938
 
 ## Protocols
 
@@ -265,6 +265,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [DFlow Prediction Market](https://dflow.net/) | greenhouse | [https://boards.greenhouse.io/dflow](https://boards.greenhouse.io/dflow) |
 | Dialect | getro | [getro/dialect](getro/dialect) |
 | Digital Currency Group | greenhouse | [https://boards.greenhouse.io/digitalcurrencygroup](https://boards.greenhouse.io/digitalcurrencygroup) |
+| Digitalx Limited (Asx:dcc) | getro | [getro/digitalx-limited-asx-dcc](getro/digitalx-limited-asx-dcc) |
 | Disco | greenhouse | [https://boards.greenhouse.io/disco](https://boards.greenhouse.io/disco) |
 | Dock | recruitee | [https://dock.recruitee.com](https://dock.recruitee.com) |
 | Dodo | recruitee | [https://dodo.recruitee.com](https://dodo.recruitee.com) |
