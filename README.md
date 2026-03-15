@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-14
+**Last updated:** 2026-03-15
 
-**Total protocols:** 938
+**Total protocols:** 939
 
 ## Protocols
 
@@ -358,6 +358,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Forte | recruitee | [https://forte.recruitee.com](https://forte.recruitee.com) |
 | Foundry | greenhouse | [https://boards.greenhouse.io/foundry](https://boards.greenhouse.io/foundry) |
 | Friends With Benefits | bamboohr | [https://friends.bamboohr.com/careers](https://friends.bamboohr.com/careers) |
+| Ftmo | getro | [getro/ftmo-2](getro/ftmo-2) |
 | [Fuel Bridge](https://app.fuel.network/bridge) | lever | [https://jobs.lever.co/fuellabs](https://jobs.lever.co/fuellabs) |
 | Fuel Labs | lever | [https://jobs.lever.co/fuellabs](https://jobs.lever.co/fuellabs) |
 | fun.xyz | lever | [https://jobs.lever.co/funxyz](https://jobs.lever.co/funxyz) |
@@ -746,8 +747,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [River Omni-CDP](https://app.river.inc/) | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
 | [Robinhood](https://careers.robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | Rolla | bamboohr | [https://rolla.bamboohr.com/careers](https://rolla.bamboohr.com/careers) |
-| [Rooster Protocol V1](https://www.rooster-protocol.xyz/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
-| [Rooster Protocol V2](https://www.rooster-protocol.xyz/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
+| [Rooster Protocol V1](https://www.rooster.trade/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
+| [Rooster Protocol V2](https://www.rooster.trade/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
 | Royal | bamboohr | [https://royal.bamboohr.com/careers](https://royal.bamboohr.com/careers) |
 | [Sable Finance](https://sable.finance) | ashby | [https://jobs.ashbyhq.com/sable](https://jobs.ashbyhq.com/sable) |
 | Safe | ashby | [https://jobs.ashbyhq.com/safe](https://jobs.ashbyhq.com/safe) |
