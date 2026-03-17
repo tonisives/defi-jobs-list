@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-16
+**Last updated:** 2026-03-17
 
-**Total protocols:** 939
+**Total protocols:** 940
 
 ## Protocols
 
@@ -387,6 +387,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Gravity Bridge](https://www.gravitybridge.net) | greenhouse | [https://boards.greenhouse.io/gravity](https://boards.greenhouse.io/gravity) |
 | [Gravity by Galxe](https://gravity.xyz/) | greenhouse | [https://boards.greenhouse.io/gravity](https://boards.greenhouse.io/gravity) |
 | Grayscale | greenhouse | [https://boards.greenhouse.io/grayscale](https://boards.greenhouse.io/grayscale) |
+| [Green Planet](https://app.planet.finance/) | ashby | [https://jobs.ashbyhq.com/green](https://jobs.ashbyhq.com/green) |
 | [Greenhouse Finance](https://greenhouse.finance/) | greenhouse | [https://boards.greenhouse.io/greenhouse](https://boards.greenhouse.io/greenhouse) |
 | [Gro](https://www.gro.xyz) | recruitee | [https://gro.recruitee.com](https://gro.recruitee.com) |
 | Groma | greenhouse | [https://boards.greenhouse.io/groma](https://boards.greenhouse.io/groma) |
