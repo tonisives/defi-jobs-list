@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-17
+**Last updated:** 2026-03-18
 
-**Total protocols:** 940
+**Total protocols:** 942
 
 ## Protocols
 
@@ -408,6 +408,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Hercules V3](https://app.hercules.exchange) | greenhouse | [https://boards.greenhouse.io/hercules](https://boards.greenhouse.io/hercules) |
 | Here Not There | greenhouse | [https://boards.greenhouse.io/hereio](https://boards.greenhouse.io/hereio) |
 | [HERE Wallet staking](https://herewallet.app/stake) | greenhouse | [https://boards.greenhouse.io/hereio](https://boards.greenhouse.io/hereio) |
+| Hifi Finance | ashby | [https://jobs.ashbyhq.com/hifi](https://jobs.ashbyhq.com/hifi) |
 | Hive Labs  | getro | [getro/hive-labs-2](getro/hive-labs-2) |
 | [Hive Protocol](https://hive.bsquared.network/) | lever | [https://jobs.lever.co/hive](https://jobs.lever.co/hive) |
 | Hologram | getro | [getro/hologram-2](getro/hologram-2) |
@@ -579,6 +580,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Moon Swap](https://moonswap.fi) | greenhouse | [https://boards.greenhouse.io/moon](https://boards.greenhouse.io/moon) |
 | [Moonchain](https://www.moonchain.com/) | greenhouse | [https://boards.greenhouse.io/moon](https://boards.greenhouse.io/moon) |
 | Moonpay | lever | [https://jobs.lever.co/moonpay](https://jobs.lever.co/moonpay) |
+| moonshot.money | getro | [getro/moonshot-money](getro/moonshot-money) |
 | [Morgan Stanley](https://www.morganstanley.com/careers) | workday | [https://morganstanley.myworkdayjobs.com](https://morganstanley.myworkdayjobs.com) |
 | Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
