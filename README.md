@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-18
+**Last updated:** 2026-03-19
 
-**Total protocols:** 942
+**Total protocols:** 943
 
 ## Protocols
 
@@ -205,6 +205,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Clip Finance](https://www.clip.finance/) | bamboohr | [https://clip.bamboohr.com/careers](https://clip.bamboohr.com/careers) |
 | [Clutch Markets](https://clutch.market) | bamboohr | [https://clutch.bamboohr.com/careers](https://clutch.bamboohr.com/careers) |
 | Cobo | greenhouse | [https://boards.greenhouse.io/cobo](https://boards.greenhouse.io/cobo) |
+| Codex | ashby | [https://jobs.ashbyhq.com/codex](https://jobs.ashbyhq.com/codex) |
 | Codigo | getro | [getro/codigo](getro/codigo) |
 | Coinbase | greenhouse | [https://boards.greenhouse.io/coinbase](https://boards.greenhouse.io/coinbase) |
 | [CoinDCX](https://coindcx.com) | mynexthire | [https://coindcx.mynexthire.com](https://coindcx.mynexthire.com) |
