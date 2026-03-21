@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-20
+**Last updated:** 2026-03-21
 
-**Total protocols:** 943
+**Total protocols:** 944
 
 ## Protocols
 
@@ -593,6 +593,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | N1 | ashby | [https://jobs.ashbyhq.com/n1](https://jobs.ashbyhq.com/n1) |
 | [Nabla Finance](https://nabla.fi) | ashby | [https://jobs.ashbyhq.com/nabla](https://jobs.ashbyhq.com/nabla) |
 | Nansen | greenhouse | [https://boards.greenhouse.io/nansen](https://boards.greenhouse.io/nansen) |
+| Nascent | ashby | [https://jobs.ashbyhq.com/nascent](https://jobs.ashbyhq.com/nascent) |
 | Nash | ashby | [https://jobs.ashbyhq.com/nash](https://jobs.ashbyhq.com/nash) |
 | Native | bamboohr | [https://native.bamboohr.com/careers](https://native.bamboohr.com/careers) |
 | [Native Credit Pool](https://native.org) | bamboohr | [https://native.bamboohr.com/careers](https://native.bamboohr.com/careers) |
