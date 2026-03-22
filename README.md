@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-21
+**Last updated:** 2026-03-22
 
 **Total protocols:** 944
 
@@ -122,7 +122,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Beta Finance V1](https://www.betafinance.org/) | recruitee | [https://beta.recruitee.com](https://beta.recruitee.com) |
 | [BetterSwap](https://www.betterswap.io) | lever | [https://jobs.lever.co/better](https://jobs.lever.co/better) |
 | Biconomy | ashby | [https://jobs.ashbyhq.com/biconomy](https://jobs.ashbyhq.com/biconomy) |
-| [Bifrost Dex](https://bifrost.finance) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
+| [Bifrost DEX](https://app.bifrost.io/swap) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
 | [Bifrost Liquid Crowdloan](https://app.bifrost.io/?channelId=17) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
 | [Bifrost Liquid Staking](https://app.bifrost.io/?channelId=17) | ashby | [https://jobs.ashbyhq.com/bifrost](https://jobs.ashbyhq.com/bifrost) |
 | Binance | lever | [https://jobs.lever.co/binance](https://jobs.lever.co/binance) |
