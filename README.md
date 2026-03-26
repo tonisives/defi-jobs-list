@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-25
+**Last updated:** 2026-03-26
 
-**Total protocols:** 944
+**Total protocols:** 946
 
 ## Protocols
 
@@ -139,6 +139,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | BitRobot Foundation | getro | [getro/bitrobot-foundation](getro/bitrobot-foundation) |
 | Bitso | greenhouse | [https://boards.greenhouse.io/bitso](https://boards.greenhouse.io/bitso) |
 | [Bitstamp](https://www.bitstamp.net) | workable | [https://apply.workable.com/bitstamp](https://apply.workable.com/bitstamp) |
+| [Bitvavo](https://bitvavo.com/en) | ashby | [https://jobs.ashbyhq.com/bitvavo](https://jobs.ashbyhq.com/bitvavo) |
 | Blackbird Labs | ashby | [https://jobs.ashbyhq.com/blackbird-labs-inc](https://jobs.ashbyhq.com/blackbird-labs-inc) |
 | [BlackRock](https://careers.blackrock.com) | custom | [custom/blackrock](custom/blackrock) |
 | [BlackRock BUIDL](https://securitize.io/) | greenhouse | [https://boards.greenhouse.io/securitize](https://boards.greenhouse.io/securitize) |
@@ -496,7 +497,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | LayerZero | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | LayerZero Labs | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | Ledger | ashby | [https://jobs.ashbyhq.com/ledger](https://jobs.ashbyhq.com/ledger) |
-| [Legion](https://legion.cc/) | greenhouse | [https://boards.greenhouse.io/legion](https://boards.greenhouse.io/legion) |
+| [Legion](https://legion.cc?homie=BNXWVHY6) | greenhouse | [https://boards.greenhouse.io/legion](https://boards.greenhouse.io/legion) |
 | [Lenfi](https://aada.finance) | bamboohr | [https://len.bamboohr.com/careers](https://len.bamboohr.com/careers) |
 | [Level](https://www.level.money) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
 | [Level Perps](https://app.level.finance) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
@@ -574,6 +575,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Minswap](https://minswap.org) | recruitee | [https://min.recruitee.com](https://min.recruitee.com) |
 | Mirror | workable | [https://apply.workable.com/mirror-labs](https://apply.workable.com/mirror-labs) |
 | [MM Finance Cronos](https://mm.finance) | greenhouse | [https://boards.greenhouse.io/mm](https://boards.greenhouse.io/mm) |
+| Molecule | getro | [getro/molecule-2-7e5b135d-da2a-4010-8aed-f55aaa6a1dbc](getro/molecule-2-7e5b135d-da2a-4010-8aed-f55aaa6a1dbc) |
 | [Momentum](https://app.mmt.finance/trade) | bamboohr | [https://momentum.bamboohr.com/careers](https://momentum.bamboohr.com/careers) |
 | Monad Foundation | ashby | [https://jobs.ashbyhq.com/monad.foundation](https://jobs.ashbyhq.com/monad.foundation) |
 | [MoneyFi](https://app.moneyfi.fund/) | bamboohr | [https://money.bamboohr.com/careers](https://money.bamboohr.com/careers) |
@@ -696,7 +698,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Pollen | bamboohr | [https://pollen.bamboohr.com/careers](https://pollen.bamboohr.com/careers) |
 | Polychain Capital | greenhouse | [https://boards.greenhouse.io/polychaincapital](https://boards.greenhouse.io/polychaincapital) |
 | Polygon | ashby | [https://jobs.ashbyhq.com/polygon-labs](https://jobs.ashbyhq.com/polygon-labs) |
-| [Polymarket](https://polymarket.com?via=defi-llama) | ashby | [https://jobs.ashbyhq.com/polymarket](https://jobs.ashbyhq.com/polymarket) |
+| [Polymarket](https://polymarket.com/?r=defillamareal) | ashby | [https://jobs.ashbyhq.com/polymarket](https://jobs.ashbyhq.com/polymarket) |
 | [Polynomial](https://trade.polynomial.fi) | bamboohr | [https://polynomial.bamboohr.com/careers](https://polynomial.bamboohr.com/careers) |
 | Polynomial Protocol | bamboohr | [https://polynomial.bamboohr.com/careers](https://polynomial.bamboohr.com/careers) |
 | [Polynomial Trade](https://trade.polynomial.fi) | bamboohr | [https://polynomial.bamboohr.com/careers](https://polynomial.bamboohr.com/careers) |
