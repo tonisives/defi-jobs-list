@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-30
+**Last updated:** 2026-03-31
 
-**Total protocols:** 946
+**Total protocols:** 948
 
 ## Protocols
 
@@ -21,6 +21,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Aave | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [Aave Aptos](https://aave.com) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [Aave Horizon RWA](https://app.aave.com/markets/?marketName=proto_horizon_v3) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
+| [Aave V4](https://aave.com) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [ABC Pool](https://confluxpos.cn) | greenhouse | [https://boards.greenhouse.io/abc](https://boards.greenhouse.io/abc) |
 | [Abracadabra Spell](https://abracadabra.money/) | recruitee | [https://abracadabra.recruitee.com](https://abracadabra.recruitee.com) |
 | Accenture | recruitee | [https://accenture.recruitee.com](https://accenture.recruitee.com) |
@@ -736,6 +737,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Recall | ashby | [https://jobs.ashbyhq.com/recall](https://jobs.ashbyhq.com/recall) |
 | Reef Finance | recruitee | [https://reef.recruitee.com](https://reef.recruitee.com) |
 | Reflect | getro | [getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325](getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325) |
+| [RelayChain](https://www.relaychain.com) | lever | [https://jobs.lever.co/relay](https://jobs.lever.co/relay) |
 | Render Foundation | ashby | [https://jobs.ashbyhq.com/render](https://jobs.ashbyhq.com/render) |
 | [Renegade](https://trade.renegade.fi) | lever | [https://jobs.lever.co/renegade](https://jobs.lever.co/renegade) |
 | Reserve | ashby | [https://jobs.ashbyhq.com/reserve](https://jobs.ashbyhq.com/reserve) |
