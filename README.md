@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-03-31
+**Last updated:** 2026-04-01
 
 **Total protocols:** 948
 
@@ -86,7 +86,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Atrium](https://atrium.io/) | bamboohr | [https://atrium.bamboohr.com/careers](https://atrium.bamboohr.com/careers) |
 | [Atrix](https://www.atrix.finance) | ashby | [https://jobs.ashbyhq.com/atrix](https://jobs.ashbyhq.com/atrix) |
 | Auditless | ashby | [https://jobs.ashbyhq.com/auditless](https://jobs.ashbyhq.com/auditless) |
-| [Augur](https://www.augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
+| [Augur](https://augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
 | Aura Aggregator | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aura Finance | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
