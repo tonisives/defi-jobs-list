@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-02
+**Last updated:** 2026-04-03
 
-**Total protocols:** 948
+**Total protocols:** 949
 
 ## Protocols
 
@@ -867,6 +867,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Teller Finance | lever | [https://jobs.lever.co/teller](https://jobs.lever.co/teller) |
 | [Telos Consilium](https://telosc.com/) | bamboohr | [https://telos.bamboohr.com/careers](https://telos.bamboohr.com/careers) |
 | Tempo | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
+| [Tempo Stablecoin Dex](https://tempo.xyz/) | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
 | Temporal | getro | [getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075](getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075) |
 | [Terminal Finance Pre-Deposits](https://terminal.fi/) | ashby | [https://jobs.ashbyhq.com/terminal](https://jobs.ashbyhq.com/terminal) |
 | Terra | lever | [https://jobs.lever.co/terrahq](https://jobs.lever.co/terrahq) |
