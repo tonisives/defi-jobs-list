@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-06
+**Last updated:** 2026-04-07
 
-**Total protocols:** 949
+**Total protocols:** 950
 
 ## Protocols
 
@@ -832,6 +832,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Star | getro | [getro/star-2-6dcdf5c5-fa98-425b-b185-c177836bda50](getro/star-2-6dcdf5c5-fa98-425b-b185-c177836bda50) |
 | [StarGate](https://stargate.vechain.org/) | ashby | [https://jobs.ashbyhq.com/stargate-foundation](https://jobs.ashbyhq.com/stargate-foundation) |
 | [Starknet Bridge](https://starkgate.starknet.io) | ashby | [https://jobs.ashbyhq.com/starknetfoundation](https://jobs.ashbyhq.com/starknetfoundation) |
+| [Starknet BTC Staking](https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/) | lever | [https://jobs.lever.co/starknet](https://jobs.lever.co/starknet) |
 | [Steakhouse Financial](https://www.steakhouse.financial/) | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar DEX](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
