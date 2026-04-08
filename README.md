@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-07
+**Last updated:** 2026-04-08
 
 **Total protocols:** 950
 
@@ -606,7 +606,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Nethermind | ashby | [https://jobs.ashbyhq.com/nethermind](https://jobs.ashbyhq.com/nethermind) |
 | [Newswap](https://app.newswap.org/) | greenhouse | [https://boards.greenhouse.io/new](https://boards.greenhouse.io/new) |
 | [Nexo](https://nexo.com/) | breezy | [https://nexo.breezy.hr](https://nexo.breezy.hr) |
-| [Nexus BTC](https://www.matrixport.com/nexusbtc) | bamboohr | [https://nexus.bamboohr.com/careers](https://nexus.bamboohr.com/careers) |
+| [Nexus BTC](https://www.bit.com/) | bamboohr | [https://nexus.bamboohr.com/careers](https://nexus.bamboohr.com/careers) |
 | [Nexus Mutual](https://nexusmutual.io/) | recruitee | [https://nexusmutual.recruitee.com](https://nexusmutual.recruitee.com) |
 | Nirvana Labs | ashby | [https://jobs.ashbyhq.com/nirvana](https://jobs.ashbyhq.com/nirvana) |
 | [Nirvana V2](https://www.nirvana.finance/) | ashby | [https://jobs.ashbyhq.com/nirvana](https://jobs.ashbyhq.com/nirvana) |
