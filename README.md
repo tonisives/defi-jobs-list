@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-10
+**Last updated:** 2026-04-11
 
-**Total protocols:** 950
+**Total protocols:** 951
 
 ## Protocols
 
@@ -699,6 +699,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Pollen | bamboohr | [https://pollen.bamboohr.com/careers](https://pollen.bamboohr.com/careers) |
 | Polychain Capital | greenhouse | [https://boards.greenhouse.io/polychaincapital](https://boards.greenhouse.io/polychaincapital) |
 | Polygon | ashby | [https://jobs.ashbyhq.com/polygon-labs](https://jobs.ashbyhq.com/polygon-labs) |
+| [Polygon Bridge](https://polygon.technology/) | ashby | [https://jobs.ashbyhq.com/polygon-labs](https://jobs.ashbyhq.com/polygon-labs) |
 | [Polymarket](https://polymarket.com/?r=defillamareal) | ashby | [https://jobs.ashbyhq.com/polymarket](https://jobs.ashbyhq.com/polymarket) |
 | [Polynomial](https://trade.polynomial.fi) | bamboohr | [https://polynomial.bamboohr.com/careers](https://polynomial.bamboohr.com/careers) |
 | Polynomial Protocol | bamboohr | [https://polynomial.bamboohr.com/careers](https://polynomial.bamboohr.com/careers) |
