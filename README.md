@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-14
+**Last updated:** 2026-04-15
 
-**Total protocols:** 952
+**Total protocols:** 953
 
 ## Protocols
 
@@ -584,6 +584,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Moon Swap](https://moonswap.fi) | greenhouse | [https://boards.greenhouse.io/moon](https://boards.greenhouse.io/moon) |
 | [Moonchain](https://www.moonchain.com/) | greenhouse | [https://boards.greenhouse.io/moon](https://boards.greenhouse.io/moon) |
 | Moonpay | lever | [https://jobs.lever.co/moonpay](https://jobs.lever.co/moonpay) |
+| Moonshot | getro | [getro/moonshot-2-949ce1a2-6d38-42d0-a878-d09bef92c13a](getro/moonshot-2-949ce1a2-6d38-42d0-a878-d09bef92c13a) |
 | moonshot.money | getro | [getro/moonshot-money](getro/moonshot-money) |
 | [Morgan Stanley](https://www.morganstanley.com/careers) | workday | [https://morganstanley.myworkdayjobs.com](https://morganstanley.myworkdayjobs.com) |
 | Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
