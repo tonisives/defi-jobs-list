@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-16
+**Last updated:** 2026-04-17
 
-**Total protocols:** 962
+**Total protocols:** 963
 
 ## Protocols
 
@@ -563,6 +563,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Meshswap](https://meshswap.fi) | greenhouse | [https://boards.greenhouse.io/mesh](https://boards.greenhouse.io/mesh) |
 | Messari | greenhouse | [https://boards.greenhouse.io/messari](https://boards.greenhouse.io/messari) |
 | [Meta Pool ETH](https://metapool.app) | bamboohr | [https://metalabs.bamboohr.com/careers](https://metalabs.bamboohr.com/careers) |
+| [Meta Pool mpSOL](https://www.metapool.app/stake?token=sol) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [Meta Pool Near](https://metapool.app) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [Meta Pool stIP](https://www.metapool.app/es/stake/?token=ip) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [MetaDAO](https://metadao.fi) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
