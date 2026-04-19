@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-18
+**Last updated:** 2026-04-19
 
 **Total protocols:** 963
 
@@ -100,7 +100,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Avant avETH](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Avant avUSD](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Axial](https://www.axial.exchange) | greenhouse | [https://boards.greenhouse.io/axial](https://boards.greenhouse.io/axial) |
-| Axiom | greenhouse | [https://boards.greenhouse.io/axiom](https://boards.greenhouse.io/axiom) |
+| [Axiom](https://axiom.trade/@defillama) | ashby | [https://jobs.ashbyhq.com/axiom](https://jobs.ashbyhq.com/axiom) |
 | Axiom Zen | greenhouse | [https://boards.greenhouse.io/axiom](https://boards.greenhouse.io/axiom) |
 | Aztec | ashby | [https://jobs.ashbyhq.com/aztec-labs](https://jobs.ashbyhq.com/aztec-labs) |
 | [Aztec Connect](https://aztec.network) | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
@@ -513,7 +513,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Lightning Labs | ashby | [https://jobs.ashbyhq.com/lightning](https://jobs.ashbyhq.com/lightning) |
 | [Lightning Network](https://lightning.network/) | ashby | [https://jobs.ashbyhq.com/lightning](https://jobs.ashbyhq.com/lightning) |
 | Lightspark | ashby | [https://jobs.ashbyhq.com/lightspark](https://jobs.ashbyhq.com/lightspark) |
-| LilSwap | bamboohr | [https://lil.bamboohr.com/careers](https://lil.bamboohr.com/careers) |
+| [LilSwap](https://app.lilswap.xyz) | bamboohr | [https://lil.bamboohr.com/careers](https://lil.bamboohr.com/careers) |
 | [Linea Bridge](https://bridge.linea.build) | greenhouse | [https://boards.greenhouse.io/consensys](https://boards.greenhouse.io/consensys) |
 | Linear Finance | ashby | [https://jobs.ashbyhq.com/linear](https://jobs.ashbyhq.com/linear) |
 | [LiNEAR Protocol](https://linearprotocol.org) | ashby | [https://jobs.ashbyhq.com/linear](https://jobs.ashbyhq.com/linear) |
@@ -598,7 +598,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
 | [Morpho V1](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
-| [Mosaic Aggregator](https://mosaic.ag) | ashby | [https://jobs.ashbyhq.com/mosaic](https://jobs.ashbyhq.com/mosaic) |
+| [Mosaic Aggregator](https://mosaic.ag) | bamboohr | [https://mosaic.bamboohr.com/careers](https://mosaic.bamboohr.com/careers) |
 | [Mosaic AMM](https://mosaic.ag) | bamboohr | [https://mosaic.bamboohr.com/careers](https://mosaic.bamboohr.com/careers) |
 | [MUX Perps](https://mux.network/) | ashby | [https://jobs.ashbyhq.com/mux](https://jobs.ashbyhq.com/mux) |
 | Mysten Labs | ashby | [https://jobs.ashbyhq.com/mystenlabs](https://jobs.ashbyhq.com/mystenlabs) |
@@ -804,7 +804,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Smart Valor | recruitee | [https://smartteam.recruitee.com](https://smartteam.recruitee.com) |
 | Smith + Crown | bamboohr | [https://smith.bamboohr.com/careers](https://smith.bamboohr.com/careers) |
 | Snapshot | bamboohr | [https://snapshot.bamboohr.com/careers](https://snapshot.bamboohr.com/careers) |
-| Socket | ashby | [https://jobs.ashbyhq.com/socket](https://jobs.ashbyhq.com/socket) |
+| Socket | greenhouse | [https://boards.greenhouse.io/socket](https://boards.greenhouse.io/socket) |
 | [SoFi](https://www.sofi.com/careers) | greenhouse | [https://boards.greenhouse.io/sofi](https://boards.greenhouse.io/sofi) |
 | Solana | greenhouse | [https://boards.greenhouse.io/solana](https://boards.greenhouse.io/solana) |
 | Solana Foundation | ashby | [https://jobs.ashbyhq.com/Solana Foundation](https://jobs.ashbyhq.com/Solana Foundation) |
@@ -876,7 +876,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Tangible RWA](https://www.tangible.store) | bamboohr | [https://tangible.bamboohr.com/careers](https://tangible.bamboohr.com/careers) |
 | [TAU Labs](https://www.628labs.xyz/) | greenhouse | [https://boards.greenhouse.io/tau](https://boards.greenhouse.io/tau) |
 | TaxBit | greenhouse | [https://boards.greenhouse.io/taxbit](https://boards.greenhouse.io/taxbit) |
-| [Teller](https://teller.org) | lever | [https://jobs.lever.co/teller](https://jobs.lever.co/teller) |
+| [Teller](https://teller.org) | recruitee | [https://teller.recruitee.com](https://teller.recruitee.com) |
 | Teller Finance | lever | [https://jobs.lever.co/teller](https://jobs.lever.co/teller) |
 | [Telos Consilium](https://telosc.com/) | bamboohr | [https://telos.bamboohr.com/careers](https://telos.bamboohr.com/careers) |
 | Tempo | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
