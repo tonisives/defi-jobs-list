@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-19
+**Last updated:** 2026-04-20
 
-**Total protocols:** 963
+**Total protocols:** 964
 
 ## Protocols
 
@@ -836,6 +836,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Stacks Foundation | ashby | [https://jobs.ashbyhq.com/stacks](https://jobs.ashbyhq.com/stacks) |
 | [Stacks sBTC](https://docs.stacks.co/more-guides/sbtc) | ashby | [https://jobs.ashbyhq.com/stacks](https://jobs.ashbyhq.com/stacks) |
 | [Stader](https://staderlabs.com) | greenhouse | [https://boards.greenhouse.io/staderlabs](https://boards.greenhouse.io/staderlabs) |
+| [Stafi](https://www.stafi.io/) | workable | [https://apply.workable.com/stafi](https://apply.workable.com/stafi) |
 | [Stake DAO](https://stakedao.org/) | bamboohr | [https://stake.bamboohr.com/careers](https://stake.bamboohr.com/careers) |
 | [StakeWise V2](https://stakewise.io/) | wellfound | [https://wellfound.com/company/stakewise/jobs](https://wellfound.com/company/stakewise/jobs) |
 | Staking Facilities GmbH | getro | [getro/staking-facilities-gmbh](getro/staking-facilities-gmbh) |
