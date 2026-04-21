@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-20
+**Last updated:** 2026-04-21
 
-**Total protocols:** 964
+**Total protocols:** 965
 
 ## Protocols
 
@@ -510,6 +510,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Level Perps](https://app.level.finance) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
 | LI.FI | getro | [getro/li-fi-2](getro/li-fi-2) |
 | [Lido](https://lido.fi/) | ashby | [https://jobs.ashbyhq.com/Lido.fi](https://jobs.ashbyhq.com/Lido.fi) |
+| lightcone.trade | getro | [getro/lightcone-trade](getro/lightcone-trade) |
 | Lightning Labs | ashby | [https://jobs.ashbyhq.com/lightning](https://jobs.ashbyhq.com/lightning) |
 | [Lightning Network](https://lightning.network/) | ashby | [https://jobs.ashbyhq.com/lightning](https://jobs.ashbyhq.com/lightning) |
 | Lightspark | ashby | [https://jobs.ashbyhq.com/lightspark](https://jobs.ashbyhq.com/lightspark) |
