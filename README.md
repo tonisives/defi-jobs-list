@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-22
+**Last updated:** 2026-04-23
 
-**Total protocols:** 965
+**Total protocols:** 967
 
 ## Protocols
 
@@ -597,6 +597,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | moonshot.money | getro | [getro/moonshot-money](getro/moonshot-money) |
 | [Morgan Stanley](https://www.morganstanley.com/careers) | workday | [https://morganstanley.myworkdayjobs.com](https://morganstanley.myworkdayjobs.com) |
 | Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
+| [Morpho Blue](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
 | [Morpho V1](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | [Mosaic Aggregator](https://mosaic.ag) | bamboohr | [https://mosaic.bamboohr.com/careers](https://mosaic.bamboohr.com/careers) |
@@ -748,6 +749,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Ready | greenhouse | [https://boards.greenhouse.io/ready](https://boards.greenhouse.io/ready) |
 | Recall | ashby | [https://jobs.ashbyhq.com/recall](https://jobs.ashbyhq.com/recall) |
 | Reef Finance | recruitee | [https://reef.recruitee.com](https://reef.recruitee.com) |
+| Refi Hub | getro | [getro/refi-hub](getro/refi-hub) |
 | Reflect | getro | [getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325](getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325) |
 | [RelayChain](https://www.relaychain.com) | lever | [https://jobs.lever.co/relay](https://jobs.lever.co/relay) |
 | Render Foundation | ashby | [https://jobs.ashbyhq.com/render](https://jobs.ashbyhq.com/render) |
