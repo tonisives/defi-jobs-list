@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-04-30
+**Last updated:** 2026-05-01
 
-**Total protocols:** 970
+**Total protocols:** 972
 
 ## Protocols
 
@@ -953,6 +953,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [WisdomTree](https://www.wisdomtreeprime.com/) | lever | [https://jobs.lever.co/wisdomtree](https://jobs.lever.co/wisdomtree) |
 | WOO | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
 | [WOO X](https://x.woo.org/en/trade) | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
+| [WOOFi Earn](https://fi.woo.org/earn) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
+| [WOOFi Swap](https://woofi.com/en/trade?ref=DEFILLAMA) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | World | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
