@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-03
+**Last updated:** 2026-05-04
 
 **Total protocols:** 972
 
@@ -108,7 +108,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Aztec Connect](https://aztec.network) | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
 | [B.Protocol](https://app.bprotocol.org/) | ashby | [https://jobs.ashbyhq.com/bio](https://jobs.ashbyhq.com/bio) |
 | B2C2 | greenhouse | [https://boards.greenhouse.io/b2c2](https://boards.greenhouse.io/b2c2) |
-| [Babylon Protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
+| [babylon-protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
 | [Backpack](https://backpack.exchange) | ashby | [https://jobs.ashbyhq.com/backpack](https://jobs.ashbyhq.com/backpack) |
 | Bags | ashby | [https://jobs.ashbyhq.com/bags](https://jobs.ashbyhq.com/bags) |
 | Base | ashby | [https://jobs.ashbyhq.com/base](https://jobs.ashbyhq.com/base) |
