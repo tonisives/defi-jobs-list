@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-05
+**Last updated:** 2026-05-06
 
-**Total protocols:** 972
+**Total protocols:** 974
 
 ## Protocols
 
@@ -528,6 +528,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Loop](https://www.loopfi.xyz/) | greenhouse | [https://boards.greenhouse.io/loop](https://boards.greenhouse.io/loop) |
 | [Loopscale](https://loop.sl/i/AVxMN) | getro | [getro/loopscale](getro/loopscale) |
 | [LTV Protocol](https://ltv.finance) | ashby | [https://jobs.ashbyhq.com/ltv](https://jobs.ashbyhq.com/ltv) |
+| Lukka | bamboohr | [https://lukka.bamboohr.com/careers](https://lukka.bamboohr.com/careers) |
 | [Lunar Finance Aggregator](https://lunarfinance.io) | ashby | [https://jobs.ashbyhq.com/lunar](https://jobs.ashbyhq.com/lunar) |
 | Luno | greenhouse | [https://boards.greenhouse.io/luno](https://boards.greenhouse.io/luno) |
 | Luxor Technology | ashby | [https://jobs.ashbyhq.com/luxor](https://jobs.ashbyhq.com/luxor) |
@@ -938,6 +939,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Vega Protocol | greenhouse | [https://boards.greenhouse.io/vega](https://boards.greenhouse.io/vega) |
 | [Velora](https://www.velora.xyz) | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
 | [Vendor V2](https://vendor.finance) | greenhouse | [https://boards.greenhouse.io/vendor](https://boards.greenhouse.io/vendor) |
+| [Ventuals](https://ventuals.com/trade) | ashby | [https://jobs.ashbyhq.com/ventuals](https://jobs.ashbyhq.com/ventuals) |
 | Venus | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
 | [Venus Core Pool](https://app.venus.io/#/core-pool) | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
 | [Venus Isolated Pools](https://app.venus.io/#/isolated-pools/) | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
