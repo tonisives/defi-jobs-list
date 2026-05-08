@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-07
+**Last updated:** 2026-05-08
 
-**Total protocols:** 974
+**Total protocols:** 975
 
 ## Protocols
 
@@ -706,6 +706,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Pika](https://pikaprotocol.com) | ashby | [https://jobs.ashbyhq.com/pika](https://jobs.ashbyhq.com/pika) |
 | [Plaid](https://plaid.com/careers) | lever | [https://jobs.lever.co/plaid](https://jobs.lever.co/plaid) |
 | Plasma | ashby | [https://jobs.ashbyhq.com/plasma](https://jobs.ashbyhq.com/plasma) |
+| [Plasma One](https://www.plasma.to/one) | ashby | [https://jobs.ashbyhq.com/plasma](https://jobs.ashbyhq.com/plasma) |
 | [Plasma Saving Vaults](https://app.plasma.to/) | ashby | [https://jobs.ashbyhq.com/plasma](https://jobs.ashbyhq.com/plasma) |
 | [PLEXUS](https://www.plexus.app) | lever | [https://jobs.lever.co/plexus](https://jobs.lever.co/plexus) |
 | Plume | greenhouse | [https://boards.greenhouse.io/plume](https://boards.greenhouse.io/plume) |
