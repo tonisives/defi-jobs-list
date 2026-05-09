@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-08
+**Last updated:** 2026-05-09
 
-**Total protocols:** 975
+**Total protocols:** 976
 
 ## Protocols
 
@@ -652,6 +652,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Onekey | bamboohr | [https://onekey.bamboohr.com/careers](https://onekey.bamboohr.com/careers) |
 | [OneSwap](https://www.oneswap.net) | bamboohr | [https://one.bamboohr.com/careers](https://one.bamboohr.com/careers) |
 | Onramper | recruitee | [https://onramper.recruitee.com](https://onramper.recruitee.com) |
+| Ooble Studio | getro | [getro/ooble-studio-2](getro/ooble-studio-2) |
 | OP Labs | ashby | [https://jobs.ashbyhq.com/oplabs](https://jobs.ashbyhq.com/oplabs) |
 | OpenBlock | ashby | [https://jobs.ashbyhq.com/openblock](https://jobs.ashbyhq.com/openblock) |
 | OpenSea | ashby | [https://jobs.ashbyhq.com/opensea](https://jobs.ashbyhq.com/opensea) |
