@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-10
+**Last updated:** 2026-05-11
 
-**Total protocols:** 976
+**Total protocols:** 977
 
 ## Protocols
 
@@ -521,6 +521,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Linear Finance | ashby | [https://jobs.ashbyhq.com/linear](https://jobs.ashbyhq.com/linear) |
 | [LiNEAR Protocol](https://linearprotocol.org) | ashby | [https://jobs.ashbyhq.com/linear](https://jobs.ashbyhq.com/linear) |
 | [Liquid Collective](https://liquidcollective.io) | ashby | [https://jobs.ashbyhq.com/liquid](https://jobs.ashbyhq.com/liquid) |
+| [Liquid Driver](https://www.liquiddriver.finance) | ashby | [https://jobs.ashbyhq.com/liquid](https://jobs.ashbyhq.com/liquid) |
 | [Liquid Ron](https://www.liquidron.com/) | ashby | [https://jobs.ashbyhq.com/liquid](https://jobs.ashbyhq.com/liquid) |
 | [LiquidSwap](https://liquidswap.com/) | ashby | [https://jobs.ashbyhq.com/liquid](https://jobs.ashbyhq.com/liquid) |
 | Localcoin | greenhouse | [https://boards.greenhouse.io/localcoin](https://boards.greenhouse.io/localcoin) |
