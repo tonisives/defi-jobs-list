@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-13
+**Last updated:** 2026-05-14
 
-**Total protocols:** 977
+**Total protocols:** 978
 
 ## Protocols
 
@@ -474,6 +474,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Jump Trading | greenhouse | [https://boards.greenhouse.io/jumptrading](https://boards.greenhouse.io/jumptrading) |
 | Jungle | getro | [getro/jungle-2-25e6c77b-9c50-4a7c-96b8-6a95df39f4ab](getro/jungle-2-25e6c77b-9c50-4a7c-96b8-6a95df39f4ab) |
 | Juno | greenhouse | [https://boards.greenhouse.io/juno](https://boards.greenhouse.io/juno) |
+| Jupiter | getro | [getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717](getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717) |
 | Kaiko | lever | [https://jobs.lever.co/kaiko](https://jobs.lever.co/kaiko) |
 | [Kalshi](https://kalshi.com/r/defillama) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
