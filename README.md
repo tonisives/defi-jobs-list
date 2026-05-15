@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-14
+**Last updated:** 2026-05-15
 
-**Total protocols:** 978
+**Total protocols:** 979
 
 ## Protocols
 
@@ -499,6 +499,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Kuru Aggregator](https://www.kuru.io/) | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
 | [Kuru CLOB](https://www.kuru.io/) | ashby | [https://jobs.ashbyhq.com/kuru-labs](https://jobs.ashbyhq.com/kuru-labs) |
 | Kuzco | getro | [getro/kuzco](getro/kuzco) |
+| [Kyros](https://kyros.fi) | getro | [getro/kyros-2-7d717628-662c-4341-bf2b-bb54570fd16f](getro/kyros-2-7d717628-662c-4341-bf2b-bb54570fd16f) |
 | kyros.fi | getro | [getro/kyros-fi](getro/kyros-fi) |
 | [Lantern Staked SOL](https://www.lantern.one/) | bamboohr | [https://lantern.bamboohr.com/careers](https://lantern.bamboohr.com/careers) |
 | [Latch](https://savings.latch.io/) | lever | [https://jobs.lever.co/latch](https://jobs.lever.co/latch) |
