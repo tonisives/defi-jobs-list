@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-19
+**Last updated:** 2026-05-20
 
 **Total protocols:** 980
 
@@ -572,7 +572,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Meta Pool ETH](https://metapool.app) | bamboohr | [https://metalabs.bamboohr.com/careers](https://metalabs.bamboohr.com/careers) |
 | [Meta Pool mpSOL](https://www.metapool.app/stake?token=sol) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [Meta Pool Near](https://metapool.app) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
-| [Meta Pool stIP](https://www.metapool.app/es/stake/?token=ip) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
+| [Meta Pool stIP](https://main.metapool.app/) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | [MetaDAO](https://metadao.fi) | recruitee | [https://meta.recruitee.com](https://meta.recruitee.com) |
 | Metal Pay | ashby | [https://jobs.ashbyhq.com/metal](https://jobs.ashbyhq.com/metal) |
 | Metaplex | getro | [getro/metaplex-2](getro/metaplex-2) |
