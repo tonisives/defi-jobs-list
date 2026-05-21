@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-20
+**Last updated:** 2026-05-21
 
-**Total protocols:** 980
+**Total protocols:** 981
 
 ## Protocols
 
@@ -356,6 +356,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Flamingo Lend](https://flamingo.finance/lend/overview) | greenhouse | [https://boards.greenhouse.io/flamingo](https://boards.greenhouse.io/flamingo) |
 | Flare | bamboohr | [https://flare.bamboohr.com/careers](https://flare.bamboohr.com/careers) |
 | Flashbots | ashby | [https://jobs.ashbyhq.com/flashbots.net](https://jobs.ashbyhq.com/flashbots.net) |
+| [Flex](https://flexmeow.com/) | greenhouse | [https://boards.greenhouse.io/flex](https://boards.greenhouse.io/flex) |
 | [Flex Perpetuals](https://flex.trade) | greenhouse | [https://boards.greenhouse.io/flex](https://boards.greenhouse.io/flex) |
 | Flipside | greenhouse | [https://boards.greenhouse.io/flipside](https://boards.greenhouse.io/flipside) |
 | Flipside Crypto | greenhouse | [https://boards.greenhouse.io/flipside](https://boards.greenhouse.io/flipside) |
