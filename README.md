@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-21
+**Last updated:** 2026-05-22
 
 **Total protocols:** 981
 
