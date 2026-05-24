@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-23
+**Last updated:** 2026-05-24
 
-**Total protocols:** 981
+**Total protocols:** 982
 
 ## Protocols
 
@@ -477,7 +477,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Juno | greenhouse | [https://boards.greenhouse.io/juno](https://boards.greenhouse.io/juno) |
 | Jupiter | getro | [getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717](getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717) |
 | Kaiko | lever | [https://jobs.lever.co/kaiko](https://jobs.lever.co/kaiko) |
-| [Kalshi](https://kalshi.com/r/defillama) | greenhouse | [https://boards.greenhouse.io/kalshi](https://boards.greenhouse.io/kalshi) |
+| [Kalshi](https://kalshi.com/r/defillama) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
@@ -819,7 +819,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Snapshot | bamboohr | [https://snapshot.bamboohr.com/careers](https://snapshot.bamboohr.com/careers) |
 | Socket | greenhouse | [https://boards.greenhouse.io/socket](https://boards.greenhouse.io/socket) |
 | [SoFi](https://www.sofi.com/careers) | greenhouse | [https://boards.greenhouse.io/sofi](https://boards.greenhouse.io/sofi) |
-| Solana | greenhouse | [https://boards.greenhouse.io/solana](https://boards.greenhouse.io/solana) |
+| [Solana](https://solana.com/) | ashby | [https://jobs.ashbyhq.com/solanalabs](https://jobs.ashbyhq.com/solanalabs) |
 | Solana Foundation | ashby | [https://jobs.ashbyhq.com/Solana Foundation](https://jobs.ashbyhq.com/Solana Foundation) |
 | Solana Labs | greenhouse | [https://boards.greenhouse.io/solana](https://boards.greenhouse.io/solana) |
 | Solayer Labs | getro | [getro/solayer-labs](getro/solayer-labs) |
@@ -944,7 +944,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Variant Fund | ashby | [https://jobs.ashbyhq.com/variant-fund](https://jobs.ashbyhq.com/variant-fund) |
 | [Veda](https://veda.tech) | lever | [https://jobs.lever.co/vedatechlabs](https://jobs.lever.co/vedatechlabs) |
 | Vega Protocol | greenhouse | [https://boards.greenhouse.io/vega](https://boards.greenhouse.io/vega) |
-| [Velora](https://app.velora.xyz/) | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
+| [Velora](https://app.velora.xyz/?ref=MHg3OThmRjFlNkQ3QUZkMjhjMzMzZUU2ZUJlMDMxMjVkMzBlYzZlRjEw) | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
 | [Vendor V2](https://vendor.finance) | greenhouse | [https://boards.greenhouse.io/vendor](https://boards.greenhouse.io/vendor) |
 | [Ventuals](https://ventuals.com/trade) | ashby | [https://jobs.ashbyhq.com/ventuals](https://jobs.ashbyhq.com/ventuals) |
 | Venus | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
@@ -982,6 +982,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [YO Protocol](https://app.yo.xyz?ref=defillama) | ashby | [https://jobs.ashbyhq.com/yolabs](https://jobs.ashbyhq.com/yolabs) |
 | Zeal | ashby | [https://jobs.ashbyhq.com/zeal-network](https://jobs.ashbyhq.com/zeal-network) |
 | Zerion | lever | [https://jobs.lever.co/zerion](https://jobs.lever.co/zerion) |
+| [Zerion Aggregator](https://zerion.io) | lever | [https://jobs.lever.co/zerion](https://jobs.lever.co/zerion) |
 | Zero Hash | greenhouse | [https://boards.greenhouse.io/zero](https://boards.greenhouse.io/zero) |
 | [Zero Network](https://zero.network/) | greenhouse | [https://boards.greenhouse.io/zero](https://boards.greenhouse.io/zero) |
 | ZetaChain | lever | [https://jobs.lever.co/zeta](https://jobs.lever.co/zeta) |
