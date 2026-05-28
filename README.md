@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-27
+**Last updated:** 2026-05-28
 
-**Total protocols:** 982
+**Total protocols:** 983
 
 ## Protocols
 
@@ -695,6 +695,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Paxos | ashby | [https://jobs.ashbyhq.com/paxos](https://jobs.ashbyhq.com/paxos) |
 | [Paxos Gold](https://paxos.com/paxgold/) | ashby | [https://jobs.ashbyhq.com/paxos](https://jobs.ashbyhq.com/paxos) |
 | [Pay Protocol](https://payprotocol.network) | bamboohr | [https://pay.bamboohr.com/careers](https://pay.bamboohr.com/careers) |
+| Payoneer | getro | [getro/payoneer](getro/payoneer) |
 | [PayPal](https://www.paypal.com/careers) | workday | [https://paypal.myworkdayjobs.com](https://paypal.myworkdayjobs.com) |
 | [Pencil Finance](https://www.pencilfinance.io) | bamboohr | [https://pencil.bamboohr.com/careers](https://pencil.bamboohr.com/careers) |
 | [Pendle](https://pendle.finance/) | custom | [custom/pendle](custom/pendle) |
