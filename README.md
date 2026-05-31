@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-05-30
+**Last updated:** 2026-05-31
 
-**Total protocols:** 983
+**Total protocols:** 984
 
 ## Protocols
 
@@ -452,7 +452,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | InfStones | lever | [https://jobs.lever.co/infstones](https://jobs.lever.co/infstones) |
 | [Injective Bridge](https://injective.com) | ashby | [https://jobs.ashbyhq.com/injective-labs](https://jobs.ashbyhq.com/injective-labs) |
 | Injective Labs | ashby | [https://jobs.ashbyhq.com/injective](https://jobs.ashbyhq.com/injective) |
-| [InoSwap](https://inoswap.org/) | greenhouse | [https://boards.greenhouse.io/ino](https://boards.greenhouse.io/ino) |
+| [InoSwap](https://inoswap.org/) | bamboohr | [https://ino.bamboohr.com/careers](https://ino.bamboohr.com/careers) |
 | Input Output | recruitee | [https://input.recruitee.com](https://input.recruitee.com) |
 | [InSwap](https://app.inswap.ai/) | bamboohr | [https://in.bamboohr.com/careers](https://in.bamboohr.com/careers) |
 | [Integral](https://integral.link/) | bamboohr | [https://integral.bamboohr.com/careers](https://integral.bamboohr.com/careers) |
@@ -789,6 +789,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Sahara AI | ashby | [https://jobs.ashbyhq.com/sahara](https://jobs.ashbyhq.com/sahara) |
 | Sardine | ashby | [https://jobs.ashbyhq.com/sardine](https://jobs.ashbyhq.com/sardine) |
 | [Satsuma](https://www.satsuma.exchange/) | workable | [https://apply.workable.com/satsuma](https://apply.workable.com/satsuma) |
+| [Saturn](https://app.saturn.credit/) | workable | [https://apply.workable.com/saturn-labs](https://apply.workable.com/saturn-labs) |
 | [Save](https://www.save.finance/) | bamboohr | [https://save.bamboohr.com/careers](https://save.bamboohr.com/careers) |
 | [Save SOL](https://save.finance/saveSOL) | bamboohr | [https://save.bamboohr.com/careers](https://save.bamboohr.com/careers) |
 | Scroll | bamboohr | [https://scroll.bamboohr.com/careers](https://scroll.bamboohr.com/careers) |
