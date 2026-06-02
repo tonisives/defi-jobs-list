@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-01
+**Last updated:** 2026-06-02
 
-**Total protocols:** 984
+**Total protocols:** 985
 
 ## Protocols
 
@@ -158,6 +158,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Blockstream | ashby | [https://jobs.ashbyhq.com/blockstream](https://jobs.ashbyhq.com/blockstream) |
 | Blockworks | ashby | [https://jobs.ashbyhq.com/Blockworks](https://jobs.ashbyhq.com/Blockworks) |
 | BloXroute Labs | getro | [getro/bloxroute-labs](getro/bloxroute-labs) |
+| [Blue Planet](https://app.planet.finance/) | recruitee | [https://bluelabs.recruitee.com](https://bluelabs.recruitee.com) |
 | [Blueshift](https://blueshift.fi/) | greenhouse | [https://boards.greenhouse.io/blueshift](https://boards.greenhouse.io/blueshift) |
 | BOB | recruitee | [https://bob.recruitee.com](https://bob.recruitee.com) |
 | [BOB Bridge](https://www.gobob.xyz) | recruitee | [https://bob.recruitee.com](https://bob.recruitee.com) |
