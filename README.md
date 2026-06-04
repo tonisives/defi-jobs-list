@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-03
+**Last updated:** 2026-06-04
 
-**Total protocols:** 985
+**Total protocols:** 986
 
 ## Protocols
 
@@ -509,6 +509,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Layer | ashby | [https://jobs.ashbyhq.com/layerfi](https://jobs.ashbyhq.com/layerfi) |
 | [LayerZero](https://layerzero.network/) | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | LayerZero Labs | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
+| [LayerZero V2](https://layerzero.network/) | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | Ledger | ashby | [https://jobs.ashbyhq.com/ledger](https://jobs.ashbyhq.com/ledger) |
 | [Legion](https://legion.cc?homie=BNXWVHY6) | greenhouse | [https://boards.greenhouse.io/legion](https://boards.greenhouse.io/legion) |
 | [Lenfi](https://aada.finance) | bamboohr | [https://len.bamboohr.com/careers](https://len.bamboohr.com/careers) |
