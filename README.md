@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-04
+**Last updated:** 2026-06-05
 
-**Total protocols:** 986
+**Total protocols:** 987
 
 ## Protocols
 
@@ -956,6 +956,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Venus Isolated Pools](https://app.venus.io/#/isolated-pools/) | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
 | [Verse](https://verse.bitcoin.com) | greenhouse | [https://boards.greenhouse.io/verse](https://boards.greenhouse.io/verse) |
 | Very AI | getro | [getro/very-ai](getro/very-ai) |
+| VeryAI | getro | [getro/veryai-2-80ddb347-bec3-4a7f-a703-a177e5173a37](getro/veryai-2-80ddb347-bec3-4a7f-a703-a177e5173a37) |
 | [Vesper](https://vesper.finance/) | greenhouse | [https://boards.greenhouse.io/vesper](https://boards.greenhouse.io/vesper) |
 | [Visa](https://corporate.visa.com/en/jobs/) | custom | [custom/visa](custom/visa) |
 | Volt Capital | bamboohr | [https://volt.bamboohr.com/careers](https://volt.bamboohr.com/careers) |
