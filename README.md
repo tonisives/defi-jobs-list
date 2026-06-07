@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-06
+**Last updated:** 2026-06-07
 
 **Total protocols:** 987
 
@@ -90,7 +90,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Auditless | ashby | [https://jobs.ashbyhq.com/auditless](https://jobs.ashbyhq.com/auditless) |
 | [Augur](https://augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
-| [Aura Aggregator](https://app.aur.ag/) | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
+| [Aura Aggregator](https://app.aur.ag/) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
 | Aura Finance | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aurory | getro | [getro/aurory-2](getro/aurory-2) |
 | [AUTOfinance](https://www.auto.finance) | bamboohr | [https://auto.bamboohr.com/careers](https://auto.bamboohr.com/careers) |
@@ -240,7 +240,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Cosmos | greenhouse | [https://boards.greenhouse.io/cosmoslabs](https://boards.greenhouse.io/cosmoslabs) |
 | CoW DAO | getro | [getro/cow-dao](getro/cow-dao) |
 | [CoW Protocol](https://cow.fi) | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
-| CoWSwap | bamboohr | [https://cow.bamboohr.com/careers](https://cow.bamboohr.com/careers) |
+| CoWSwap | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
 | Credix | getro | [getro/credix](getro/credix) |
 | Cronos Labs | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
 | [Cronos zkEVM Bridge](https://zkevm.cronos.org/) | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
@@ -453,7 +453,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | InfStones | lever | [https://jobs.lever.co/infstones](https://jobs.lever.co/infstones) |
 | [Injective Bridge](https://injective.com) | ashby | [https://jobs.ashbyhq.com/injective-labs](https://jobs.ashbyhq.com/injective-labs) |
 | Injective Labs | ashby | [https://jobs.ashbyhq.com/injective](https://jobs.ashbyhq.com/injective) |
-| [InoSwap](https://inoswap.org/) | bamboohr | [https://ino.bamboohr.com/careers](https://ino.bamboohr.com/careers) |
+| [InoSwap](https://inoswap.org/) | greenhouse | [https://boards.greenhouse.io/ino](https://boards.greenhouse.io/ino) |
 | Input Output | recruitee | [https://input.recruitee.com](https://input.recruitee.com) |
 | [InSwap](https://app.inswap.ai/) | bamboohr | [https://in.bamboohr.com/careers](https://in.bamboohr.com/careers) |
 | [Integral](https://integral.link/) | bamboohr | [https://integral.bamboohr.com/careers](https://integral.bamboohr.com/careers) |
