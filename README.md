@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-13
+**Last updated:** 2026-06-14
 
 **Total protocols:** 987
 
@@ -240,7 +240,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Cosmos | greenhouse | [https://boards.greenhouse.io/cosmoslabs](https://boards.greenhouse.io/cosmoslabs) |
 | CoW DAO | getro | [getro/cow-dao](getro/cow-dao) |
 | [CoW Protocol](https://cow.fi) | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
-| CoWSwap | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
+| CoWSwap | bamboohr | [https://cow.bamboohr.com/careers](https://cow.bamboohr.com/careers) |
 | Credix | getro | [getro/credix](getro/credix) |
 | Cronos Labs | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
 | [Cronos zkEVM Bridge](https://zkevm.cronos.org/) | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
@@ -478,7 +478,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Juno | greenhouse | [https://boards.greenhouse.io/juno](https://boards.greenhouse.io/juno) |
 | Jupiter | getro | [getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717](getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717) |
 | Kaiko | lever | [https://jobs.lever.co/kaiko](https://jobs.lever.co/kaiko) |
-| [Kalshi](https://kalshi.com/r/defillama) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
+| [Kalshi](https://kalshi.com) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
@@ -910,7 +910,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [THORSwap](https://www.thorswap.finance/) | bamboohr | [https://thor.bamboohr.com/careers](https://thor.bamboohr.com/careers) |
 | Titan | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | [Titan Aggregator](https://www.titan.tg) | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
-| [Titan Exchange](https://titan.exchange/@defillama) | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
+| [Titan Exchange](https://titan.exchange) | ashby | [https://jobs.ashbyhq.com/titan](https://jobs.ashbyhq.com/titan) |
 | Toku | ashby | [https://jobs.ashbyhq.com/toku](https://jobs.ashbyhq.com/toku) |
 | TomNext | getro | [getro/tomnext](getro/tomnext) |
 | [Tomo](https://tomo.inc) | ashby | [https://jobs.ashbyhq.com/tomo](https://jobs.ashbyhq.com/tomo) |
@@ -948,7 +948,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Variant Fund | ashby | [https://jobs.ashbyhq.com/variant-fund](https://jobs.ashbyhq.com/variant-fund) |
 | [Veda](https://veda.tech) | lever | [https://jobs.lever.co/vedatechlabs](https://jobs.lever.co/vedatechlabs) |
 | Vega Protocol | greenhouse | [https://boards.greenhouse.io/vega](https://boards.greenhouse.io/vega) |
-| [Velora](https://app.velora.xyz/?ref=MHg3OThmRjFlNkQ3QUZkMjhjMzMzZUU2ZUJlMDMxMjVkMzBlYzZlRjEw) | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
+| [Velora](https://app.velora.xyz) | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
 | [Vendor V2](https://vendor.finance) | greenhouse | [https://boards.greenhouse.io/vendor](https://boards.greenhouse.io/vendor) |
 | [Ventuals](https://ventuals.com/trade) | ashby | [https://jobs.ashbyhq.com/ventuals](https://jobs.ashbyhq.com/ventuals) |
 | Venus | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
