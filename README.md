@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-06-15
 
-**Total protocols:** 987
+**Total protocols:** 988
 
 ## Protocols
 
@@ -419,6 +419,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Hercules V3](https://app.hercules.exchange) | greenhouse | [https://boards.greenhouse.io/hercules](https://boards.greenhouse.io/hercules) |
 | Here Not There | greenhouse | [https://boards.greenhouse.io/hereio](https://boards.greenhouse.io/hereio) |
 | [HERE Wallet staking](https://herewallet.app/stake) | greenhouse | [https://boards.greenhouse.io/hereio](https://boards.greenhouse.io/hereio) |
+| Hex Trust | workable | [https://apply.workable.com/hextrust](https://apply.workable.com/hextrust) |
 | Hifi Finance | ashby | [https://jobs.ashbyhq.com/hifi](https://jobs.ashbyhq.com/hifi) |
 | Hive Labs  | getro | [getro/hive-labs-2](getro/hive-labs-2) |
 | [Hive Protocol](https://hive.bsquared.network/) | lever | [https://jobs.lever.co/hive](https://jobs.lever.co/hive) |
