@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-20
+**Last updated:** 2026-06-21
 
 **Total protocols:** 988
 
@@ -27,7 +27,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Accenture | recruitee | [https://accenture.recruitee.com](https://accenture.recruitee.com) |
 | Advanced Blockchain | recruitee | [https://advanced.recruitee.com](https://advanced.recruitee.com) |
 | Agoric | greenhouse | [https://boards.greenhouse.io/agoric](https://boards.greenhouse.io/agoric) |
-| [AirSwap](https://www.airswap.xyz/) | ashby | [https://jobs.ashbyhq.com/air](https://jobs.ashbyhq.com/air) |
+| [AirSwap](https://www.airswap.xyz/) | greenhouse | [https://boards.greenhouse.io/air](https://boards.greenhouse.io/air) |
 | Airtm | lever | [https://jobs.lever.co/airtm](https://jobs.lever.co/airtm) |
 | Akash Network | getro | [getro/akash-network](getro/akash-network) |
 | Akuna Capital | greenhouse | [https://boards.greenhouse.io/akunacapital](https://boards.greenhouse.io/akunacapital) |
@@ -479,7 +479,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Juno | greenhouse | [https://boards.greenhouse.io/juno](https://boards.greenhouse.io/juno) |
 | Jupiter | getro | [getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717](getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717) |
 | Kaiko | lever | [https://jobs.lever.co/kaiko](https://jobs.lever.co/kaiko) |
-| [Kalshi](https://kalshi.com) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
+| [Kalshi](https://kalshi.com) | greenhouse | [https://boards.greenhouse.io/kalshi](https://boards.greenhouse.io/kalshi) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
