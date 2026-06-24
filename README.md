@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-23
+**Last updated:** 2026-06-24
 
-**Total protocols:** 988
+**Total protocols:** 990
 
 ## Protocols
 
@@ -365,6 +365,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
 | Fluence Labs | greenhouse | [https://boards.greenhouse.io/fluencelabs](https://boards.greenhouse.io/fluencelabs) |
 | [Flux Finance](https://fluxfinance.com) | ashby | [https://jobs.ashbyhq.com/flux](https://jobs.ashbyhq.com/flux) |
+| Footprint Analytics | ashby | [https://jobs.ashbyhq.com/footprint](https://jobs.ashbyhq.com/footprint) |
 | Forta | greenhouse | [https://boards.greenhouse.io/forta](https://boards.greenhouse.io/forta) |
 | Forte | recruitee | [https://forte.recruitee.com](https://forte.recruitee.com) |
 | Foundry | greenhouse | [https://boards.greenhouse.io/foundry](https://boards.greenhouse.io/foundry) |
@@ -381,6 +382,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Gamma](https://www.gamma.xyz) | ashby | [https://jobs.ashbyhq.com/gamma](https://jobs.ashbyhq.com/gamma) |
 | [Gate](https://www.gate.com) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate Swap](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
+| [Gate Swap Spot](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate US](https://www.gate.com/en-us) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | Gateway.fm | greenhouse | [https://boards.greenhouse.io/gatewayfm](https://boards.greenhouse.io/gatewayfm) |
 | [Gauntlet](https://www.gauntlet.xyz) | lever | [https://jobs.lever.co/gauntlet](https://jobs.lever.co/gauntlet) |
@@ -969,7 +971,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | WOO | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
 | [WOO X](https://x.woo.org/en/trade) | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
 | [WOOFi Earn](https://fi.woo.org/earn) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
-| [WOOFi Swap](https://woofi.com/en/trade?ref=DEFILLAMA) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
+| [WOOFi Swap](https://woofi.com) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | World | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
