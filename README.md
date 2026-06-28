@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-27
+**Last updated:** 2026-06-28
 
-**Total protocols:** 990
+**Total protocols:** 991
 
 ## Protocols
 
@@ -382,6 +382,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Gamma](https://www.gamma.xyz) | ashby | [https://jobs.ashbyhq.com/gamma](https://jobs.ashbyhq.com/gamma) |
 | [Gate](https://www.gate.com) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate Swap](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
+| [Gate Swap Aggregator](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate Swap Spot](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate US](https://www.gate.com/en-us) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | Gateway.fm | greenhouse | [https://boards.greenhouse.io/gatewayfm](https://boards.greenhouse.io/gatewayfm) |
@@ -481,7 +482,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Juno | greenhouse | [https://boards.greenhouse.io/juno](https://boards.greenhouse.io/juno) |
 | Jupiter | getro | [getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717](getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717) |
 | Kaiko | lever | [https://jobs.lever.co/kaiko](https://jobs.lever.co/kaiko) |
-| [Kalshi](https://kalshi.com) | greenhouse | [https://boards.greenhouse.io/kalshi](https://boards.greenhouse.io/kalshi) |
+| [Kalshi](https://kalshi.com) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
