@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-06-29
+**Last updated:** 2026-06-30
 
-**Total protocols:** 991
+**Total protocols:** 992
 
 ## Protocols
 
@@ -365,6 +365,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
 | Fluence Labs | greenhouse | [https://boards.greenhouse.io/fluencelabs](https://boards.greenhouse.io/fluencelabs) |
 | [Flux Finance](https://fluxfinance.com) | ashby | [https://jobs.ashbyhq.com/flux](https://jobs.ashbyhq.com/flux) |
+| Fomo | getro | [getro/fomo-2-12bbd144-f1c8-44a3-bd2a-ed54a499ceea](getro/fomo-2-12bbd144-f1c8-44a3-bd2a-ed54a499ceea) |
 | Footprint Analytics | ashby | [https://jobs.ashbyhq.com/footprint](https://jobs.ashbyhq.com/footprint) |
 | Forta | greenhouse | [https://boards.greenhouse.io/forta](https://boards.greenhouse.io/forta) |
 | Forte | recruitee | [https://forte.recruitee.com](https://forte.recruitee.com) |
