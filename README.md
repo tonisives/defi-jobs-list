@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-01
+**Last updated:** 2026-07-02
 
-**Total protocols:** 992
+**Total protocols:** 993
 
 ## Protocols
 
@@ -932,6 +932,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Trojan Trading | getro | [getro/trojan-trading](getro/trojan-trading) |
 | [TrueFi](https://app.truefi.io/) | recruitee | [https://true.recruitee.com](https://true.recruitee.com) |
 | [Trust Wallet](https://trustwallet.com/download) | ashby | [https://jobs.ashbyhq.com/trust-wallet](https://jobs.ashbyhq.com/trust-wallet) |
+| [Turbo Loop]( ) | recruitee | [https://turbo.recruitee.com](https://turbo.recruitee.com) |
 | Turnkey | ashby | [https://jobs.ashbyhq.com/turnkey](https://jobs.ashbyhq.com/turnkey) |
 | Twinstake | bamboohr | [https://twinstake.bamboohr.com/careers](https://twinstake.bamboohr.com/careers) |
 | Ultimate | greenhouse | [https://boards.greenhouse.io/ultimate](https://boards.greenhouse.io/ultimate) |
