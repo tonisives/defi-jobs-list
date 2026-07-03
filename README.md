@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-02
+**Last updated:** 2026-07-03
 
 **Total protocols:** 993
 
@@ -975,7 +975,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [WOO X](https://x.woo.org/en/trade) | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
 | [WOOFi Earn](https://fi.woo.org/earn) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | [WOOFi Swap](https://woofi.com) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
-| World | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
+| [world](https://world.xyz/) | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | [World Markets Inc Spot](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
