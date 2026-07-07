@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-06
+**Last updated:** 2026-07-07
 
-**Total protocols:** 993
+**Total protocols:** 994
 
 ## Protocols
 
@@ -786,6 +786,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | River | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
 | [River Omni-CDP](https://app.river.inc/) | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
 | [Robinhood](https://careers.robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
+| [Robinhood Chain Bridge](https://robinhood.com/us/en/chain/) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | [RockawayX](https://rockawayx.com/) | workable | [https://apply.workable.com/rockawayx](https://apply.workable.com/rockawayx) |
 | Rolla | bamboohr | [https://rolla.bamboohr.com/careers](https://rolla.bamboohr.com/careers) |
 | [Rooster Protocol V1](https://www.rooster.trade/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
