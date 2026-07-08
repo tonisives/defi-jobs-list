@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-07-08
 
-**Total protocols:** 994
+**Total protocols:** 995
 
 ## Protocols
 
@@ -411,6 +411,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Halliday | ashby | [https://jobs.ashbyhq.com/halliday](https://jobs.ashbyhq.com/halliday) |
 | [Hamilton Lane Senior Credit Opportunities Securitize Fund](https://securitize.io/primary-market/hl-scope) | bamboohr | [https://hamilton.bamboohr.com/careers](https://hamilton.bamboohr.com/careers) |
 | Hang | ashby | [https://jobs.ashbyhq.com/hang](https://jobs.ashbyhq.com/hang) |
+| Harmonic | getro | [getro/harmonic-2-a4105103-ff7b-4e5d-ad3d-4e7dff7e211b](getro/harmonic-2-a4105103-ff7b-4e5d-ad3d-4e7dff7e211b) |
 | Harmony | lever | [https://jobs.lever.co/harmony](https://jobs.lever.co/harmony) |
 | [Harvest Finance](https://harvest.finance/) | bamboohr | [https://harvestlabs.bamboohr.com/careers](https://harvestlabs.bamboohr.com/careers) |
 | [HARVEST FLOW](https://www.harvestflow.io/?lng=en) | bamboohr | [https://harvestlabs.bamboohr.com/careers](https://harvestlabs.bamboohr.com/careers) |
