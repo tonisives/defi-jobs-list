@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-17
+**Last updated:** 2026-07-18
 
-**Total protocols:** 996
+**Total protocols:** 998
 
 ## Protocols
 
@@ -15,6 +15,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [0x Aggregator](https://www.0x.org/) | ashby | [https://jobs.ashbyhq.com/0x](https://jobs.ashbyhq.com/0x) |
 | [1inch](https://1inch.com) | lever | [https://jobs.lever.co/1inch](https://jobs.lever.co/1inch) |
 | 1inch Labs | lever | [https://jobs.lever.co/1inch](https://jobs.lever.co/1inch) |
+| [1inch Swap](https://1inch.com) | lever | [https://jobs.lever.co/1inch](https://jobs.lever.co/1inch) |
 | 21Shares | greenhouse | [https://boards.greenhouse.io/21shares](https://boards.greenhouse.io/21shares) |
 | [3Jane Lending](https://www.3jane.xyz/) | lever | [https://jobs.lever.co/3jane](https://jobs.lever.co/3jane) |
 | a16z crypto | greenhouse | [https://boards.greenhouse.io/a16z](https://boards.greenhouse.io/a16z) |
@@ -108,7 +109,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Aztec Connect](https://aztec.network) | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
 | [B.Protocol](https://app.bprotocol.org/) | ashby | [https://jobs.ashbyhq.com/bio](https://jobs.ashbyhq.com/bio) |
 | B2C2 | greenhouse | [https://boards.greenhouse.io/b2c2](https://boards.greenhouse.io/b2c2) |
-| [babylon-protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
+| [Babylon Protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
 | [Backpack](https://backpack.exchange) | ashby | [https://jobs.ashbyhq.com/backpack](https://jobs.ashbyhq.com/backpack) |
 | Bags | ashby | [https://jobs.ashbyhq.com/bags](https://jobs.ashbyhq.com/bags) |
 | Base | ashby | [https://jobs.ashbyhq.com/base](https://jobs.ashbyhq.com/base) |
@@ -387,6 +388,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Gate Swap Spot](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate US](https://www.gate.com/en-us) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | Gateway.fm | greenhouse | [https://boards.greenhouse.io/gatewayfm](https://boards.greenhouse.io/gatewayfm) |
+| Gattaca | ashby | [https://jobs.ashbyhq.com/gattaca](https://jobs.ashbyhq.com/gattaca) |
 | [Gauntlet](https://www.gauntlet.xyz) | lever | [https://jobs.lever.co/gauntlet](https://jobs.lever.co/gauntlet) |
 | Gelato | ashby | [https://jobs.ashbyhq.com/gelato](https://jobs.ashbyhq.com/gelato) |
 | Gelato Network | greenhouse | [https://boards.greenhouse.io/gelato](https://boards.greenhouse.io/gelato) |
