@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-22
+**Last updated:** 2026-07-23
 
-**Total protocols:** 998
+**Total protocols:** 1000
 
 ## Protocols
 
@@ -616,6 +616,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Morpho | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | [Morpho Blue](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
+| [Morpho Midnight](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | [Morpho V1](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | [Mosaic Aggregator](https://mosaic.ag) | ashby | [https://jobs.ashbyhq.com/mosaic](https://jobs.ashbyhq.com/mosaic) |
 | [Mosaic AMM](https://mosaic.ag) | bamboohr | [https://mosaic.bamboohr.com/careers](https://mosaic.bamboohr.com/careers) |
@@ -625,6 +626,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Nabla Finance](https://nabla.fi) | ashby | [https://jobs.ashbyhq.com/nabla](https://jobs.ashbyhq.com/nabla) |
 | Nansen | greenhouse | [https://boards.greenhouse.io/nansen](https://boards.greenhouse.io/nansen) |
 | Nascent | ashby | [https://jobs.ashbyhq.com/nascent](https://jobs.ashbyhq.com/nascent) |
+| Nasdaq | getro | [getro/nasdaq](getro/nasdaq) |
 | Nash | ashby | [https://jobs.ashbyhq.com/nash](https://jobs.ashbyhq.com/nash) |
 | Native | bamboohr | [https://native.bamboohr.com/careers](https://native.bamboohr.com/careers) |
 | [Native Credit Pool](https://native.org) | bamboohr | [https://native.bamboohr.com/careers](https://native.bamboohr.com/careers) |
