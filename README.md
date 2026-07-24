@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-23
+**Last updated:** 2026-07-24
 
-**Total protocols:** 1000
+**Total protocols:** 1002
 
 ## Protocols
 
@@ -339,6 +339,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Factor Leverage Vault](https://app.factor.fi/studio) | lever | [https://jobs.lever.co/factor](https://jobs.lever.co/factor) |
 | FalconX | greenhouse | [https://boards.greenhouse.io/falconx](https://boards.greenhouse.io/falconx) |
 | [Fathom CDP](https://fathom.fi/) | ashby | [https://jobs.ashbyhq.com/fathom](https://jobs.ashbyhq.com/fathom) |
+| FBYT | getro | [getro/fbyt-2-ec88b465-043d-457f-8a1e-c9190e3c7e07](getro/fbyt-2-ec88b465-043d-457f-8a1e-c9190e3c7e07) |
 | [Felix CDP](https://www.usefelix.xyz?ref=4BF702FF) | ashby | [https://jobs.ashbyhq.com/felix](https://jobs.ashbyhq.com/felix) |
 | [Felix USDhl](https://www.usefelix.xyz?ref=4BF702FF) | ashby | [https://jobs.ashbyhq.com/felix](https://jobs.ashbyhq.com/felix) |
 | [Felix Vaults](https://www.usefelix.xyz?ref=4BF702FF) | bamboohr | [https://felix.bamboohr.com/careers](https://felix.bamboohr.com/careers) |
@@ -760,6 +761,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Pyth Network | getro | [getro/pyth-network](getro/pyth-network) |
 | QuickNode | ashby | [https://jobs.ashbyhq.com/quicknode](https://jobs.ashbyhq.com/quicknode) |
 | R3 | getro | [getro/r3](getro/r3) |
+| Raad | getro | [getro/raad](getro/raad) |
 | Radix | recruitee | [https://radix.recruitee.com](https://radix.recruitee.com) |
 | Raiku | getro | [getro/raiku](getro/raiku) |
 | [Rain](https://www.rain.one/) | ashby | [https://jobs.ashbyhq.com/rain](https://jobs.ashbyhq.com/rain) |
