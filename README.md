@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-27
+**Last updated:** 2026-07-28
 
-**Total protocols:** 1002
+**Total protocols:** 1003
 
 ## Protocols
 
@@ -639,6 +639,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Nexo](https://nexo.com/) | breezy | [https://nexo.breezy.hr](https://nexo.breezy.hr) |
 | [Nexus BTC](https://www.bit.com/) | bamboohr | [https://nexus.bamboohr.com/careers](https://nexus.bamboohr.com/careers) |
 | [Nexus Mutual](https://nexusmutual.io/) | recruitee | [https://nexusmutual.recruitee.com](https://nexusmutual.recruitee.com) |
+| Nimbus | greenhouse | [https://boards.greenhouse.io/nimbus](https://boards.greenhouse.io/nimbus) |
 | Nirvana Labs | ashby | [https://jobs.ashbyhq.com/nirvana](https://jobs.ashbyhq.com/nirvana) |
 | [Nirvana V2](https://www.nirvana.finance/) | ashby | [https://jobs.ashbyhq.com/nirvana](https://jobs.ashbyhq.com/nirvana) |
 | [Noble](https://www.noble.xyz) | greenhouse | [https://boards.greenhouse.io/noble](https://boards.greenhouse.io/noble) |
