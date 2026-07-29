@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-28
+**Last updated:** 2026-07-29
 
 **Total protocols:** 1003
 
@@ -882,8 +882,8 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Stellar AMM](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools#automated-market-makers-amms) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar DEX](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | StoryCo | ashby | [https://jobs.ashbyhq.com/storyco](https://jobs.ashbyhq.com/storyco) |
-| [Strata Markets](https://strata.money) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
-| [Strata Season 0](https://strata.money) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
+| [Strata Markets](https://strata.markets) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
+| [Strata Season 0](https://strata.markets) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
 | Strike | greenhouse | [https://boards.greenhouse.io/strike](https://boards.greenhouse.io/strike) |
 | [Strike Finance Perpetuals](https://www.strikefinance.org/) | greenhouse | [https://boards.greenhouse.io/strike](https://boards.greenhouse.io/strike) |
 | [Stripe](https://stripe.com/jobs) | greenhouse | [https://boards.greenhouse.io/stripe](https://boards.greenhouse.io/stripe) |
