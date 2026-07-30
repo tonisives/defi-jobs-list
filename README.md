@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-07-29
+**Last updated:** 2026-07-30
 
 **Total protocols:** 1003
 
@@ -696,7 +696,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Ostium](https://www.ostium.io/) | ashby | [https://jobs.ashbyhq.com/ostium](https://jobs.ashbyhq.com/ostium) |
 | P2P.org | ashby | [https://jobs.ashbyhq.com/p2p.org](https://jobs.ashbyhq.com/p2p.org) |
 | [Pact](https://app.pact.fi) | ashby | [https://jobs.ashbyhq.com/pactfi](https://jobs.ashbyhq.com/pactfi) |
-| [pancakeswap-amm](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
+| [PancakeSwap AMM](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
 | [Pando Leaf](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
 | [Pando Rings](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
 | Panther Protocol | greenhouse | [https://boards.greenhouse.io/pantherlabs](https://boards.greenhouse.io/pantherlabs) |
@@ -793,7 +793,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Ritual | greenhouse | [https://boards.greenhouse.io/ritual](https://boards.greenhouse.io/ritual) |
 | River | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
 | [River Omni-CDP](https://app.river.inc/) | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
-| [Robinhood](https://careers.robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
+| [Robinhood](https://robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | [Robinhood Chain Bridge](https://robinhood.com/us/en/chain/) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | [RockawayX](https://rockawayx.com/) | workable | [https://apply.workable.com/rockawayx](https://apply.workable.com/rockawayx) |
 | Rolla | bamboohr | [https://rolla.bamboohr.com/careers](https://rolla.bamboohr.com/careers) |
@@ -849,10 +849,10 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Somnia | ashby | [https://jobs.ashbyhq.com/somnia](https://jobs.ashbyhq.com/somnia) |
 | [Sonic Gateway](https://gateway.soniclabs.com/ethereum/sonic/s) | greenhouse | [https://boards.greenhouse.io/sonic](https://boards.greenhouse.io/sonic) |
 | [Sonic ICP](https://sonic.ooo) | greenhouse | [https://boards.greenhouse.io/sonic](https://boards.greenhouse.io/sonic) |
-| [SOON](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
+| [Soon](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
 | Sorare | ashby | [https://jobs.ashbyhq.com/sorare](https://jobs.ashbyhq.com/sorare) |
 | [Sorare Bridge](https://sorare.com/) | ashby | [https://jobs.ashbyhq.com/sorare](https://jobs.ashbyhq.com/sorare) |
-| [Spark Savings](https://data.spark.fi/savings/) | recruitee | [https://spark.recruitee.com](https://spark.recruitee.com) |
+| [Spark Savings](https://spark.finance/) | recruitee | [https://spark.recruitee.com](https://spark.recruitee.com) |
 | Spearbit | ashby | [https://jobs.ashbyhq.com/spearbit](https://jobs.ashbyhq.com/spearbit) |
 | Spearbit Labs | ashby | [https://jobs.ashbyhq.com/spearbit](https://jobs.ashbyhq.com/spearbit) |
 | Spectral Finance | bamboohr | [https://spectral.bamboohr.com/careers](https://spectral.bamboohr.com/careers) |
