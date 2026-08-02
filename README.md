@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-01
+**Last updated:** 2026-08-02
 
-**Total protocols:** 1003
+**Total protocols:** 1004
 
 ## Protocols
 
@@ -351,7 +351,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Figure Markets | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Figure Markets Democratized Prime](https://www.figure.com/crypto-backed-loan/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Figure Markets Exchange](https://www.figuremarkets.com/crypto-exchange/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
-| [Fin](https://fin.kujira.app) | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
+| [FIN](https://kujira.network/spot/) | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
 | Find Satoshi Lab | greenhouse | [https://boards.greenhouse.io/find](https://boards.greenhouse.io/find) |
 | Fireblocks | greenhouse | [https://boards.greenhouse.io/fireblocks](https://boards.greenhouse.io/fireblocks) |
 | [Firelight](https://firelight.finance/) | bamboohr | [https://firelight.bamboohr.com/careers](https://firelight.bamboohr.com/careers) |
@@ -525,6 +525,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Level](https://www.level.money) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
 | [Level Perps](https://app.level.finance) | ashby | [https://jobs.ashbyhq.com/level](https://jobs.ashbyhq.com/level) |
 | LI.FI | getro | [getro/li-fi-2](getro/li-fi-2) |
+| [Libre Swap](https://dashboard.libre.org/swap) | bamboohr | [https://libre.bamboohr.com/careers](https://libre.bamboohr.com/careers) |
 | [Lido](https://lido.fi/) | ashby | [https://jobs.ashbyhq.com/Lido.fi](https://jobs.ashbyhq.com/Lido.fi) |
 | lightcone.trade | getro | [getro/lightcone-trade](getro/lightcone-trade) |
 | Lightning Labs | ashby | [https://jobs.ashbyhq.com/lightning](https://jobs.ashbyhq.com/lightning) |
