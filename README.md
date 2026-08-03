@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-02
+**Last updated:** 2026-08-03
 
 **Total protocols:** 1004
 
@@ -351,7 +351,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Figure Markets | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Figure Markets Democratized Prime](https://www.figure.com/crypto-backed-loan/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Figure Markets Exchange](https://www.figuremarkets.com/crypto-exchange/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
-| [FIN](https://kujira.network/spot/) | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
+| [Fin](https://kujira.network/spot/) | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
 | Find Satoshi Lab | greenhouse | [https://boards.greenhouse.io/find](https://boards.greenhouse.io/find) |
 | Fireblocks | greenhouse | [https://boards.greenhouse.io/fireblocks](https://boards.greenhouse.io/fireblocks) |
 | [Firelight](https://firelight.finance/) | bamboohr | [https://firelight.bamboohr.com/careers](https://firelight.bamboohr.com/careers) |
