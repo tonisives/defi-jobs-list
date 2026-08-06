@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-05
+**Last updated:** 2026-08-06
 
-**Total protocols:** 1004
+**Total protocols:** 1005
 
 ## Protocols
 
@@ -361,6 +361,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Flashbots | ashby | [https://jobs.ashbyhq.com/flashbots.net](https://jobs.ashbyhq.com/flashbots.net) |
 | [Flex](https://flexmeow.com/) | greenhouse | [https://boards.greenhouse.io/flex](https://boards.greenhouse.io/flex) |
 | [Flex Perpetuals](https://flex.trade) | greenhouse | [https://boards.greenhouse.io/flex](https://boards.greenhouse.io/flex) |
+| Flint Labs | getro | [getro/flint-labs](getro/flint-labs) |
 | Flipside | greenhouse | [https://boards.greenhouse.io/flipside](https://boards.greenhouse.io/flipside) |
 | Flipside Crypto | greenhouse | [https://boards.greenhouse.io/flipside](https://boards.greenhouse.io/flipside) |
 | [Flipster](https://flipster.io) | lever | [https://jobs.lever.co/flipster](https://jobs.lever.co/flipster) |
