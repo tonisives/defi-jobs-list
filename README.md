@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-12
+**Last updated:** 2026-08-13
 
-**Total protocols:** 1005
+**Total protocols:** 1006
 
 ## Protocols
 
@@ -626,6 +626,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [MUX Perps](https://mux.network/) | ashby | [https://jobs.ashbyhq.com/mux](https://jobs.ashbyhq.com/mux) |
 | Mysten Labs | ashby | [https://jobs.ashbyhq.com/mystenlabs](https://jobs.ashbyhq.com/mystenlabs) |
 | N1 | ashby | [https://jobs.ashbyhq.com/n1](https://jobs.ashbyhq.com/n1) |
+| [N1 Exchange Bridge](https://app.n1.xyz/) | ashby | [https://jobs.ashbyhq.com/n1](https://jobs.ashbyhq.com/n1) |
 | [Nabla Finance](https://nabla.fi) | ashby | [https://jobs.ashbyhq.com/nabla](https://jobs.ashbyhq.com/nabla) |
 | Nansen | greenhouse | [https://boards.greenhouse.io/nansen](https://boards.greenhouse.io/nansen) |
 | Nascent | ashby | [https://jobs.ashbyhq.com/nascent](https://jobs.ashbyhq.com/nascent) |
