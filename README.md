@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 
-**Total protocols:** 1006
+**Total protocols:** 1007
 
 ## Protocols
 
@@ -385,6 +385,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Galaxy | greenhouse | [https://boards.greenhouse.io/galaxy](https://boards.greenhouse.io/galaxy) |
 | [Gamma](https://www.gamma.xyz) | ashby | [https://jobs.ashbyhq.com/gamma](https://jobs.ashbyhq.com/gamma) |
 | [Gate](https://www.gate.com) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
+| [Gate SOL](https://app.sanctum.so/explore/gtSOL) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate Swap](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate Swap Aggregator](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
 | [Gate Swap Spot](https://web3.gate.com/en/swap) | lever | [https://jobs.lever.co/gate](https://jobs.lever.co/gate) |
