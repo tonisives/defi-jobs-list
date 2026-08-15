@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-08-15
 
-**Total protocols:** 1007
+**Total protocols:** 1008
 
 ## Protocols
 
@@ -884,6 +884,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Steakhouse Financial](https://www.steakhouse.financial/) | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar AMM](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools#automated-market-makers-amms) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
+| [Stellar DeFi Hub](https://stellardefihub.com/) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar DEX](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | StoryCo | ashby | [https://jobs.ashbyhq.com/storyco](https://jobs.ashbyhq.com/storyco) |
 | [Strata Markets](https://strata.markets) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
