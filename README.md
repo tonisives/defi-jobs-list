@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 
 **Total protocols:** 1008
 
@@ -91,7 +91,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Auditless | ashby | [https://jobs.ashbyhq.com/auditless](https://jobs.ashbyhq.com/auditless) |
 | [Augur](https://augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
-| [Aura Aggregator](https://app.aur.ag/) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
+| [Aura Aggregator](https://app.aur.ag/) | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aura Finance | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aurory | getro | [getro/aurory-2](getro/aurory-2) |
 | [AUTOfinance](https://www.auto.finance) | bamboohr | [https://auto.bamboohr.com/careers](https://auto.bamboohr.com/careers) |
@@ -475,9 +475,9 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [JetSwap](https://jetswap.finance) | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
 | [Jigsaw](https://app.jigsaw.finance/) | ashby | [https://jobs.ashbyhq.com/jigsaw](https://jobs.ashbyhq.com/jigsaw) |
 | [Jiko](https://app.jiko.finance/) | bamboohr | [https://jiko.bamboohr.com/careers](https://jiko.bamboohr.com/careers) |
-| Jito | lever | [https://jobs.lever.co/jito](https://jobs.lever.co/jito) |
+| Jito | ashby | [https://jobs.ashbyhq.com/jito-labs](https://jobs.ashbyhq.com/jito-labs) |
 | Jito Foundation | getro | [getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb](getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb) |
-| Jito Labs | lever | [https://jobs.lever.co/jito](https://jobs.lever.co/jito) |
+| Jito Labs | ashby | [https://jobs.ashbyhq.com/jito-labs](https://jobs.ashbyhq.com/jito-labs) |
 | [Jito Liquid Staking](https://jito.network) | lever | [https://jobs.lever.co/jito.wtf](https://jobs.lever.co/jito.wtf) |
 | Joyride Labs | getro | [getro/joyride-labs](getro/joyride-labs) |
 | [JPMorgan Chase](https://www.jpmorganchase.com/careers) | oracle-hcm | [oracle-hcm/jpmorgan](oracle-hcm/jpmorgan) |
