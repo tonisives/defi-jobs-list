@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-19
 
-**Total protocols:** 1008
+**Total protocols:** 1009
 
 ## Protocols
 
@@ -69,6 +69,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Arbitrum Bridge](https://portal.arbitrum.io/bridge) | lever | [https://jobs.lever.co/offchainlabs](https://jobs.lever.co/offchainlabs) |
 | Arbitrum Foundation | lever | [https://jobs.lever.co/arbitrumfoundation](https://jobs.lever.co/arbitrumfoundation) |
 | Arbitrum OpCo | lever | [https://jobs.lever.co/arbitrum-opco](https://jobs.lever.co/arbitrum-opco) |
+| Arcade | getro | [getro/arcade-2](getro/arcade-2) |
 | Arcana | bamboohr | [https://arcana.bamboohr.com/careers](https://arcana.bamboohr.com/careers) |
 | Archway | recruitee | [https://archway.recruitee.com](https://archway.recruitee.com) |
 | [Arena DEX](https://arena.social/) | ashby | [https://jobs.ashbyhq.com/arena](https://jobs.ashbyhq.com/arena) |
