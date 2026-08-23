@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 
 **Total protocols:** 1009
 
@@ -269,7 +269,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Deribit](https://www.deribit.com) | recruitee | [https://deribit.recruitee.com](https://deribit.recruitee.com) |
 | [Derive V1](https://derive.xyz) | bamboohr | [https://derive.bamboohr.com/careers](https://derive.bamboohr.com/careers) |
 | [Derive V2](https://app.derive.xyz) | bamboohr | [https://derive.bamboohr.com/careers](https://derive.bamboohr.com/careers) |
-| Deriverse | getro | [getro/deriverse](getro/deriverse) |
+| [Deriverse](https://deriverse.io) | getro | [getro/deriverse](getro/deriverse) |
 | Dfinity | greenhouse | [https://boards.greenhouse.io/dfinity](https://boards.greenhouse.io/dfinity) |
 | Dflow | greenhouse | [https://boards.greenhouse.io/dflow](https://boards.greenhouse.io/dflow) |
 | DFlow Aggregator | greenhouse | [https://boards.greenhouse.io/dflow](https://boards.greenhouse.io/dflow) |
