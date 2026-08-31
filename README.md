@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-08-30
+**Last updated:** 2026-08-31
 
-**Total protocols:** 1009
+**Total protocols:** 1010
 
 ## Protocols
 
@@ -415,6 +415,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Grvt Bridge](https://grvt.io) | ashby | [https://jobs.ashbyhq.com/grvt](https://jobs.ashbyhq.com/grvt) |
 | Guild of Guardians | greenhouse | [https://boards.greenhouse.io/guild](https://boards.greenhouse.io/guild) |
 | Halliday | ashby | [https://jobs.ashbyhq.com/halliday](https://jobs.ashbyhq.com/halliday) |
+| [Hallswap](https://coinhall.org/swap) | bamboohr | [https://hall.bamboohr.com/careers](https://hall.bamboohr.com/careers) |
 | [Hamilton Lane Senior Credit Opportunities Securitize Fund](https://securitize.io/primary-market/hl-scope) | bamboohr | [https://hamilton.bamboohr.com/careers](https://hamilton.bamboohr.com/careers) |
 | Hang | ashby | [https://jobs.ashbyhq.com/hang](https://jobs.ashbyhq.com/hang) |
 | Harmonic | getro | [getro/harmonic-2-a4105103-ff7b-4e5d-ad3d-4e7dff7e211b](getro/harmonic-2-a4105103-ff7b-4e5d-ad3d-4e7dff7e211b) |
@@ -453,7 +454,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [IDEX V1](https://kuma.bid/) | bamboohr | [https://idex.bamboohr.com/careers](https://idex.bamboohr.com/careers) |
 | IEX | greenhouse | [https://boards.greenhouse.io/iex](https://boards.greenhouse.io/iex) |
 | [Ignition LST](https://app.ignitionfi.xyz/) | greenhouse | [https://boards.greenhouse.io/ignition](https://boards.greenhouse.io/ignition) |
-| Immunefi | greenhouse | [https://boards.greenhouse.io/immunefi](https://boards.greenhouse.io/immunefi) |
+| [Immunefi](https://immunefi.com/) | greenhouse | [https://boards.greenhouse.io/immunefi](https://boards.greenhouse.io/immunefi) |
 | Immutable | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
 | [Immutable zkEVM](https://www.immutable.com/) | lever | [https://jobs.lever.co/immutable](https://jobs.lever.co/immutable) |
 | Impossible Cloud | lever | [https://jobs.lever.co/impossiblecloud](https://jobs.lever.co/impossiblecloud) |
@@ -476,7 +477,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [JetSwap](https://jetswap.finance) | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
 | [Jigsaw](https://app.jigsaw.finance/) | ashby | [https://jobs.ashbyhq.com/jigsaw](https://jobs.ashbyhq.com/jigsaw) |
 | [Jiko](https://app.jiko.finance/) | bamboohr | [https://jiko.bamboohr.com/careers](https://jiko.bamboohr.com/careers) |
-| Jito | ashby | [https://jobs.ashbyhq.com/jito-labs](https://jobs.ashbyhq.com/jito-labs) |
+| Jito | lever | [https://jobs.lever.co/jito](https://jobs.lever.co/jito) |
 | Jito Foundation | getro | [getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb](getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb) |
 | Jito Labs | ashby | [https://jobs.ashbyhq.com/jito-labs](https://jobs.ashbyhq.com/jito-labs) |
 | [Jito Liquid Staking](https://jito.network) | lever | [https://jobs.lever.co/jito.wtf](https://jobs.lever.co/jito.wtf) |
