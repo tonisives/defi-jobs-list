@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-02
+**Last updated:** 2026-09-03
 
 **Total protocols:** 1010
 
@@ -497,7 +497,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
 | [Kelp](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | greenhouse | [https://boards.greenhouse.io/kerneldao](https://boards.greenhouse.io/kerneldao) |
 | [Kernel](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | ashby | [https://jobs.ashbyhq.com/kernel](https://jobs.ashbyhq.com/kernel) |
-| Keyrock | ashby | [https://jobs.ashbyhq.com/keyrock](https://jobs.ashbyhq.com/keyrock) |
+| [Keyrock](https://keyrock.com/) | ashby | [https://jobs.ashbyhq.com/keyrock](https://jobs.ashbyhq.com/keyrock) |
 | Kiln | bamboohr | [https://kiln.bamboohr.com/careers](https://kiln.bamboohr.com/careers) |
 | [Kinetic](https://kinetic.market) | bamboohr | [https://kinetic.bamboohr.com/careers](https://kinetic.bamboohr.com/careers) |
 | [Kinetix AMM V3](https://kinetix.finance/) | bamboohr | [https://kinetix.bamboohr.com/careers](https://kinetix.bamboohr.com/careers) |
