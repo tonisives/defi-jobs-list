@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 
 **Total protocols:** 1010
 
@@ -242,7 +242,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Cosmos | greenhouse | [https://boards.greenhouse.io/cosmoslabs](https://boards.greenhouse.io/cosmoslabs) |
 | CoW DAO | getro | [getro/cow-dao](getro/cow-dao) |
 | [CoW Protocol](https://cow.fi) | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
-| CoWSwap | bamboohr | [https://cow.bamboohr.com/careers](https://cow.bamboohr.com/careers) |
+| CoWSwap | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
 | Credix | getro | [getro/credix](getro/credix) |
 | Cronos Labs | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
 | [Cronos zkEVM Bridge](https://zkevm.cronos.org/) | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
@@ -477,7 +477,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [JetSwap](https://jetswap.finance) | recruitee | [https://jet.recruitee.com](https://jet.recruitee.com) |
 | [Jigsaw](https://app.jigsaw.finance/) | ashby | [https://jobs.ashbyhq.com/jigsaw](https://jobs.ashbyhq.com/jigsaw) |
 | [Jiko](https://app.jiko.finance/) | bamboohr | [https://jiko.bamboohr.com/careers](https://jiko.bamboohr.com/careers) |
-| Jito | lever | [https://jobs.lever.co/jito](https://jobs.lever.co/jito) |
+| Jito | ashby | [https://jobs.ashbyhq.com/jito-labs](https://jobs.ashbyhq.com/jito-labs) |
 | Jito Foundation | getro | [getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb](getro/jito-foundation-2-b1eabcde-5e42-4696-9a1f-3c2e69aec9eb) |
 | Jito Labs | ashby | [https://jobs.ashbyhq.com/jito-labs](https://jobs.ashbyhq.com/jito-labs) |
 | [Jito Liquid Staking](https://jito.network) | lever | [https://jobs.lever.co/jito.wtf](https://jobs.lever.co/jito.wtf) |
