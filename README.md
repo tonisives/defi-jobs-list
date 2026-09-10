@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-10
 
 **Total protocols:** 1010
 
@@ -100,9 +100,9 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Ava Labs | ashby | [https://jobs.ashbyhq.com/ava-labs](https://jobs.ashbyhq.com/ava-labs) |
 | [Avalanche](https://www.avax.network/) | ashby | [https://jobs.ashbyhq.com/avalanche-foundation](https://jobs.ashbyhq.com/avalanche-foundation) |
 | [Avalanche Core Bridge](https://core.app/bridge/) | greenhouse | [https://boards.greenhouse.io/avalabs](https://boards.greenhouse.io/avalabs) |
-| [Avant avBTC](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
-| [Avant avETH](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
-| [Avant avUSD](https://app.avantprotocol.com/rewards?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| [Avant avBTC](https://app.avantprotocol.com/products) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| [Avant avETH](https://app.avantprotocol.com/products) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| [Avant avUSD](https://app.avantprotocol.com/products) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Axial](https://www.axial.exchange) | greenhouse | [https://boards.greenhouse.io/axial](https://boards.greenhouse.io/axial) |
 | [Axiom](https://axiom.trade/@defillama) | ashby | [https://jobs.ashbyhq.com/axiom](https://jobs.ashbyhq.com/axiom) |
 | Axiom Zen | greenhouse | [https://boards.greenhouse.io/axiom](https://boards.greenhouse.io/axiom) |
@@ -598,7 +598,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Meter Passport](https://passport.meter.io) | ashby | [https://jobs.ashbyhq.com/meter](https://jobs.ashbyhq.com/meter) |
 | [mETH Protocol](https://www.methprotocol.xyz/) | ashby | [https://jobs.ashbyhq.com/windranger](https://jobs.ashbyhq.com/windranger) |
 | [Metis Bridge](https://bridge.metis.io/home) | bamboohr | [https://metis.bamboohr.com/careers](https://metis.bamboohr.com/careers) |
-| [Metronome Synth](https://www.metronome.io/synth) | greenhouse | [https://boards.greenhouse.io/metronome](https://boards.greenhouse.io/metronome) |
+| [Metronome Synth](https://metronome.io/) | greenhouse | [https://boards.greenhouse.io/metronome](https://boards.greenhouse.io/metronome) |
 | [Metronome V1](https://metronome.io/) | greenhouse | [https://boards.greenhouse.io/metronome](https://boards.greenhouse.io/metronome) |
 | Metropolis | greenhouse | [https://boards.greenhouse.io/metropolis](https://boards.greenhouse.io/metropolis) |
 | [MEXC](https://www.mexc.com) | custom | [custom/mexc](custom/mexc) |
