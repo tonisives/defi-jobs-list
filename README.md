@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 
 **Total protocols:** 1010
 
@@ -798,7 +798,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Risk Labs | ashby | [https://jobs.ashbyhq.com/risklabs](https://jobs.ashbyhq.com/risklabs) |
 | Ritual | greenhouse | [https://boards.greenhouse.io/ritual](https://boards.greenhouse.io/ritual) |
 | River | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
-| [River Omni-CDP](https://app.river.inc/) | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
+| [River Omni-CDP](https://app.riverai.inc/) | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
 | [Robinhood](https://robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | [Robinhood Chain Bridge](https://robinhood.com/us/en/chain/) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | [RockawayX](https://rockawayx.com/) | workable | [https://apply.workable.com/rockawayx](https://apply.workable.com/rockawayx) |
