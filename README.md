@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 
-**Total protocols:** 1010
+**Total protocols:** 1011
 
 ## Protocols
 
@@ -242,7 +242,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Cosmos | greenhouse | [https://boards.greenhouse.io/cosmoslabs](https://boards.greenhouse.io/cosmoslabs) |
 | CoW DAO | getro | [getro/cow-dao](getro/cow-dao) |
 | [CoW Protocol](https://cow.fi) | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
-| CoWSwap | ashby | [https://jobs.ashbyhq.com/cow-dao](https://jobs.ashbyhq.com/cow-dao) |
+| CoWSwap | bamboohr | [https://cow.bamboohr.com/careers](https://cow.bamboohr.com/careers) |
 | Credix | getro | [getro/credix](getro/credix) |
 | Cronos Labs | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
 | [Cronos zkEVM Bridge](https://zkevm.cronos.org/) | bamboohr | [https://cronoslabs.bamboohr.com/careers](https://cronoslabs.bamboohr.com/careers) |
@@ -333,7 +333,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | EverGive | recruitee | [https://evergive.recruitee.com](https://evergive.recruitee.com) |
 | Everstake | getro | [getro/everstake](getro/everstake) |
 | Exo Tech | getro | [getro/exo-tech](getro/exo-tech) |
-| Exodus | getro | [getro/exodus-2](getro/exodus-2) |
+| Exodus | bamboohr | [https://exodus.bamboohr.com/careers](https://exodus.bamboohr.com/careers) |
 | EY | recruitee | [https://ey.recruitee.com](https://ey.recruitee.com) |
 | Fact Machine | getro | [getro/fact-machine](getro/fact-machine) |
 | Factor | lever | [https://jobs.lever.co/factor](https://jobs.lever.co/factor) |
@@ -624,6 +624,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Morpho Labs | recruitee | [https://morpholabs.recruitee.com](https://morpholabs.recruitee.com) |
 | [Morpho Midnight](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
 | [Morpho V1](https://app.morpho.org) | ashby | [https://jobs.ashbyhq.com/morpho](https://jobs.ashbyhq.com/morpho) |
+| Morse | getro | [getro/morse](getro/morse) |
 | [Mosaic Aggregator](https://mosaic.ag) | ashby | [https://jobs.ashbyhq.com/mosaic](https://jobs.ashbyhq.com/mosaic) |
 | [Mosaic AMM](https://mosaic.ag) | bamboohr | [https://mosaic.bamboohr.com/careers](https://mosaic.bamboohr.com/careers) |
 | [MUX Perps](https://mux.network/) | ashby | [https://jobs.ashbyhq.com/mux](https://jobs.ashbyhq.com/mux) |
