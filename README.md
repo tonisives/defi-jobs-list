@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 
-**Total protocols:** 1011
+**Total protocols:** 1013
 
 ## Protocols
 
@@ -334,6 +334,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Everstake | getro | [getro/everstake](getro/everstake) |
 | Exo Tech | getro | [getro/exo-tech](getro/exo-tech) |
 | Exodus | bamboohr | [https://exodus.bamboohr.com/careers](https://exodus.bamboohr.com/careers) |
+| [Exponent](https://www.exponent.finance/) | getro | [getro/exponent-2-c92f123b-98e8-4de6-b5c6-3b4fb3e4276c](getro/exponent-2-c92f123b-98e8-4de6-b5c6-3b4fb3e4276c) |
 | EY | recruitee | [https://ey.recruitee.com](https://ey.recruitee.com) |
 | Fact Machine | getro | [getro/fact-machine](getro/fact-machine) |
 | Factor | lever | [https://jobs.lever.co/factor](https://jobs.lever.co/factor) |
@@ -701,6 +702,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Osmosis | greenhouse | [https://boards.greenhouse.io/osmosis](https://boards.greenhouse.io/osmosis) |
 | [Osmosis DEX](https://osmosis.zone/) | greenhouse | [https://boards.greenhouse.io/osmosisdex](https://boards.greenhouse.io/osmosisdex) |
 | [Ostium](https://www.ostium.io/) | ashby | [https://jobs.ashbyhq.com/ostium](https://jobs.ashbyhq.com/ostium) |
+| OtterSec | getro | [getro/ottersec](getro/ottersec) |
 | P2P.org | ashby | [https://jobs.ashbyhq.com/p2p.org](https://jobs.ashbyhq.com/p2p.org) |
 | [Pact](https://app.pact.fi) | ashby | [https://jobs.ashbyhq.com/pactfi](https://jobs.ashbyhq.com/pactfi) |
 | [PancakeSwap AMM](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
