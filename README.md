@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 
 **Total protocols:** 1013
 
@@ -101,7 +101,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Avalanche](https://www.avax.network/) | ashby | [https://jobs.ashbyhq.com/avalanche-foundation](https://jobs.ashbyhq.com/avalanche-foundation) |
 | [Avalanche Core Bridge](https://core.app/bridge/) | greenhouse | [https://boards.greenhouse.io/avalabs](https://boards.greenhouse.io/avalabs) |
 | [Avant avBTC](https://app.avantprotocol.com/products) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
-| [Avant avETH](https://app.avantprotocol.com/products) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
+| [Avant avETH](https://app.avantprotocol.com/?ref=defillama) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Avant avUSD](https://app.avantprotocol.com/products) | recruitee | [https://avantlabs.recruitee.com](https://avantlabs.recruitee.com) |
 | [Axial](https://www.axial.exchange) | greenhouse | [https://boards.greenhouse.io/axial](https://boards.greenhouse.io/axial) |
 | [Axiom](https://axiom.trade/@defillama) | ashby | [https://jobs.ashbyhq.com/axiom](https://jobs.ashbyhq.com/axiom) |
@@ -952,7 +952,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Trojan Trading | getro | [getro/trojan-trading](getro/trojan-trading) |
 | [TrueFi](https://app.truefi.io/) | recruitee | [https://true.recruitee.com](https://true.recruitee.com) |
 | [Trust Wallet](https://trustwallet.com/download) | ashby | [https://jobs.ashbyhq.com/trust-wallet](https://jobs.ashbyhq.com/trust-wallet) |
-| [Turbo Loop]( ) | recruitee | [https://turbo.recruitee.com](https://turbo.recruitee.com) |
+| [Turbo Loop](https://turboloop.io) | recruitee | [https://turbo.recruitee.com](https://turbo.recruitee.com) |
 | Turnkey | ashby | [https://jobs.ashbyhq.com/turnkey](https://jobs.ashbyhq.com/turnkey) |
 | Twinstake | bamboohr | [https://twinstake.bamboohr.com/careers](https://twinstake.bamboohr.com/careers) |
 | Ultimate | greenhouse | [https://boards.greenhouse.io/ultimate](https://boards.greenhouse.io/ultimate) |
