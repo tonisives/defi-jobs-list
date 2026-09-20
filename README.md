@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 
-**Total protocols:** 1013
+**Total protocols:** 1014
 
 ## Protocols
 
@@ -774,6 +774,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Raad | getro | [getro/raad](getro/raad) |
 | Radix | recruitee | [https://radix.recruitee.com](https://radix.recruitee.com) |
 | Raiku | getro | [getro/raiku](getro/raiku) |
+| [Raiku Staked SOL](https://stake.raiku.com) | ashby | [https://jobs.ashbyhq.com/raiku](https://jobs.ashbyhq.com/raiku) |
 | [Rain](https://www.rain.one/) | ashby | [https://jobs.ashbyhq.com/rain](https://jobs.ashbyhq.com/rain) |
 | [Rain.fi](https://rain.fi) | ashby | [https://jobs.ashbyhq.com/rain](https://jobs.ashbyhq.com/rain) |
 | [Ramp](https://ramp.com/careers) | ashby | [https://jobs.ashbyhq.com/ramp](https://jobs.ashbyhq.com/ramp) |
