@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 
-**Total protocols:** 1014
+**Total protocols:** 1016
 
 ## Protocols
 
@@ -368,6 +368,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Flipside Crypto | greenhouse | [https://boards.greenhouse.io/flipside](https://boards.greenhouse.io/flipside) |
 | [Flipster](https://flipster.io) | lever | [https://jobs.lever.co/flipster](https://jobs.lever.co/flipster) |
 | Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
+| [FlowX Aggregator](https://flowx.finance) | bamboohr | [https://flowx.bamboohr.com/careers](https://flowx.bamboohr.com/careers) |
 | Fluence Labs | greenhouse | [https://boards.greenhouse.io/fluencelabs](https://boards.greenhouse.io/fluencelabs) |
 | [Flux Finance](https://fluxfinance.com) | ashby | [https://jobs.ashbyhq.com/flux](https://jobs.ashbyhq.com/flux) |
 | Fomo | getro | [getro/fomo-2-12bbd144-f1c8-44a3-bd2a-ed54a499ceea](getro/fomo-2-12bbd144-f1c8-44a3-bd2a-ed54a499ceea) |
@@ -633,7 +634,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | N1 | ashby | [https://jobs.ashbyhq.com/n1](https://jobs.ashbyhq.com/n1) |
 | [N1 Exchange Bridge](https://app.n1.xyz/) | ashby | [https://jobs.ashbyhq.com/n1](https://jobs.ashbyhq.com/n1) |
 | [Nabla Finance](https://nabla.fi) | ashby | [https://jobs.ashbyhq.com/nabla](https://jobs.ashbyhq.com/nabla) |
-| Nansen | greenhouse | [https://boards.greenhouse.io/nansen](https://boards.greenhouse.io/nansen) |
+| Nansen | ashby | [https://jobs.ashbyhq.com/nansen](https://jobs.ashbyhq.com/nansen) |
 | Nascent | ashby | [https://jobs.ashbyhq.com/nascent](https://jobs.ashbyhq.com/nascent) |
 | Nasdaq | getro | [getro/nasdaq](getro/nasdaq) |
 | Nash | ashby | [https://jobs.ashbyhq.com/nash](https://jobs.ashbyhq.com/nash) |
@@ -809,6 +810,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Rolla | bamboohr | [https://rolla.bamboohr.com/careers](https://rolla.bamboohr.com/careers) |
 | [Rooster Protocol V1](https://www.rooster.trade/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
 | [Rooster Protocol V2](https://www.rooster.trade/) | recruitee | [https://rooster.recruitee.com](https://rooster.recruitee.com) |
+| Route | greenhouse | [https://boards.greenhouse.io/route](https://boards.greenhouse.io/route) |
 | Royal | bamboohr | [https://royal.bamboohr.com/careers](https://royal.bamboohr.com/careers) |
 | [Sable Finance](https://sable.finance) | ashby | [https://jobs.ashbyhq.com/sable](https://jobs.ashbyhq.com/sable) |
 | Safe | ashby | [https://jobs.ashbyhq.com/safe](https://jobs.ashbyhq.com/safe) |
@@ -926,7 +928,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Tempo | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
 | [Tempo Stablecoin Dex](https://tempo.xyz/) | ashby | [https://jobs.ashbyhq.com/tempo-xyz](https://jobs.ashbyhq.com/tempo-xyz) |
 | Temporal | getro | [getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075](getro/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075) |
-| [TeraSwap]( ) | bamboohr | [https://tera.bamboohr.com/careers](https://tera.bamboohr.com/careers) |
+| [TeraSwap](https://www.teraswap.app/) | bamboohr | [https://tera.bamboohr.com/careers](https://tera.bamboohr.com/careers) |
 | [Terminal Finance Pre-Deposits](https://terminal.fi/) | ashby | [https://jobs.ashbyhq.com/terminal](https://jobs.ashbyhq.com/terminal) |
 | Terra | lever | [https://jobs.lever.co/terrahq](https://jobs.lever.co/terrahq) |
 | Tether | recruitee | [https://tether.recruitee.com](https://tether.recruitee.com) |
