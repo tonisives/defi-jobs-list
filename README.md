@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-22
 
 **Total protocols:** 1016
 
@@ -425,7 +425,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Harvest Finance](https://harvest.finance/) | bamboohr | [https://harvestlabs.bamboohr.com/careers](https://harvestlabs.bamboohr.com/careers) |
 | [HARVEST FLOW](https://www.harvestflow.io/?lng=en) | bamboohr | [https://harvestlabs.bamboohr.com/careers](https://harvestlabs.bamboohr.com/careers) |
 | Hashgraph | greenhouse | [https://boards.greenhouse.io/hashgraph](https://boards.greenhouse.io/hashgraph) |
-| [HawkFi](https://hawksight.co) | ashby | [https://jobs.ashbyhq.com/hawk](https://jobs.ashbyhq.com/hawk) |
+| [HawkFi](https://www.hawkfi.ag/) | ashby | [https://jobs.ashbyhq.com/hawk](https://jobs.ashbyhq.com/hawk) |
 | Helio | getro | [getro/helio-2](getro/helio-2) |
 | Helium | greenhouse | [https://boards.greenhouse.io/helium](https://boards.greenhouse.io/helium) |
 | Helius | ashby | [https://jobs.ashbyhq.com/helius](https://jobs.ashbyhq.com/helius) |
