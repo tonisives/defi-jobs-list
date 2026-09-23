@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-22
+**Last updated:** 2026-09-23
 
-**Total protocols:** 1016
+**Total protocols:** 1017
 
 ## Protocols
 
@@ -47,6 +47,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Alpen | ashby | [https://jobs.ashbyhq.com/alpenlabs](https://jobs.ashbyhq.com/alpenlabs) |
 | [Alpha](https://alpha.wtf) | recruitee | [https://alpha.recruitee.com](https://alpha.recruitee.com) |
 | alphafc.xyz | getro | [getro/alphafc-xyz](getro/alphafc-xyz) |
+| [Alt Fun](https://alt.fun/) | ashby | [https://jobs.ashbyhq.com/alt](https://jobs.ashbyhq.com/alt) |
 | [Amazon](https://www.amazon.jobs) | custom | [custom/amazon](custom/amazon) |
 | Amazon Web Services | recruitee | [https://amazon.recruitee.com](https://amazon.recruitee.com) |
 | [Amber Finance](https://amberfi.io) | bamboohr | [https://amber.bamboohr.com/careers](https://amber.bamboohr.com/careers) |
