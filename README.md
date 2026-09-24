@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 
 **Total protocols:** 1017
 
@@ -442,7 +442,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Horizen | greenhouse | [https://boards.greenhouse.io/horizenlabs](https://boards.greenhouse.io/horizenlabs) |
 | Horizen Labs | greenhouse | [https://boards.greenhouse.io/horizenlabs](https://boards.greenhouse.io/horizenlabs) |
 | [HTX](https://www.htx.com/) | custom | [custom/htx](custom/htx) |
-| Huma | getro | [getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244](getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244) |
+| [Huma](https://app.huma.finance) | getro | [getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244](getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244) |
 | [HumanFi](https://world.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857) | ashby | [https://jobs.ashbyhq.com/human](https://jobs.ashbyhq.com/human) |
 | Hume | greenhouse | [https://boards.greenhouse.io/hume](https://boards.greenhouse.io/hume) |
 | Hut 8 | greenhouse | [https://boards.greenhouse.io/hut8](https://boards.greenhouse.io/hut8) |
