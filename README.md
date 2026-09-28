@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 
-**Total protocols:** 1017
+**Total protocols:** 1018
 
 ## Protocols
 
@@ -93,7 +93,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Auditless | ashby | [https://jobs.ashbyhq.com/auditless](https://jobs.ashbyhq.com/auditless) |
 | [Augur](https://augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
-| [Aura Aggregator](https://app.aur.ag/) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
+| [Aura Aggregator](https://app.aur.ag/) | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aura Finance | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aurory | getro | [getro/aurory-2](getro/aurory-2) |
 | [AUTOfinance](https://www.auto.finance) | bamboohr | [https://auto.bamboohr.com/careers](https://auto.bamboohr.com/careers) |
@@ -581,6 +581,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Mellow LRT](https://mellow.finance/) | recruitee | [https://mellow.recruitee.com](https://mellow.recruitee.com) |
 | [Mellow Restaking](https://mellow.finance/) | recruitee | [https://mellow.recruitee.com](https://mellow.recruitee.com) |
 | [Mento](https://www.mento.org/) | greenhouse | [https://boards.greenhouse.io/mento](https://boards.greenhouse.io/mento) |
+| Meow | ashby | [https://jobs.ashbyhq.com/meow](https://jobs.ashbyhq.com/meow) |
 | [Mercury](https://mercury.com/careers) | greenhouse | [https://boards.greenhouse.io/mercury](https://boards.greenhouse.io/mercury) |
 | Mercuryo | bamboohr | [https://mercuryo.bamboohr.com/careers](https://mercuryo.bamboohr.com/careers) |
 | [Meridian AMM](https://www.meridian.money) | ashby | [https://jobs.ashbyhq.com/meridian](https://jobs.ashbyhq.com/meridian) |
