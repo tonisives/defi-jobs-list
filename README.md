@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-05
 
-**Total protocols:** 1018
+**Total protocols:** 1019
 
 ## Protocols
 
@@ -979,7 +979,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Variant Fund | ashby | [https://jobs.ashbyhq.com/variant-fund](https://jobs.ashbyhq.com/variant-fund) |
 | [Veda](https://veda.tech) | lever | [https://jobs.lever.co/vedatechlabs](https://jobs.lever.co/vedatechlabs) |
 | Vega Protocol | greenhouse | [https://boards.greenhouse.io/vega](https://boards.greenhouse.io/vega) |
-| [Velora](https://app.velora.xyz) | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
+| [Velora](https://app.velora.xyz) | bamboohr | [https://velora.bamboohr.com/careers](https://velora.bamboohr.com/careers) |
 | [Vendor V2](https://vendor.finance) | greenhouse | [https://boards.greenhouse.io/vendor](https://boards.greenhouse.io/vendor) |
 | [Ventuals](https://ventuals.com/trade) | ashby | [https://jobs.ashbyhq.com/ventuals](https://jobs.ashbyhq.com/ventuals) |
 | Venus | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
@@ -1001,6 +1001,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [WOOFi Earn](https://fi.woo.org/earn) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | [WOOFi Swap](https://woofi.com) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | [world](https://world.xyz/) | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
+| World by Starra | ashby | [https://jobs.ashbyhq.com/worldlabs](https://jobs.ashbyhq.com/worldlabs) |
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | [World Markets Inc Spot](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
