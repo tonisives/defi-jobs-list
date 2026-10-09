@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-08
+**Last updated:** 2026-10-09
 
-**Total protocols:** 1019
+**Total protocols:** 1022
 
 ## Protocols
 
@@ -318,6 +318,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Endurance Bridge](https://endurance-bridge.fusionist.io/) | ashby | [https://jobs.ashbyhq.com/endurance-labs](https://jobs.ashbyhq.com/endurance-labs) |
 | Enjoyoors | getro | [getro/enjoyoors](getro/enjoyoors) |
 | Enterprise Ethereum Alliance | recruitee | [https://enterprise.recruitee.com](https://enterprise.recruitee.com) |
+| Equa Network | getro | [getro/equa-network-2](getro/equa-network-2) |
 | [Equilibrium Lending](https://app.equilibrium.io/market) | greenhouse | [https://boards.greenhouse.io/equilibrium](https://boards.greenhouse.io/equilibrium) |
 | Ergonia | getro | [getro/ergonia](getro/ergonia) |
 | Espresso | ashby | [https://jobs.ashbyhq.com/espresso](https://jobs.ashbyhq.com/espresso) |
@@ -891,6 +892,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [StarGate](https://stargate.vechain.org/) | ashby | [https://jobs.ashbyhq.com/stargate-foundation](https://jobs.ashbyhq.com/stargate-foundation) |
 | [Starknet Bridge](https://starkgate.starknet.io) | ashby | [https://jobs.ashbyhq.com/starknetfoundation](https://jobs.ashbyhq.com/starknetfoundation) |
 | [Starknet BTC Staking](https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/) | lever | [https://jobs.lever.co/starknet](https://jobs.lever.co/starknet) |
+| [Startale Earn](https://app.startale.com/) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | [Steakhouse Financial](https://www.steakhouse.financial/) | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar AMM](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools#automated-market-makers-amms) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
@@ -899,6 +901,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | StoryCo | ashby | [https://jobs.ashbyhq.com/storyco](https://jobs.ashbyhq.com/storyco) |
 | [Strata Markets](https://strata.markets) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
 | [Strata Season 0](https://strata.markets) | recruitee | [https://strata.recruitee.com](https://strata.recruitee.com) |
+| [Streamflow](https://streamflow.finance) | getro | [getro/streamflow-2](getro/streamflow-2) |
 | Strike | greenhouse | [https://boards.greenhouse.io/strike](https://boards.greenhouse.io/strike) |
 | [Strike Finance Perpetuals](https://www.strikefinance.org/) | greenhouse | [https://boards.greenhouse.io/strike](https://boards.greenhouse.io/strike) |
 | [Stripe](https://stripe.com/jobs) | greenhouse | [https://boards.greenhouse.io/stripe](https://boards.greenhouse.io/stripe) |
