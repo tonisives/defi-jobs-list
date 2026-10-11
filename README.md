@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-10
+**Last updated:** 2026-10-11
 
-**Total protocols:** 1022
+**Total protocols:** 1023
 
 ## Protocols
 
@@ -475,6 +475,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [InSwap](https://app.inswap.ai/) | bamboohr | [https://in.bamboohr.com/careers](https://in.bamboohr.com/careers) |
 | [Integral](https://integral.link/) | bamboohr | [https://integral.bamboohr.com/careers](https://integral.bamboohr.com/careers) |
 | IntellectEU | bamboohr | [https://intellecteu.bamboohr.com/careers](https://intellecteu.bamboohr.com/careers) |
+| [Inter Protocol](https://inter.trade) | greenhouse | [https://boards.greenhouse.io/inter](https://boards.greenhouse.io/inter) |
 | [International Meme Fund V2](https://imf.bz/) | greenhouse | [https://boards.greenhouse.io/international](https://boards.greenhouse.io/international) |
 | [International Stable Currency](https://www.isc.money) | greenhouse | [https://boards.greenhouse.io/international](https://boards.greenhouse.io/international) |
 | [Jasper Vault](https://www.jaspervault.io/) | greenhouse | [https://boards.greenhouse.io/jasper](https://boards.greenhouse.io/jasper) |
