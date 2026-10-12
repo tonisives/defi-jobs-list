@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-11
+**Last updated:** 2026-10-12
 
-**Total protocols:** 1023
+**Total protocols:** 1024
 
 ## Protocols
 
@@ -93,7 +93,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Auditless | ashby | [https://jobs.ashbyhq.com/auditless](https://jobs.ashbyhq.com/auditless) |
 | [Augur](https://augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
-| [Aura Aggregator](https://app.aur.ag/) | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
+| [Aura Aggregator](https://app.aur.ag/) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
 | Aura Finance | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aurory | getro | [getro/aurory-2](getro/aurory-2) |
 | [AUTOfinance](https://www.auto.finance) | bamboohr | [https://auto.bamboohr.com/careers](https://auto.bamboohr.com/careers) |
@@ -968,6 +968,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Unchained Capital | greenhouse | [https://boards.greenhouse.io/unchainedlabs](https://boards.greenhouse.io/unchainedlabs) |
 | [Union Protocol](https://union.finance) | ashby | [https://jobs.ashbyhq.com/union](https://jobs.ashbyhq.com/union) |
 | Uniswap | ashby | [https://jobs.ashbyhq.com/uniswap](https://jobs.ashbyhq.com/uniswap) |
+| [Uniswap Aggregator](https://app.uniswap.org/) | ashby | [https://jobs.ashbyhq.com/uniswap](https://jobs.ashbyhq.com/uniswap) |
 | Uniswap Foundation | ashby | [https://jobs.ashbyhq.com/uniswap](https://jobs.ashbyhq.com/uniswap) |
 | [Unit](https://hyperunit.xyz/deposit) | ashby | [https://jobs.ashbyhq.com/unit](https://jobs.ashbyhq.com/unit) |
 | Unit 410 | ashby | [https://jobs.ashbyhq.com/unit](https://jobs.ashbyhq.com/unit) |
@@ -983,7 +984,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Variant Fund | ashby | [https://jobs.ashbyhq.com/variant-fund](https://jobs.ashbyhq.com/variant-fund) |
 | [Veda](https://veda.tech) | lever | [https://jobs.lever.co/vedatechlabs](https://jobs.lever.co/vedatechlabs) |
 | Vega Protocol | greenhouse | [https://boards.greenhouse.io/vega](https://boards.greenhouse.io/vega) |
-| [Velora](https://app.velora.xyz) | bamboohr | [https://velora.bamboohr.com/careers](https://velora.bamboohr.com/careers) |
+| [Velora](https://app.velora.xyz) | greenhouse | [https://boards.greenhouse.io/velora](https://boards.greenhouse.io/velora) |
 | [Vendor V2](https://vendor.finance) | greenhouse | [https://boards.greenhouse.io/vendor](https://boards.greenhouse.io/vendor) |
 | [Ventuals](https://ventuals.com/trade) | ashby | [https://jobs.ashbyhq.com/ventuals](https://jobs.ashbyhq.com/ventuals) |
 | Venus | bamboohr | [https://venus.bamboohr.com/careers](https://venus.bamboohr.com/careers) |
