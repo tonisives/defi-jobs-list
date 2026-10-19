@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-18
+**Last updated:** 2026-10-19
 
-**Total protocols:** 1025
+**Total protocols:** 1026
 
 ## Protocols
 
@@ -280,9 +280,10 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Digitalx Limited (Asx:dcc) | getro | [getro/digitalx-limited-asx-dcc](getro/digitalx-limited-asx-dcc) |
 | Disco | greenhouse | [https://boards.greenhouse.io/disco](https://boards.greenhouse.io/disco) |
 | [Ditto Earn](https://dittonetwork.io) | bamboohr | [https://ditto.bamboohr.com/careers](https://ditto.bamboohr.com/careers) |
+| [Ditto Swap](https://app.dittonetwork.io) | bamboohr | [https://ditto.bamboohr.com/careers](https://ditto.bamboohr.com/careers) |
 | Dock | recruitee | [https://dock.recruitee.com](https://dock.recruitee.com) |
 | Dodo | recruitee | [https://dodo.recruitee.com](https://dodo.recruitee.com) |
-| DODO Agg | recruitee | [https://dodo.recruitee.com](https://dodo.recruitee.com) |
+| [DODO Agg](https://dodoex.io) | ashby | [https://jobs.ashbyhq.com/dodo](https://jobs.ashbyhq.com/dodo) |
 | [DODO AMM](https://dodoex.io/) | recruitee | [https://dodo.recruitee.com](https://dodo.recruitee.com) |
 | [Doma DEX V3](https://app.doma.xyz/swap) | greenhouse | [https://boards.greenhouse.io/doma](https://boards.greenhouse.io/doma) |
 | [Doppler Finance](https://app.doppler.finance) | ashby | [https://jobs.ashbyhq.com/doppler](https://jobs.ashbyhq.com/doppler) |
