@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-21
+**Last updated:** 2026-10-22
 
-**Total protocols:** 1026
+**Total protocols:** 1027
 
 ## Protocols
 
@@ -896,6 +896,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Starknet Bridge](https://starkgate.starknet.io) | ashby | [https://jobs.ashbyhq.com/starknetfoundation](https://jobs.ashbyhq.com/starknetfoundation) |
 | [Starknet BTC Staking](https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/) | lever | [https://jobs.lever.co/starknet](https://jobs.lever.co/starknet) |
 | [Startale Earn](https://app.startale.com/) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
+| [Startale USD](https://usd.startale.com/) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | [Steakhouse Financial](https://www.steakhouse.financial/) | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar AMM](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools#automated-market-makers-amms) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
