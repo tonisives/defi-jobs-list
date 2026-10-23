@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-22
+**Last updated:** 2026-10-23
 
 **Total protocols:** 1027
 
@@ -895,7 +895,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [StarGate](https://stargate.vechain.org/) | ashby | [https://jobs.ashbyhq.com/stargate-foundation](https://jobs.ashbyhq.com/stargate-foundation) |
 | [Starknet Bridge](https://starkgate.starknet.io) | ashby | [https://jobs.ashbyhq.com/starknetfoundation](https://jobs.ashbyhq.com/starknetfoundation) |
 | [Starknet BTC Staking](https://www.starknet.io/staking/bitcoin-staking-user-guide-for-starknet/) | lever | [https://jobs.lever.co/starknet](https://jobs.lever.co/starknet) |
-| [Startale Earn](https://app.startale.com/) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
+| [Startale Earn](https://app.startale.com/earn) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | [Startale USD](https://usd.startale.com/) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | [Steakhouse Financial](https://www.steakhouse.financial/) | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
