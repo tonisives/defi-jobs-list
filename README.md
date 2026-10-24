@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-23
+**Last updated:** 2026-10-24
 
-**Total protocols:** 1027
+**Total protocols:** 1028
 
 ## Protocols
 
@@ -499,6 +499,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Jupiter | getro | [getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717](getro/jupiter-2-051c86c1-68fc-4de2-a5d3-406864e3e717) |
 | Kaiko | lever | [https://jobs.lever.co/kaiko](https://jobs.lever.co/kaiko) |
 | [Kalshi](https://kalshi.com) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
+| Kamino | getro | [getro/kamino-2](getro/kamino-2) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
