@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-25
+**Last updated:** 2026-10-26
 
-**Total protocols:** 1029
+**Total protocols:** 1031
 
 ## Protocols
 
@@ -93,7 +93,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Auditless | ashby | [https://jobs.ashbyhq.com/auditless](https://jobs.ashbyhq.com/auditless) |
 | [Augur](https://augur.net/) | ashby | [https://jobs.ashbyhq.com/augur](https://jobs.ashbyhq.com/augur) |
 | [Aura](https://aura.finance) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
-| [Aura Aggregator](https://app.aur.ag/) | greenhouse | [https://boards.greenhouse.io/aura](https://boards.greenhouse.io/aura) |
+| [Aura Aggregator](https://app.aur.ag/) | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aura Finance | bamboohr | [https://aura.bamboohr.com/careers](https://aura.bamboohr.com/careers) |
 | Aurory | getro | [getro/aurory-2](getro/aurory-2) |
 | [AUTOfinance](https://www.auto.finance) | bamboohr | [https://auto.bamboohr.com/careers](https://auto.bamboohr.com/careers) |
@@ -444,6 +444,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Hologram | getro | [getro/hologram-2](getro/hologram-2) |
 | Horizen | greenhouse | [https://boards.greenhouse.io/horizenlabs](https://boards.greenhouse.io/horizenlabs) |
 | Horizen Labs | greenhouse | [https://boards.greenhouse.io/horizenlabs](https://boards.greenhouse.io/horizenlabs) |
+| HSR | bamboohr | [https://hsr.bamboohr.com/careers](https://hsr.bamboohr.com/careers) |
 | [HTX](https://www.htx.com/) | custom | [custom/htx](custom/htx) |
 | [Huma](https://app.huma.finance) | getro | [getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244](getro/huma-2-b3890917-2d6b-4684-adcc-4270d9189244) |
 | [HumanFi](https://world.org/ecosystem/app_40cf4a75c0ac4d247999bccb1ce8f857) | ashby | [https://jobs.ashbyhq.com/human](https://jobs.ashbyhq.com/human) |
@@ -900,6 +901,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Startale Earn](https://app.startale.com/earn) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | [Startale USD](https://usd.startale.com/) | greenhouse | [https://boards.greenhouse.io/startale](https://boards.greenhouse.io/startale) |
 | [Steakhouse Financial](https://www.steakhouse.financial/) | getro | [getro/steakhouse-financial-2](getro/steakhouse-financial-2) |
+| [SteelSwap](https://steelswap.io) | ashby | [https://jobs.ashbyhq.com/steel](https://jobs.ashbyhq.com/steel) |
 | Stellar | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar AMM](https://developers.stellar.org/docs/learn/fundamentals/liquidity-on-stellar-sdex-liquidity-pools#automated-market-makers-amms) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
 | [Stellar DeFi Hub](https://stellardefihub.com/) | ashby | [https://jobs.ashbyhq.com/stellar](https://jobs.ashbyhq.com/stellar) |
@@ -1011,7 +1013,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [WOOFi Earn](https://fi.woo.org/earn) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | [WOOFi Swap](https://woofi.com) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | [world](https://world.xyz/) | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
-| World by Starra | ashby | [https://jobs.ashbyhq.com/worldlabs](https://jobs.ashbyhq.com/worldlabs) |
+| World by Starra | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | [World Chain](https://world.org/) | bamboohr | [https://world.bamboohr.com/careers](https://world.bamboohr.com/careers) |
 | [World Markets Inc](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
 | [World Markets Inc Spot](https://world.inc/) | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
