@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-10-29
+**Last updated:** 2026-10-31
 
-**Total protocols:** 1031
+**Total protocols:** 1033
 
 ## Protocols
 
@@ -111,7 +111,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Aztec Connect](https://aztec.network) | greenhouse | [https://boards.greenhouse.io/aztec](https://boards.greenhouse.io/aztec) |
 | [B.Protocol](https://app.bprotocol.org/) | ashby | [https://jobs.ashbyhq.com/bio](https://jobs.ashbyhq.com/bio) |
 | B2C2 | greenhouse | [https://boards.greenhouse.io/b2c2](https://boards.greenhouse.io/b2c2) |
-| [Babylon Protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
+| [babylon-protocol](https://babylonlabs.io) | custom | [custom/babylon-protocol](custom/babylon-protocol) |
 | [Backpack](https://backpack.exchange) | ashby | [https://jobs.ashbyhq.com/backpack](https://jobs.ashbyhq.com/backpack) |
 | Bags | ashby | [https://jobs.ashbyhq.com/bags](https://jobs.ashbyhq.com/bags) |
 | Base | ashby | [https://jobs.ashbyhq.com/base](https://jobs.ashbyhq.com/base) |
@@ -171,6 +171,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Braiins | ashby | [https://jobs.ashbyhq.com/braiins](https://jobs.ashbyhq.com/braiins) |
 | Brale | ashby | [https://jobs.ashbyhq.com/brale](https://jobs.ashbyhq.com/brale) |
 | Brave | greenhouse | [https://boards.greenhouse.io/brave](https://boards.greenhouse.io/brave) |
+| [Brex](https://www.brex.com/careers) | greenhouse | [https://boards.greenhouse.io/brex](https://boards.greenhouse.io/brex) |
 | Bridge | bamboohr | [https://bridgelabs.bamboohr.com/careers](https://bridgelabs.bamboohr.com/careers) |
 | Bullet | getro | [getro/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498](getro/bullet-2-479aed29-c02d-408c-af2d-d7fa109c9498) |
 | [Bunny](https://pancakebunny.finance/) | ashby | [https://jobs.ashbyhq.com/bunny](https://jobs.ashbyhq.com/bunny) |
@@ -502,6 +503,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Kalshi](https://kalshi.com) | ashby | [https://jobs.ashbyhq.com/kalshi](https://jobs.ashbyhq.com/kalshi) |
 | Kamino | getro | [getro/kamino-2](getro/kamino-2) |
 | [Kamino Institutional Yield](https://kamino.com/earn/institutional) | ashby | [https://jobs.ashbyhq.com/kamino](https://jobs.ashbyhq.com/kamino) |
+| [Kamino Liquidity](https://kamino.com/liquidity) | ashby | [https://jobs.ashbyhq.com/kamino](https://jobs.ashbyhq.com/kamino) |
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
@@ -715,7 +717,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | OtterSec | getro | [getro/ottersec](getro/ottersec) |
 | P2P.org | ashby | [https://jobs.ashbyhq.com/p2p.org](https://jobs.ashbyhq.com/p2p.org) |
 | [Pact](https://app.pact.fi) | ashby | [https://jobs.ashbyhq.com/pactfi](https://jobs.ashbyhq.com/pactfi) |
-| [PancakeSwap AMM](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
+| [pancakeswap-amm](https://pancakeswap.finance/) | custom | [custom/pancakeswap-amm](custom/pancakeswap-amm) |
 | [Pando Leaf](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
 | [Pando Rings](https://pando.im) | bamboohr | [https://pando.bamboohr.com/careers](https://pando.bamboohr.com/careers) |
 | Panther Protocol | greenhouse | [https://boards.greenhouse.io/pantherlabs](https://boards.greenhouse.io/pantherlabs) |
@@ -813,7 +815,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Ritual | greenhouse | [https://boards.greenhouse.io/ritual](https://boards.greenhouse.io/ritual) |
 | River | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
 | [River Omni-CDP](https://app.riverai.inc/) | ashby | [https://jobs.ashbyhq.com/river](https://jobs.ashbyhq.com/river) |
-| [Robinhood](https://robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
+| [Robinhood](https://careers.robinhood.com) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | [Robinhood Chain Bridge](https://robinhood.com/us/en/chain/) | greenhouse | [https://boards.greenhouse.io/robinhood](https://boards.greenhouse.io/robinhood) |
 | [RockawayX](https://rockawayx.com/) | workable | [https://apply.workable.com/rockawayx](https://apply.workable.com/rockawayx) |
 | Rolla | bamboohr | [https://rolla.bamboohr.com/careers](https://rolla.bamboohr.com/careers) |
@@ -870,7 +872,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Somnia | ashby | [https://jobs.ashbyhq.com/somnia](https://jobs.ashbyhq.com/somnia) |
 | [Sonic Gateway](https://gateway.soniclabs.com/ethereum/sonic/s) | greenhouse | [https://boards.greenhouse.io/sonic](https://boards.greenhouse.io/sonic) |
 | [Sonic ICP](https://sonic.ooo) | greenhouse | [https://boards.greenhouse.io/sonic](https://boards.greenhouse.io/sonic) |
-| [Soon](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
+| [SOON](https://soo.network/) | getro | [getro/soon-2](getro/soon-2) |
 | Sorare | ashby | [https://jobs.ashbyhq.com/sorare](https://jobs.ashbyhq.com/sorare) |
 | [Sorare Bridge](https://sorare.com/) | ashby | [https://jobs.ashbyhq.com/sorare](https://jobs.ashbyhq.com/sorare) |
 | [Spark Savings](https://spark.finance/) | recruitee | [https://spark.recruitee.com](https://spark.recruitee.com) |
