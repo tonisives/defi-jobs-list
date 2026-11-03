@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-02
+**Last updated:** 2026-11-03
 
-**Total protocols:** 1033
+**Total protocols:** 1035
 
 ## Protocols
 
@@ -358,6 +358,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Figure Markets | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Figure Markets Democratized Prime](https://www.figure.com/crypto-backed-loan/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Figure Markets Exchange](https://www.figuremarkets.com/crypto-exchange/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
+| [Figure Markets Prime](https://www.figure.com/crypto-backed-loan/) | greenhouse | [https://boards.greenhouse.io/figure](https://boards.greenhouse.io/figure) |
 | [Fin](https://kujira.network/spot/) | getro | [getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284](getro/fin-2-b3fb2a58-d799-4aac-a7c1-c0a9f10ba284) |
 | Find Satoshi Lab | greenhouse | [https://boards.greenhouse.io/find](https://boards.greenhouse.io/find) |
 | Fireblocks | greenhouse | [https://boards.greenhouse.io/fireblocks](https://boards.greenhouse.io/fireblocks) |
@@ -373,6 +374,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Flipside Crypto | greenhouse | [https://boards.greenhouse.io/flipside](https://boards.greenhouse.io/flipside) |
 | [Flipster](https://flipster.io) | lever | [https://jobs.lever.co/flipster](https://jobs.lever.co/flipster) |
 | Flow | recruitee | [https://flow.recruitee.com](https://flow.recruitee.com) |
+| [Flowdesk](https://www.flowdesk.co/) | greenhouse | [https://boards.greenhouse.io/flowdesk](https://boards.greenhouse.io/flowdesk) |
 | [FlowX Aggregator](https://flowx.finance) | bamboohr | [https://flowx.bamboohr.com/careers](https://flowx.bamboohr.com/careers) |
 | Fluence Labs | greenhouse | [https://boards.greenhouse.io/fluencelabs](https://boards.greenhouse.io/fluencelabs) |
 | [Flux Finance](https://fluxfinance.com) | ashby | [https://jobs.ashbyhq.com/flux](https://jobs.ashbyhq.com/flux) |
@@ -1012,7 +1014,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [WisdomTree](https://www.wisdomtreeprime.com/) | lever | [https://jobs.lever.co/wisdomtree](https://jobs.lever.co/wisdomtree) |
 | WOO | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
 | [WOO X](https://x.woo.org/en/trade) | greenhouse | [https://boards.greenhouse.io/woo](https://boards.greenhouse.io/woo) |
-| [WOOFi Earn](https://fi.woo.org/earn) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
+| [WOOFi Earn](https://woofi.com/en/trade/) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | [WOOFi Swap](https://woofi.com) | greenhouse | [https://boards.greenhouse.io/woofi](https://boards.greenhouse.io/woofi) |
 | [world](https://world.xyz/) | greenhouse | [https://boards.greenhouse.io/worldlabs](https://boards.greenhouse.io/worldlabs) |
 | World by Starra | ashby | [https://jobs.ashbyhq.com/world-foundation](https://jobs.ashbyhq.com/world-foundation) |
