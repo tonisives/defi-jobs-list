@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-03
+**Last updated:** 2026-11-04
 
-**Total protocols:** 1035
+**Total protocols:** 1036
 
 ## Protocols
 
@@ -476,6 +476,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | InfStones | lever | [https://jobs.lever.co/infstones](https://jobs.lever.co/infstones) |
 | [Injective Bridge](https://injective.com) | ashby | [https://jobs.ashbyhq.com/injective-labs](https://jobs.ashbyhq.com/injective-labs) |
 | Injective Labs | ashby | [https://jobs.ashbyhq.com/injective](https://jobs.ashbyhq.com/injective) |
+| [Injective Perps](https://injective.com) | ashby | [https://jobs.ashbyhq.com/injective](https://jobs.ashbyhq.com/injective) |
 | [InoSwap](https://inoswap.org/) | greenhouse | [https://boards.greenhouse.io/ino](https://boards.greenhouse.io/ino) |
 | Input Output | recruitee | [https://input.recruitee.com](https://input.recruitee.com) |
 | [InSwap](https://app.inswap.ai/) | bamboohr | [https://in.bamboohr.com/careers](https://in.bamboohr.com/careers) |
