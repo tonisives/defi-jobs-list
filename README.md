@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-08
+**Last updated:** 2026-11-09
 
 **Total protocols:** 1036
 
@@ -218,7 +218,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Cobo | greenhouse | [https://boards.greenhouse.io/cobo](https://boards.greenhouse.io/cobo) |
 | Codex | ashby | [https://jobs.ashbyhq.com/codex](https://jobs.ashbyhq.com/codex) |
 | Codigo | getro | [getro/codigo](getro/codigo) |
-| Coinbase | greenhouse | [https://boards.greenhouse.io/coinbase](https://boards.greenhouse.io/coinbase) |
+| [Coinbase](https://www.coinbase.com/) | greenhouse | [https://boards.greenhouse.io/coinbase](https://boards.greenhouse.io/coinbase) |
 | [CoinDCX](https://coindcx.com) | mynexthire | [https://coindcx.mynexthire.com](https://coindcx.mynexthire.com) |
 | Coinflow | ashby | [https://jobs.ashbyhq.com/coinflow](https://jobs.ashbyhq.com/coinflow) |
 | Coinflow Labs | getro | [getro/coinflow-labs](getro/coinflow-labs) |
