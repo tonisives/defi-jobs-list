@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-15
+**Last updated:** 2026-11-16
 
-**Total protocols:** 1036
+**Total protocols:** 1038
 
 ## Protocols
 
@@ -60,6 +60,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Anvil](https://anvil.xyz/) | bamboohr | [https://anvil.bamboohr.com/careers](https://anvil.bamboohr.com/careers) |
 | Anza | getro | [getro/anza-2](getro/anza-2) |
 | [Anzen V2](https://anzen.finance) | lever | [https://jobs.lever.co/anzen](https://jobs.lever.co/anzen) |
+| APEX DEX | greenhouse | [https://boards.greenhouse.io/apex](https://boards.greenhouse.io/apex) |
 | [Apex Omni](https://omni.apex.exchange) | greenhouse | [https://boards.greenhouse.io/apex](https://boards.greenhouse.io/apex) |
 | [ApeX Pro](https://www.apex.exchange/) | greenhouse | [https://boards.greenhouse.io/apex](https://boards.greenhouse.io/apex) |
 | [Apollo Diversified Credit Securitize Fund](https://securitize.io/primary-market/apollo-diversified-credit-securitize-fund) | greenhouse | [https://boards.greenhouse.io/apollo](https://boards.greenhouse.io/apollo) |
@@ -535,7 +536,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Latch](https://savings.latch.io/) | lever | [https://jobs.lever.co/latch](https://jobs.lever.co/latch) |
 | Lattice | greenhouse | [https://boards.greenhouse.io/lattice](https://boards.greenhouse.io/lattice) |
 | Layer | ashby | [https://jobs.ashbyhq.com/layerfi](https://jobs.ashbyhq.com/layerfi) |
-| [LayerZero](https://layerzero.network/) | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
+| [LayerZero](https://layerzero.network/) | ashby | [https://jobs.ashbyhq.com/layerzerolabs](https://jobs.ashbyhq.com/layerzerolabs) |
 | LayerZero Labs | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | [LayerZero V2](https://layerzero.network/) | greenhouse | [https://boards.greenhouse.io/layerzerolabs](https://boards.greenhouse.io/layerzerolabs) |
 | Ledger | ashby | [https://jobs.ashbyhq.com/ledger](https://jobs.ashbyhq.com/ledger) |
@@ -714,6 +715,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Origin Protocol | recruitee | [https://origin.recruitee.com](https://origin.recruitee.com) |
 | [Origin Sonic](https://www.originprotocol.com) | bamboohr | [https://origin.bamboohr.com/careers](https://origin.bamboohr.com/careers) |
 | Original | greenhouse | [https://boards.greenhouse.io/original](https://boards.greenhouse.io/original) |
+| Orion Aggregator | bamboohr | [https://orion.bamboohr.com/careers](https://orion.bamboohr.com/careers) |
 | Osmosis | greenhouse | [https://boards.greenhouse.io/osmosis](https://boards.greenhouse.io/osmosis) |
 | [Osmosis DEX](https://osmosis.zone/) | greenhouse | [https://boards.greenhouse.io/osmosisdex](https://boards.greenhouse.io/osmosisdex) |
 | [Ostium](https://www.ostium.io/) | ashby | [https://jobs.ashbyhq.com/ostium](https://jobs.ashbyhq.com/ostium) |
