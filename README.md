@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-16
+**Last updated:** 2026-11-18
 
 **Total protocols:** 1038
 
@@ -511,7 +511,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Kast | getro | [getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05](getro/kast-2-ea67dfad-ab09-48d0-81ed-001a66156d05) |
 | [Katana](https://app.katana.so) | ashby | [https://jobs.ashbyhq.com/katana](https://jobs.ashbyhq.com/katana) |
 | [KEEP Network](https://app.threshold.network/) | ashby | [https://jobs.ashbyhq.com/keep](https://jobs.ashbyhq.com/keep) |
-| [Kelp](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | greenhouse | [https://boards.greenhouse.io/kerneldao](https://boards.greenhouse.io/kerneldao) |
+| [Kelp](https://kerneldao.com/kelp/restake/) | greenhouse | [https://boards.greenhouse.io/kerneldao](https://boards.greenhouse.io/kerneldao) |
 | [Kernel](https://kelpdao.xyz/restake/?utm_source=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10) | ashby | [https://jobs.ashbyhq.com/kernel](https://jobs.ashbyhq.com/kernel) |
 | [Keyrock](https://keyrock.com/) | ashby | [https://jobs.ashbyhq.com/keyrock](https://jobs.ashbyhq.com/keyrock) |
 | Kiln | bamboohr | [https://kiln.bamboohr.com/careers](https://kiln.bamboohr.com/careers) |
