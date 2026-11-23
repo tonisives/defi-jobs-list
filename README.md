@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-22
+**Last updated:** 2026-11-23
 
-**Total protocols:** 1038
+**Total protocols:** 1039
 
 ## Protocols
 
@@ -929,6 +929,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Superstate | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
 | [Superstate USCC](https://superstate.com/) | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
 | [Superstate USTB](https://superstate.com/) | lever | [https://jobs.lever.co/superstate](https://jobs.lever.co/superstate) |
+| Sweep Finance | ashby | [https://jobs.ashbyhq.com/sweep](https://jobs.ashbyhq.com/sweep) |
 | Swig | getro | [getro/swig](getro/swig) |
 | [SwissBorg](https://swissborg.com) | lever | [https://jobs.lever.co/swissborg](https://jobs.lever.co/swissborg) |
 | [Symbiotic](https://symbiotic.fi) | ashby | [https://jobs.ashbyhq.com/symbiotic](https://jobs.ashbyhq.com/symbiotic) |
