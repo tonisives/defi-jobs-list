@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-23
+**Last updated:** 2026-11-24
 
-**Total protocols:** 1039
+**Total protocols:** 1040
 
 ## Protocols
 
@@ -811,6 +811,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [Resolv](https://app.resolv.xyz) | wellfound | [https://wellfound.com/company/resolv-labs-1/jobs](https://wellfound.com/company/resolv-labs-1/jobs) |
 | [Resonate Finance](https://resonate.finance) | greenhouse | [https://boards.greenhouse.io/resonate](https://boards.greenhouse.io/resonate) |
 | [Rhino.fi](https://rhino.fi) | bamboohr | [https://rhinolabs.bamboohr.com/careers](https://rhinolabs.bamboohr.com/careers) |
+| [Rho Protocol](https://www.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
 | [Rho X](https://x.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
 | [Rho X LP Vault](https://www.rho.trading/) | ashby | [https://jobs.ashbyhq.com/rho](https://jobs.ashbyhq.com/rho) |
 | Ripple | greenhouse | [https://boards.greenhouse.io/ripple](https://boards.greenhouse.io/ripple) |
