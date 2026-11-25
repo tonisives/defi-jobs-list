@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-24
+**Last updated:** 2026-11-25
 
-**Total protocols:** 1040
+**Total protocols:** 1041
 
 ## Protocols
 
@@ -21,6 +21,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | a16z crypto | greenhouse | [https://boards.greenhouse.io/a16z](https://boards.greenhouse.io/a16z) |
 | Aave | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [Aave Aptos](https://aave.com) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
+| [Aave Arc](https://aave.com) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [Aave Horizon RWA](https://app.aave.com/markets/?marketName=proto_horizon_v3) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [Aave V4](https://aave.com) | lever | [https://jobs.lever.co/aavelabs](https://jobs.lever.co/aavelabs) |
 | [ABC Pool](https://confluxpos.cn) | greenhouse | [https://boards.greenhouse.io/abc](https://boards.greenhouse.io/abc) |
