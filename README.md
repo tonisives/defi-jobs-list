@@ -2,9 +2,9 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-26
+**Last updated:** 2026-11-27
 
-**Total protocols:** 1041
+**Total protocols:** 1042
 
 ## Protocols
 
@@ -804,6 +804,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | Reef Finance | recruitee | [https://reef.recruitee.com](https://reef.recruitee.com) |
 | Refi Hub | getro | [getro/refi-hub](getro/refi-hub) |
 | Reflect | getro | [getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325](getro/reflect-3-85cbf5dd-d74e-4be7-8b71-6f87ff6d1325) |
+| Reifydb | getro | [getro/reifydb](getro/reifydb) |
 | [RelayChain](https://www.relaychain.com) | lever | [https://jobs.lever.co/relay](https://jobs.lever.co/relay) |
 | Render Foundation | ashby | [https://jobs.ashbyhq.com/render](https://jobs.ashbyhq.com/render) |
 | [Renegade](https://trade.renegade.fi) | lever | [https://jobs.lever.co/renegade](https://jobs.lever.co/renegade) |
