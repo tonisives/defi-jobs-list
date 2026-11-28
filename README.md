@@ -2,7 +2,7 @@
 
 A curated list of DeFi protocols and their job boards, automatically updated daily.
 
-**Last updated:** 2026-11-27
+**Last updated:** 2026-11-28
 
 **Total protocols:** 1042
 
@@ -224,7 +224,7 @@ A curated list of DeFi protocols and their job boards, automatically updated dai
 | [CoinDCX](https://coindcx.com) | mynexthire | [https://coindcx.mynexthire.com](https://coindcx.mynexthire.com) |
 | Coinflow | ashby | [https://jobs.ashbyhq.com/coinflow](https://jobs.ashbyhq.com/coinflow) |
 | Coinflow Labs | getro | [getro/coinflow-labs](getro/coinflow-labs) |
-| CoinGecko | lever | [https://jobs.lever.co/coingecko](https://jobs.lever.co/coingecko) |
+| Coingecko | lever | [https://jobs.lever.co/coingecko](https://jobs.lever.co/coingecko) |
 | Coinhako | ashby | [https://jobs.ashbyhq.com/coinhako](https://jobs.ashbyhq.com/coinhako) |
 | CoinJar | workable | [https://apply.workable.com/coinjar](https://apply.workable.com/coinjar) |
 | CoinMarketCap | lever | [https://jobs.lever.co/coinmarketcap](https://jobs.lever.co/coinmarketcap) |
